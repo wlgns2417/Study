@@ -1,0 +1,3001 @@
+﻿rank,expression,count,frequency_score,source
+1,i don't,5505,74.8,OpenSubtitles v2018 / OPUS
+2,you know,4304,72.7,OpenSubtitles v2018 / OPUS
+3,all right,3885,71.8,OpenSubtitles v2018 / OPUS
+4,thank you,3750,71.5,OpenSubtitles v2018 / OPUS
+5,want to,3220,70.2,OpenSubtitles v2018 / OPUS
+6,come on,3071,69.7,OpenSubtitles v2018 / OPUS
+7,i know,2892,69.2,OpenSubtitles v2018 / OPUS
+8,out of,2770,68.9,OpenSubtitles v2018 / OPUS
+9,don't know,2268,67.1,OpenSubtitles v2018 / OPUS
+10,you want,2211,66.9,OpenSubtitles v2018 / OPUS
+11,i think,2162,66.7,OpenSubtitles v2018 / OPUS
+12,you don't,2098,66.4,OpenSubtitles v2018 / OPUS
+13,to get,1950,65.8,OpenSubtitles v2018 / OPUS
+14,don't you,1948,65.8,OpenSubtitles v2018 / OPUS
+15,i'm not,1934,65.7,OpenSubtitles v2018 / OPUS
+16,i want,1809,65.2,OpenSubtitles v2018 / OPUS
+17,you think,1749,64.9,OpenSubtitles v2018 / OPUS
+18,i didn't,1701,64.6,OpenSubtitles v2018 / OPUS
+19,i can't,1678,64.5,OpenSubtitles v2018 / OPUS
+20,let me,1653,64.4,OpenSubtitles v2018 / OPUS
+21,i don't know,1631,64.3,OpenSubtitles v2018 / OPUS
+22,it's a,1590,64.0,OpenSubtitles v2018 / OPUS
+23,tell you,1450,63.2,OpenSubtitles v2018 / OPUS
+24,the way,1359,62.7,OpenSubtitles v2018 / OPUS
+25,tell me,1350,62.6,OpenSubtitles v2018 / OPUS
+26,know what,1317,62.4,OpenSubtitles v2018 / OPUS
+27,a good,1284,62.2,OpenSubtitles v2018 / OPUS
+28,i'm sorry,1196,61.6,OpenSubtitles v2018 / OPUS
+29,you get,1126,61.0,OpenSubtitles v2018 / OPUS
+30,back to,1122,61.0,OpenSubtitles v2018 / OPUS
+31,you mean,1109,60.9,OpenSubtitles v2018 / OPUS
+32,i've got,1105,60.9,OpenSubtitles v2018 / OPUS
+33,in this,1100,60.8,OpenSubtitles v2018 / OPUS
+34,you can't,1100,60.8,OpenSubtitles v2018 / OPUS
+35,don't want,1091,60.8,OpenSubtitles v2018 / OPUS
+36,look at,1089,60.7,OpenSubtitles v2018 / OPUS
+37,in your,1072,60.6,OpenSubtitles v2018 / OPUS
+38,give me,1039,60.3,OpenSubtitles v2018 / OPUS
+39,it's not,1038,60.3,OpenSubtitles v2018 / OPUS
+40,just a,1030,60.3,OpenSubtitles v2018 / OPUS
+41,what's the,1000,60.0,OpenSubtitles v2018 / OPUS
+42,get out,974,59.8,OpenSubtitles v2018 / OPUS
+43,i want to,929,59.4,OpenSubtitles v2018 / OPUS
+44,i just,915,59.2,OpenSubtitles v2018 / OPUS
+45,i guess,881,58.9,OpenSubtitles v2018 / OPUS
+46,you're not,880,58.9,OpenSubtitles v2018 / OPUS
+47,to know,857,58.7,OpenSubtitles v2018 / OPUS
+48,that's all,855,58.6,OpenSubtitles v2018 / OPUS
+49,you go,853,58.6,OpenSubtitles v2018 / OPUS
+50,let's go,848,58.6,OpenSubtitles v2018 / OPUS
+51,the time,842,58.5,OpenSubtitles v2018 / OPUS
+52,good night,840,58.5,OpenSubtitles v2018 / OPUS
+53,i'll be,837,58.5,OpenSubtitles v2018 / OPUS
+54,to take,836,58.5,OpenSubtitles v2018 / OPUS
+55,take it,835,58.4,OpenSubtitles v2018 / OPUS
+56,you want to,825,58.3,OpenSubtitles v2018 / OPUS
+57,i don't want,810,58.2,OpenSubtitles v2018 / OPUS
+58,come in,809,58.2,OpenSubtitles v2018 / OPUS
+59,why don't,808,58.2,OpenSubtitles v2018 / OPUS
+60,take a,804,58.1,OpenSubtitles v2018 / OPUS
+61,there's a,789,58.0,OpenSubtitles v2018 / OPUS
+62,trying to,789,58.0,OpenSubtitles v2018 / OPUS
+63,to tell,774,57.8,OpenSubtitles v2018 / OPUS
+64,come to,761,57.6,OpenSubtitles v2018 / OPUS
+65,i've been,746,57.5,OpenSubtitles v2018 / OPUS
+66,i'm going,745,57.5,OpenSubtitles v2018 / OPUS
+67,sit down,744,57.4,OpenSubtitles v2018 / OPUS
+68,do you know,741,57.4,OpenSubtitles v2018 / OPUS
+69,i won't,740,57.4,OpenSubtitles v2018 / OPUS
+70,get the,740,57.4,OpenSubtitles v2018 / OPUS
+71,it's the,737,57.4,OpenSubtitles v2018 / OPUS
+72,i mean,728,57.3,OpenSubtitles v2018 / OPUS
+73,get a,727,57.2,OpenSubtitles v2018 / OPUS
+74,do you want,726,57.2,OpenSubtitles v2018 / OPUS
+75,you've got,725,57.2,OpenSubtitles v2018 / OPUS
+76,the matter,721,57.2,OpenSubtitles v2018 / OPUS
+77,what happened,716,57.1,OpenSubtitles v2018 / OPUS
+78,to come,716,57.1,OpenSubtitles v2018 / OPUS
+79,come back,716,57.1,OpenSubtitles v2018 / OPUS
+80,i'd like,716,57.1,OpenSubtitles v2018 / OPUS
+81,give you,705,57.0,OpenSubtitles v2018 / OPUS
+82,do you think,704,57.0,OpenSubtitles v2018 / OPUS
+83,that's what,695,56.9,OpenSubtitles v2018 / OPUS
+84,i'm sure,692,56.8,OpenSubtitles v2018 / OPUS
+85,know how,687,56.8,OpenSubtitles v2018 / OPUS
+86,get it,687,56.8,OpenSubtitles v2018 / OPUS
+87,it's all,685,56.7,OpenSubtitles v2018 / OPUS
+88,isn't it,669,56.5,OpenSubtitles v2018 / OPUS
+89,up the,669,56.5,OpenSubtitles v2018 / OPUS
+90,why don't you,664,56.5,OpenSubtitles v2018 / OPUS
+91,you in,646,56.2,OpenSubtitles v2018 / OPUS
+92,there's no,645,56.2,OpenSubtitles v2018 / OPUS
+93,talk to,643,56.2,OpenSubtitles v2018 / OPUS
+94,that's the,640,56.1,OpenSubtitles v2018 / OPUS
+95,he's a,631,56.0,OpenSubtitles v2018 / OPUS
+96,on your,628,56.0,OpenSubtitles v2018 / OPUS
+97,know that,626,55.9,OpenSubtitles v2018 / OPUS
+98,care of,619,55.8,OpenSubtitles v2018 / OPUS
+99,you didn't,602,55.6,OpenSubtitles v2018 / OPUS
+100,in that,601,55.6,OpenSubtitles v2018 / OPUS
+101,don't want to,588,55.4,OpenSubtitles v2018 / OPUS
+102,i love,587,55.4,OpenSubtitles v2018 / OPUS
+103,come here,586,55.4,OpenSubtitles v2018 / OPUS
+104,to work,586,55.4,OpenSubtitles v2018 / OPUS
+105,don't be,584,55.3,OpenSubtitles v2018 / OPUS
+106,wait a,583,55.3,OpenSubtitles v2018 / OPUS
+107,try to,582,55.3,OpenSubtitles v2018 / OPUS
+108,take the,581,55.3,OpenSubtitles v2018 / OPUS
+109,you're a,576,55.2,OpenSubtitles v2018 / OPUS
+110,that's right,573,55.2,OpenSubtitles v2018 / OPUS
+111,what's the matter,572,55.2,OpenSubtitles v2018 / OPUS
+112,i wouldn't,572,55.2,OpenSubtitles v2018 / OPUS
+113,you won't,564,55.0,OpenSubtitles v2018 / OPUS
+114,tell him,554,54.9,OpenSubtitles v2018 / OPUS
+115,that's why,554,54.9,OpenSubtitles v2018 / OPUS
+116,aren't you,553,54.9,OpenSubtitles v2018 / OPUS
+117,don't worry,553,54.9,OpenSubtitles v2018 / OPUS
+118,i haven't,550,54.8,OpenSubtitles v2018 / OPUS
+119,don't think,547,54.8,OpenSubtitles v2018 / OPUS
+120,didn't you,546,54.8,OpenSubtitles v2018 / OPUS
+121,i'm gonna,542,54.7,OpenSubtitles v2018 / OPUS
+122,and get,540,54.7,OpenSubtitles v2018 / OPUS
+123,out of here,540,54.7,OpenSubtitles v2018 / OPUS
+124,you come,539,54.6,OpenSubtitles v2018 / OPUS
+125,away from,539,54.6,OpenSubtitles v2018 / OPUS
+126,won't be,536,54.6,OpenSubtitles v2018 / OPUS
+127,i'm afraid,536,54.6,OpenSubtitles v2018 / OPUS
+128,i get,533,54.6,OpenSubtitles v2018 / OPUS
+129,to talk,531,54.5,OpenSubtitles v2018 / OPUS
+130,that way,527,54.5,OpenSubtitles v2018 / OPUS
+131,get out of,518,54.3,OpenSubtitles v2018 / OPUS
+132,take care,515,54.3,OpenSubtitles v2018 / OPUS
+133,i'm a,514,54.2,OpenSubtitles v2018 / OPUS
+134,shut up,513,54.2,OpenSubtitles v2018 / OPUS
+135,i need,511,54.2,OpenSubtitles v2018 / OPUS
+136,this way,507,54.1,OpenSubtitles v2018 / OPUS
+137,i'm going to,506,54.1,OpenSubtitles v2018 / OPUS
+138,to give,505,54.1,OpenSubtitles v2018 / OPUS
+139,go back,504,54.1,OpenSubtitles v2018 / OPUS
+140,go ahead,503,54.0,OpenSubtitles v2018 / OPUS
+141,to find,499,54.0,OpenSubtitles v2018 / OPUS
+142,in his,496,53.9,OpenSubtitles v2018 / OPUS
+143,want you,488,53.8,OpenSubtitles v2018 / OPUS
+144,wait a minute,485,53.7,OpenSubtitles v2018 / OPUS
+145,you know what,484,53.7,OpenSubtitles v2018 / OPUS
+146,let's get,483,53.7,OpenSubtitles v2018 / OPUS
+147,i'd like to,480,53.6,OpenSubtitles v2018 / OPUS
+148,you just,478,53.6,OpenSubtitles v2018 / OPUS
+149,don't have,478,53.6,OpenSubtitles v2018 / OPUS
+150,good morning,477,53.6,OpenSubtitles v2018 / OPUS
+151,what's wrong,475,53.6,OpenSubtitles v2018 / OPUS
+152,i feel,472,53.5,OpenSubtitles v2018 / OPUS
+153,in there,468,53.4,OpenSubtitles v2018 / OPUS
+154,i'll take,467,53.4,OpenSubtitles v2018 / OPUS
+155,think i,467,53.4,OpenSubtitles v2018 / OPUS
+156,i don't want to,464,53.3,OpenSubtitles v2018 / OPUS
+157,think of,460,53.3,OpenSubtitles v2018 / OPUS
+158,over there,454,53.2,OpenSubtitles v2018 / OPUS
+159,take care of,452,53.1,OpenSubtitles v2018 / OPUS
+160,the right,451,53.1,OpenSubtitles v2018 / OPUS
+161,know the,449,53.1,OpenSubtitles v2018 / OPUS
+162,time to,449,53.1,OpenSubtitles v2018 / OPUS
+163,but it's,448,53.0,OpenSubtitles v2018 / OPUS
+164,over here,447,53.0,OpenSubtitles v2018 / OPUS
+165,don't understand,445,53.0,OpenSubtitles v2018 / OPUS
+166,it's just,444,53.0,OpenSubtitles v2018 / OPUS
+167,that's a,444,53.0,OpenSubtitles v2018 / OPUS
+168,you tell,443,52.9,OpenSubtitles v2018 / OPUS
+169,a thing,442,52.9,OpenSubtitles v2018 / OPUS
+170,gonna be,433,52.7,OpenSubtitles v2018 / OPUS
+171,get you,433,52.7,OpenSubtitles v2018 / OPUS
+172,way to,432,52.7,OpenSubtitles v2018 / OPUS
+173,think so,429,52.7,OpenSubtitles v2018 / OPUS
+174,think you,428,52.6,OpenSubtitles v2018 / OPUS
+175,was in,427,52.6,OpenSubtitles v2018 / OPUS
+176,you take,422,52.5,OpenSubtitles v2018 / OPUS
+177,you'd better,419,52.5,OpenSubtitles v2018 / OPUS
+178,we don't,418,52.4,OpenSubtitles v2018 / OPUS
+179,you really,418,52.4,OpenSubtitles v2018 / OPUS
+180,in here,417,52.4,OpenSubtitles v2018 / OPUS
+181,let us,415,52.4,OpenSubtitles v2018 / OPUS
+182,right now,414,52.4,OpenSubtitles v2018 / OPUS
+183,love you,412,52.3,OpenSubtitles v2018 / OPUS
+184,do you mean,412,52.3,OpenSubtitles v2018 / OPUS
+185,long time,411,52.3,OpenSubtitles v2018 / OPUS
+186,why didn't,410,52.3,OpenSubtitles v2018 / OPUS
+187,i'll get,409,52.3,OpenSubtitles v2018 / OPUS
+188,it out,409,52.3,OpenSubtitles v2018 / OPUS
+189,know it,406,52.2,OpenSubtitles v2018 / OPUS
+190,one thing,405,52.2,OpenSubtitles v2018 / OPUS
+191,that's not,404,52.1,OpenSubtitles v2018 / OPUS
+192,didn't know,403,52.1,OpenSubtitles v2018 / OPUS
+193,you need,400,52.1,OpenSubtitles v2018 / OPUS
+194,but i'm,400,52.1,OpenSubtitles v2018 / OPUS
+195,what do you want,396,52.0,OpenSubtitles v2018 / OPUS
+196,we've got,394,51.9,OpenSubtitles v2018 / OPUS
+197,you'll be,394,51.9,OpenSubtitles v2018 / OPUS
+198,happened to,391,51.9,OpenSubtitles v2018 / OPUS
+199,good evening,391,51.9,OpenSubtitles v2018 / OPUS
+200,i couldn't,390,51.8,OpenSubtitles v2018 / OPUS
+201,up and,388,51.8,OpenSubtitles v2018 / OPUS
+202,need to,387,51.8,OpenSubtitles v2018 / OPUS
+203,want me,385,51.7,OpenSubtitles v2018 / OPUS
+204,you're going,384,51.7,OpenSubtitles v2018 / OPUS
+205,a look,384,51.7,OpenSubtitles v2018 / OPUS
+206,off the,384,51.7,OpenSubtitles v2018 / OPUS
+207,and i'm,384,51.7,OpenSubtitles v2018 / OPUS
+208,i'll go,380,51.6,OpenSubtitles v2018 / OPUS
+209,was just,378,51.6,OpenSubtitles v2018 / OPUS
+210,out of the,378,51.6,OpenSubtitles v2018 / OPUS
+211,on that,377,51.5,OpenSubtitles v2018 / OPUS
+212,want you to,377,51.5,OpenSubtitles v2018 / OPUS
+213,we'll be,376,51.5,OpenSubtitles v2018 / OPUS
+214,find out,376,51.5,OpenSubtitles v2018 / OPUS
+215,and i'll,375,51.5,OpenSubtitles v2018 / OPUS
+216,if you want,375,51.5,OpenSubtitles v2018 / OPUS
+217,over the,374,51.5,OpenSubtitles v2018 / OPUS
+218,why didn't you,370,51.4,OpenSubtitles v2018 / OPUS
+219,i tell,370,51.4,OpenSubtitles v2018 / OPUS
+220,in love,370,51.4,OpenSubtitles v2018 / OPUS
+221,i don't think,368,51.3,OpenSubtitles v2018 / OPUS
+222,to tell you,368,51.3,OpenSubtitles v2018 / OPUS
+223,him in,366,51.3,OpenSubtitles v2018 / OPUS
+224,get to,366,51.3,OpenSubtitles v2018 / OPUS
+225,don't get,366,51.3,OpenSubtitles v2018 / OPUS
+226,a long time,365,51.3,OpenSubtitles v2018 / OPUS
+227,i love you,365,51.3,OpenSubtitles v2018 / OPUS
+228,we can't,364,51.2,OpenSubtitles v2018 / OPUS
+229,what do you mean,363,51.2,OpenSubtitles v2018 / OPUS
+230,don't know what,363,51.2,OpenSubtitles v2018 / OPUS
+231,on you,361,51.2,OpenSubtitles v2018 / OPUS
+232,we're going,361,51.2,OpenSubtitles v2018 / OPUS
+233,get back,359,51.1,OpenSubtitles v2018 / OPUS
+234,you don't know,356,51.1,OpenSubtitles v2018 / OPUS
+235,to think,355,51.0,OpenSubtitles v2018 / OPUS
+236,know i,355,51.0,OpenSubtitles v2018 / OPUS
+237,don't like,354,51.0,OpenSubtitles v2018 / OPUS
+238,down to,353,51.0,OpenSubtitles v2018 / OPUS
+239,on his,352,51.0,OpenSubtitles v2018 / OPUS
+240,know you,351,50.9,OpenSubtitles v2018 / OPUS
+241,very good,349,50.9,OpenSubtitles v2018 / OPUS
+242,you wouldn't,348,50.9,OpenSubtitles v2018 / OPUS
+243,on this,345,50.8,OpenSubtitles v2018 / OPUS
+244,this time,343,50.7,OpenSubtitles v2018 / OPUS
+245,out there,343,50.7,OpenSubtitles v2018 / OPUS
+246,get him,342,50.7,OpenSubtitles v2018 / OPUS
+247,get in,339,50.6,OpenSubtitles v2018 / OPUS
+248,hurry up,337,50.6,OpenSubtitles v2018 / OPUS
+249,sure you,336,50.6,OpenSubtitles v2018 / OPUS
+250,let him,336,50.6,OpenSubtitles v2018 / OPUS
+251,go home,336,50.6,OpenSubtitles v2018 / OPUS
+252,just like,335,50.5,OpenSubtitles v2018 / OPUS
+253,come along,335,50.5,OpenSubtitles v2018 / OPUS
+254,right to,335,50.5,OpenSubtitles v2018 / OPUS
+255,you're in,334,50.5,OpenSubtitles v2018 / OPUS
+256,we'll have,334,50.5,OpenSubtitles v2018 / OPUS
+257,let you,333,50.5,OpenSubtitles v2018 / OPUS
+258,not in,332,50.4,OpenSubtitles v2018 / OPUS
+259,can get,332,50.4,OpenSubtitles v2018 / OPUS
+260,he's got,332,50.4,OpenSubtitles v2018 / OPUS
+261,if you're,331,50.4,OpenSubtitles v2018 / OPUS
+262,know about,331,50.4,OpenSubtitles v2018 / OPUS
+263,if you don't,329,50.4,OpenSubtitles v2018 / OPUS
+264,you look,328,50.3,OpenSubtitles v2018 / OPUS
+265,going on,328,50.3,OpenSubtitles v2018 / OPUS
+266,don't care,328,50.3,OpenSubtitles v2018 / OPUS
+267,good bye,326,50.3,OpenSubtitles v2018 / OPUS
+268,i'll tell,324,50.2,OpenSubtitles v2018 / OPUS
+269,wait for,323,50.2,OpenSubtitles v2018 / OPUS
+270,go to the,322,50.2,OpenSubtitles v2018 / OPUS
+271,up with,322,50.2,OpenSubtitles v2018 / OPUS
+272,you feel,322,50.2,OpenSubtitles v2018 / OPUS
+273,up there,321,50.2,OpenSubtitles v2018 / OPUS
+274,just the,321,50.2,OpenSubtitles v2018 / OPUS
+275,you sure,321,50.2,OpenSubtitles v2018 / OPUS
+276,all over,320,50.1,OpenSubtitles v2018 / OPUS
+277,can't be,318,50.1,OpenSubtitles v2018 / OPUS
+278,get out of here,318,50.1,OpenSubtitles v2018 / OPUS
+279,believe me,317,50.0,OpenSubtitles v2018 / OPUS
+280,give him,316,50.0,OpenSubtitles v2018 / OPUS
+281,it wasn't,316,50.0,OpenSubtitles v2018 / OPUS
+282,in our,314,50.0,OpenSubtitles v2018 / OPUS
+283,right away,313,49.9,OpenSubtitles v2018 / OPUS
+284,we get,313,49.9,OpenSubtitles v2018 / OPUS
+285,need a,312,49.9,OpenSubtitles v2018 / OPUS
+286,think about,312,49.9,OpenSubtitles v2018 / OPUS
+287,he doesn't,312,49.9,OpenSubtitles v2018 / OPUS
+288,know why,311,49.9,OpenSubtitles v2018 / OPUS
+289,you've been,311,49.9,OpenSubtitles v2018 / OPUS
+290,you've got to,310,49.9,OpenSubtitles v2018 / OPUS
+291,let's see,309,49.8,OpenSubtitles v2018 / OPUS
+292,to talk to,309,49.8,OpenSubtitles v2018 / OPUS
+293,want me to,308,49.8,OpenSubtitles v2018 / OPUS
+294,you mind,308,49.8,OpenSubtitles v2018 / OPUS
+295,get up,307,49.8,OpenSubtitles v2018 / OPUS
+296,wrong with,307,49.8,OpenSubtitles v2018 / OPUS
+297,don't let,307,49.8,OpenSubtitles v2018 / OPUS
+298,get some,306,49.7,OpenSubtitles v2018 / OPUS
+299,give it,306,49.7,OpenSubtitles v2018 / OPUS
+300,go away,305,49.7,OpenSubtitles v2018 / OPUS
+301,he didn't,303,49.7,OpenSubtitles v2018 / OPUS
+302,happen to,303,49.7,OpenSubtitles v2018 / OPUS
+303,i'm in,299,49.5,OpenSubtitles v2018 / OPUS
+304,it's too,299,49.5,OpenSubtitles v2018 / OPUS
+305,me out,299,49.5,OpenSubtitles v2018 / OPUS
+306,down there,298,49.5,OpenSubtitles v2018 / OPUS
+307,i tell you,296,49.5,OpenSubtitles v2018 / OPUS
+308,right here,296,49.5,OpenSubtitles v2018 / OPUS
+309,spider's web,296,49.5,OpenSubtitles v2018 / OPUS
+310,give me a,295,49.4,OpenSubtitles v2018 / OPUS
+311,get me,295,49.4,OpenSubtitles v2018 / OPUS
+312,it won't,295,49.4,OpenSubtitles v2018 / OPUS
+313,hold it,294,49.4,OpenSubtitles v2018 / OPUS
+314,it doesn't,292,49.3,OpenSubtitles v2018 / OPUS
+315,go out,291,49.3,OpenSubtitles v2018 / OPUS
+316,i want you,290,49.3,OpenSubtitles v2018 / OPUS
+317,don't make,289,49.2,OpenSubtitles v2018 / OPUS
+318,i don't care,289,49.2,OpenSubtitles v2018 / OPUS
+319,time i,288,49.2,OpenSubtitles v2018 / OPUS
+320,i'll have,288,49.2,OpenSubtitles v2018 / OPUS
+321,i'll give,287,49.2,OpenSubtitles v2018 / OPUS
+322,it's all right,287,49.2,OpenSubtitles v2018 / OPUS
+323,i'll do,286,49.2,OpenSubtitles v2018 / OPUS
+324,i wanna,283,49.1,OpenSubtitles v2018 / OPUS
+325,go and,283,49.1,OpenSubtitles v2018 / OPUS
+326,get that,278,48.9,OpenSubtitles v2018 / OPUS
+327,out on,277,48.9,OpenSubtitles v2018 / OPUS
+328,well that's,277,48.9,OpenSubtitles v2018 / OPUS
+329,it's my,276,48.8,OpenSubtitles v2018 / OPUS
+330,i remember,276,48.8,OpenSubtitles v2018 / OPUS
+331,get your,276,48.8,OpenSubtitles v2018 / OPUS
+332,you're the,275,48.8,OpenSubtitles v2018 / OPUS
+333,here in,275,48.8,OpenSubtitles v2018 / OPUS
+334,have to go,274,48.8,OpenSubtitles v2018 / OPUS
+335,around here,274,48.8,OpenSubtitles v2018 / OPUS
+336,back to the,271,48.7,OpenSubtitles v2018 / OPUS
+337,go with,271,48.7,OpenSubtitles v2018 / OPUS
+338,be back,271,48.7,OpenSubtitles v2018 / OPUS
+339,don't mind,271,48.7,OpenSubtitles v2018 / OPUS
+340,good to,270,48.7,OpenSubtitles v2018 / OPUS
+341,i don't understand,270,48.7,OpenSubtitles v2018 / OPUS
+342,they don't,269,48.6,OpenSubtitles v2018 / OPUS
+343,did you get,269,48.6,OpenSubtitles v2018 / OPUS
+344,you'll have,268,48.6,OpenSubtitles v2018 / OPUS
+345,i'm just,267,48.6,OpenSubtitles v2018 / OPUS
+346,all the time,267,48.6,OpenSubtitles v2018 / OPUS
+347,well it's,265,48.5,OpenSubtitles v2018 / OPUS
+348,he's not,265,48.5,OpenSubtitles v2018 / OPUS
+349,up here,265,48.5,OpenSubtitles v2018 / OPUS
+350,better get,265,48.5,OpenSubtitles v2018 / OPUS
+351,you're going to,263,48.4,OpenSubtitles v2018 / OPUS
+352,down the,263,48.4,OpenSubtitles v2018 / OPUS
+353,you know that,262,48.4,OpenSubtitles v2018 / OPUS
+354,get away,262,48.4,OpenSubtitles v2018 / OPUS
+355,i'll see,260,48.3,OpenSubtitles v2018 / OPUS
+356,can't you,260,48.3,OpenSubtitles v2018 / OPUS
+357,come out,259,48.3,OpenSubtitles v2018 / OPUS
+358,it isn't,259,48.3,OpenSubtitles v2018 / OPUS
+359,maybe i,259,48.3,OpenSubtitles v2018 / OPUS
+360,think i'm,258,48.3,OpenSubtitles v2018 / OPUS
+361,you want me,258,48.3,OpenSubtitles v2018 / OPUS
+362,come and,258,48.3,OpenSubtitles v2018 / OPUS
+363,please don't,257,48.2,OpenSubtitles v2018 / OPUS
+364,first time,257,48.2,OpenSubtitles v2018 / OPUS
+365,take your,257,48.2,OpenSubtitles v2018 / OPUS
+366,you haven't,256,48.2,OpenSubtitles v2018 / OPUS
+367,it's been,255,48.2,OpenSubtitles v2018 / OPUS
+368,tell them,255,48.2,OpenSubtitles v2018 / OPUS
+369,good luck,255,48.2,OpenSubtitles v2018 / OPUS
+370,i've never,255,48.2,OpenSubtitles v2018 / OPUS
+371,let go,255,48.2,OpenSubtitles v2018 / OPUS
+372,in the morning,255,48.2,OpenSubtitles v2018 / OPUS
+373,i want you to,255,48.2,OpenSubtitles v2018 / OPUS
+374,think that,255,48.2,OpenSubtitles v2018 / OPUS
+375,didn't have,255,48.2,OpenSubtitles v2018 / OPUS
+376,thank you very,254,48.1,OpenSubtitles v2018 / OPUS
+377,can't do,253,48.1,OpenSubtitles v2018 / OPUS
+378,he can't,253,48.1,OpenSubtitles v2018 / OPUS
+379,take him,252,48.1,OpenSubtitles v2018 / OPUS
+380,go back to,251,48.0,OpenSubtitles v2018 / OPUS
+381,to look,251,48.0,OpenSubtitles v2018 / OPUS
+382,you up,251,48.0,OpenSubtitles v2018 / OPUS
+383,thank you very much,251,48.0,OpenSubtitles v2018 / OPUS
+384,be all right,251,48.0,OpenSubtitles v2018 / OPUS
+385,after all,250,48.0,OpenSubtitles v2018 / OPUS
+386,in and,249,48.0,OpenSubtitles v2018 / OPUS
+387,what's that,248,47.9,OpenSubtitles v2018 / OPUS
+388,take this,248,47.9,OpenSubtitles v2018 / OPUS
+389,matter of,248,47.9,OpenSubtitles v2018 / OPUS
+390,forget it,247,47.9,OpenSubtitles v2018 / OPUS
+391,you find,247,47.9,OpenSubtitles v2018 / OPUS
+392,i believe,246,47.9,OpenSubtitles v2018 / OPUS
+393,i've got a,246,47.9,OpenSubtitles v2018 / OPUS
+394,want to see,246,47.9,OpenSubtitles v2018 / OPUS
+395,i'd better,246,47.9,OpenSubtitles v2018 / OPUS
+396,i'd have,246,47.9,OpenSubtitles v2018 / OPUS
+397,i didn't know,246,47.9,OpenSubtitles v2018 / OPUS
+398,and that's,245,47.8,OpenSubtitles v2018 / OPUS
+399,and you're,244,47.8,OpenSubtitles v2018 / OPUS
+400,know where,244,47.8,OpenSubtitles v2018 / OPUS
+401,tell her,243,47.7,OpenSubtitles v2018 / OPUS
+402,you wanna,243,47.7,OpenSubtitles v2018 / OPUS
+403,i don't know what,242,47.7,OpenSubtitles v2018 / OPUS
+404,i'd be,242,47.7,OpenSubtitles v2018 / OPUS
+405,call me,241,47.7,OpenSubtitles v2018 / OPUS
+406,isn't that,240,47.6,OpenSubtitles v2018 / OPUS
+407,through the,240,47.6,OpenSubtitles v2018 / OPUS
+408,he's been,240,47.6,OpenSubtitles v2018 / OPUS
+409,let me go,239,47.6,OpenSubtitles v2018 / OPUS
+410,down and,239,47.6,OpenSubtitles v2018 / OPUS
+411,time for,238,47.6,OpenSubtitles v2018 / OPUS
+412,it'll be,238,47.6,OpenSubtitles v2018 / OPUS
+413,take you,238,47.6,OpenSubtitles v2018 / OPUS
+414,we won't,238,47.6,OpenSubtitles v2018 / OPUS
+415,we're going to,238,47.6,OpenSubtitles v2018 / OPUS
+416,take me,238,47.6,OpenSubtitles v2018 / OPUS
+417,take it easy,238,47.6,OpenSubtitles v2018 / OPUS
+418,never mind,238,47.6,OpenSubtitles v2018 / OPUS
+419,a matter,237,47.5,OpenSubtitles v2018 / OPUS
+420,there's nothing,237,47.5,OpenSubtitles v2018 / OPUS
+421,i've got to,237,47.5,OpenSubtitles v2018 / OPUS
+422,no matter,236,47.5,OpenSubtitles v2018 / OPUS
+423,to let,236,47.5,OpenSubtitles v2018 / OPUS
+424,out here,236,47.5,OpenSubtitles v2018 / OPUS
+425,that's it,236,47.5,OpenSubtitles v2018 / OPUS
+426,no thank,236,47.5,OpenSubtitles v2018 / OPUS
+427,no it's,235,47.5,OpenSubtitles v2018 / OPUS
+428,love with,235,47.5,OpenSubtitles v2018 / OPUS
+429,think it's,235,47.5,OpenSubtitles v2018 / OPUS
+430,talk about,234,47.4,OpenSubtitles v2018 / OPUS
+431,call it,234,47.4,OpenSubtitles v2018 / OPUS
+432,you out,233,47.4,OpenSubtitles v2018 / OPUS
+433,you know i,233,47.4,OpenSubtitles v2018 / OPUS
+434,across the,233,47.4,OpenSubtitles v2018 / OPUS
+435,after the,233,47.4,OpenSubtitles v2018 / OPUS
+436,no thank you,233,47.4,OpenSubtitles v2018 / OPUS
+437,find it,232,47.3,OpenSubtitles v2018 / OPUS
+438,you'll get,231,47.3,OpenSubtitles v2018 / OPUS
+439,what you're,231,47.3,OpenSubtitles v2018 / OPUS
+440,what's your,230,47.3,OpenSubtitles v2018 / OPUS
+441,in love with,230,47.3,OpenSubtitles v2018 / OPUS
+442,out to,230,47.3,OpenSubtitles v2018 / OPUS
+443,i take,230,47.3,OpenSubtitles v2018 / OPUS
+444,don't have to,230,47.3,OpenSubtitles v2018 / OPUS
+445,time you,230,47.3,OpenSubtitles v2018 / OPUS
+446,a matter of,230,47.3,OpenSubtitles v2018 / OPUS
+447,man in,229,47.2,OpenSubtitles v2018 / OPUS
+448,didn't want,228,47.2,OpenSubtitles v2018 / OPUS
+449,i'll tell you,227,47.2,OpenSubtitles v2018 / OPUS
+450,think it,227,47.2,OpenSubtitles v2018 / OPUS
+451,you're gonna,225,47.1,OpenSubtitles v2018 / OPUS
+452,to try,225,47.1,OpenSubtitles v2018 / OPUS
+453,think you're,225,47.1,OpenSubtitles v2018 / OPUS
+454,what do you think,225,47.1,OpenSubtitles v2018 / OPUS
+455,are you sure,225,47.1,OpenSubtitles v2018 / OPUS
+456,can't get,224,47.0,OpenSubtitles v2018 / OPUS
+457,by the way,224,47.0,OpenSubtitles v2018 / OPUS
+458,no thanks,223,47.0,OpenSubtitles v2018 / OPUS
+459,look like,223,47.0,OpenSubtitles v2018 / OPUS
+460,i was just,223,47.0,OpenSubtitles v2018 / OPUS
+461,want a,222,47.0,OpenSubtitles v2018 / OPUS
+462,good for,222,47.0,OpenSubtitles v2018 / OPUS
+463,over to,222,47.0,OpenSubtitles v2018 / OPUS
+464,she's a,221,46.9,OpenSubtitles v2018 / OPUS
+465,that in,221,46.9,OpenSubtitles v2018 / OPUS
+466,i come,221,46.9,OpenSubtitles v2018 / OPUS
+467,no need,221,46.9,OpenSubtitles v2018 / OPUS
+468,i'm so,221,46.9,OpenSubtitles v2018 / OPUS
+469,a fine,221,46.9,OpenSubtitles v2018 / OPUS
+470,that's why i,221,46.9,OpenSubtitles v2018 / OPUS
+471,won't you,221,46.9,OpenSubtitles v2018 / OPUS
+472,jolly good,221,46.9,OpenSubtitles v2018 / OPUS
+473,it's very,220,46.9,OpenSubtitles v2018 / OPUS
+474,don't wanna,219,46.8,OpenSubtitles v2018 / OPUS
+475,a bad,219,46.8,OpenSubtitles v2018 / OPUS
+476,get married,219,46.8,OpenSubtitles v2018 / OPUS
+477,thing to,219,46.8,OpenSubtitles v2018 / OPUS
+478,there's always,219,46.8,OpenSubtitles v2018 / OPUS
+479,good show,219,46.8,OpenSubtitles v2018 / OPUS
+480,you ain't,218,46.8,OpenSubtitles v2018 / OPUS
+481,and it's,217,46.8,OpenSubtitles v2018 / OPUS
+482,want to know,217,46.8,OpenSubtitles v2018 / OPUS
+483,talk to you,217,46.8,OpenSubtitles v2018 / OPUS
+484,come with,216,46.7,OpenSubtitles v2018 / OPUS
+485,i wasn't,216,46.7,OpenSubtitles v2018 / OPUS
+486,and in,216,46.7,OpenSubtitles v2018 / OPUS
+487,oh it's,216,46.7,OpenSubtitles v2018 / OPUS
+488,way you,215,46.7,OpenSubtitles v2018 / OPUS
+489,guess i,215,46.7,OpenSubtitles v2018 / OPUS
+490,i don't like,214,46.6,OpenSubtitles v2018 / OPUS
+491,we're not,214,46.6,OpenSubtitles v2018 / OPUS
+492,thank you sir,214,46.6,OpenSubtitles v2018 / OPUS
+493,out the,214,46.6,OpenSubtitles v2018 / OPUS
+494,i'll give you,214,46.6,OpenSubtitles v2018 / OPUS
+495,if it's,214,46.6,OpenSubtitles v2018 / OPUS
+496,out in,214,46.6,OpenSubtitles v2018 / OPUS
+497,in time,214,46.6,OpenSubtitles v2018 / OPUS
+498,i really,212,46.6,OpenSubtitles v2018 / OPUS
+499,what i mean,212,46.6,OpenSubtitles v2018 / OPUS
+500,you're just,212,46.6,OpenSubtitles v2018 / OPUS
+501,you want me to,211,46.5,OpenSubtitles v2018 / OPUS
+502,you in the,210,46.5,OpenSubtitles v2018 / OPUS
+503,what happened to,209,46.4,OpenSubtitles v2018 / OPUS
+504,you're right,209,46.4,OpenSubtitles v2018 / OPUS
+505,i'm the,209,46.4,OpenSubtitles v2018 / OPUS
+506,oh i'm,209,46.4,OpenSubtitles v2018 / OPUS
+507,come over,208,46.4,OpenSubtitles v2018 / OPUS
+508,you gonna,208,46.4,OpenSubtitles v2018 / OPUS
+509,up for,208,46.4,OpenSubtitles v2018 / OPUS
+510,believe it,208,46.4,OpenSubtitles v2018 / OPUS
+511,thank you for,208,46.4,OpenSubtitles v2018 / OPUS
+512,back in,207,46.4,OpenSubtitles v2018 / OPUS
+513,a time,206,46.3,OpenSubtitles v2018 / OPUS
+514,i hate,206,46.3,OpenSubtitles v2018 / OPUS
+515,we haven't,206,46.3,OpenSubtitles v2018 / OPUS
+516,the back,206,46.3,OpenSubtitles v2018 / OPUS
+517,out and,206,46.3,OpenSubtitles v2018 / OPUS
+518,matter with,206,46.3,OpenSubtitles v2018 / OPUS
+519,try it,205,46.3,OpenSubtitles v2018 / OPUS
+520,your mind,205,46.3,OpenSubtitles v2018 / OPUS
+521,we'll get,205,46.3,OpenSubtitles v2018 / OPUS
+522,if you want to,205,46.3,OpenSubtitles v2018 / OPUS
+523,will take,204,46.2,OpenSubtitles v2018 / OPUS
+524,know if,204,46.2,OpenSubtitles v2018 / OPUS
+525,the matter with,204,46.2,OpenSubtitles v2018 / OPUS
+526,him out,204,46.2,OpenSubtitles v2018 / OPUS
+527,you believe,203,46.2,OpenSubtitles v2018 / OPUS
+528,take my,203,46.2,OpenSubtitles v2018 / OPUS
+529,want to be,202,46.1,OpenSubtitles v2018 / OPUS
+530,i've had,202,46.1,OpenSubtitles v2018 / OPUS
+531,ready to,202,46.1,OpenSubtitles v2018 / OPUS
+532,no good,201,46.1,OpenSubtitles v2018 / OPUS
+533,my mind,200,46.1,OpenSubtitles v2018 / OPUS
+534,can't go,200,46.1,OpenSubtitles v2018 / OPUS
+535,not know,200,46.1,OpenSubtitles v2018 / OPUS
+536,in the world,200,46.1,OpenSubtitles v2018 / OPUS
+537,it's about,200,46.1,OpenSubtitles v2018 / OPUS
+538,what's wrong with,199,46.0,OpenSubtitles v2018 / OPUS
+539,yeah i,199,46.0,OpenSubtitles v2018 / OPUS
+540,tell the,199,46.0,OpenSubtitles v2018 / OPUS
+541,it's no,199,46.0,OpenSubtitles v2018 / OPUS
+542,maybe you,199,46.0,OpenSubtitles v2018 / OPUS
+543,you please,198,46.0,OpenSubtitles v2018 / OPUS
+544,you on,197,45.9,OpenSubtitles v2018 / OPUS
+545,were in,197,45.9,OpenSubtitles v2018 / OPUS
+546,hold on,197,45.9,OpenSubtitles v2018 / OPUS
+547,do you want to,196,45.9,OpenSubtitles v2018 / OPUS
+548,we know,196,45.9,OpenSubtitles v2018 / OPUS
+549,i give,196,45.9,OpenSubtitles v2018 / OPUS
+550,in front,195,45.8,OpenSubtitles v2018 / OPUS
+551,the wrong,195,45.8,OpenSubtitles v2018 / OPUS
+552,he won't,195,45.8,OpenSubtitles v2018 / OPUS
+553,you don't have,195,45.8,OpenSubtitles v2018 / OPUS
+554,get on,195,45.8,OpenSubtitles v2018 / OPUS
+555,let them,195,45.8,OpenSubtitles v2018 / OPUS
+556,and don't,194,45.8,OpenSubtitles v2018 / OPUS
+557,that's what i,194,45.8,OpenSubtitles v2018 / OPUS
+558,know a,193,45.8,OpenSubtitles v2018 / OPUS
+559,not gonna,193,45.8,OpenSubtitles v2018 / OPUS
+560,so good,193,45.8,OpenSubtitles v2018 / OPUS
+561,don't you think,193,45.8,OpenSubtitles v2018 / OPUS
+562,i'm glad,192,45.7,OpenSubtitles v2018 / OPUS
+563,in fact,192,45.7,OpenSubtitles v2018 / OPUS
+564,you'd be,192,45.7,OpenSubtitles v2018 / OPUS
+565,no i'm,191,45.7,OpenSubtitles v2018 / OPUS
+566,in her,191,45.7,OpenSubtitles v2018 / OPUS
+567,let her,191,45.7,OpenSubtitles v2018 / OPUS
+568,it's true,191,45.7,OpenSubtitles v2018 / OPUS
+569,what's going,190,45.6,OpenSubtitles v2018 / OPUS
+570,you know the,190,45.6,OpenSubtitles v2018 / OPUS
+571,we'd better,190,45.6,OpenSubtitles v2018 / OPUS
+572,don't look,189,45.6,OpenSubtitles v2018 / OPUS
+573,think he,189,45.6,OpenSubtitles v2018 / OPUS
+574,can go,188,45.5,OpenSubtitles v2018 / OPUS
+575,want it,188,45.5,OpenSubtitles v2018 / OPUS
+576,well i'm,188,45.5,OpenSubtitles v2018 / OPUS
+577,i'd rather,188,45.5,OpenSubtitles v2018 / OPUS
+578,he'll be,188,45.5,OpenSubtitles v2018 / OPUS
+579,but you're,188,45.5,OpenSubtitles v2018 / OPUS
+580,and we'll,188,45.5,OpenSubtitles v2018 / OPUS
+581,no i don't,187,45.5,OpenSubtitles v2018 / OPUS
+582,don't forget,187,45.5,OpenSubtitles v2018 / OPUS
+583,it off,187,45.5,OpenSubtitles v2018 / OPUS
+584,i know how,187,45.5,OpenSubtitles v2018 / OPUS
+585,interested in,187,45.5,OpenSubtitles v2018 / OPUS
+586,in front of,186,45.4,OpenSubtitles v2018 / OPUS
+587,let it,186,45.4,OpenSubtitles v2018 / OPUS
+588,let the,186,45.4,OpenSubtitles v2018 / OPUS
+589,he's in,186,45.4,OpenSubtitles v2018 / OPUS
+590,come up,186,45.4,OpenSubtitles v2018 / OPUS
+591,we're gonna,186,45.4,OpenSubtitles v2018 / OPUS
+592,you give,185,45.4,OpenSubtitles v2018 / OPUS
+593,him up,185,45.4,OpenSubtitles v2018 / OPUS
+594,i think i,185,45.4,OpenSubtitles v2018 / OPUS
+595,what's he,185,45.4,OpenSubtitles v2018 / OPUS
+596,will work,185,45.4,OpenSubtitles v2018 / OPUS
+597,on her,184,45.3,OpenSubtitles v2018 / OPUS
+598,and go,184,45.3,OpenSubtitles v2018 / OPUS
+599,get her,184,45.3,OpenSubtitles v2018 / OPUS
+600,we've been,184,45.3,OpenSubtitles v2018 / OPUS
+601,know how to,184,45.3,OpenSubtitles v2018 / OPUS
+602,look at the,184,45.3,OpenSubtitles v2018 / OPUS
+603,open up,184,45.3,OpenSubtitles v2018 / OPUS
+604,give it to,184,45.3,OpenSubtitles v2018 / OPUS
+605,take that,184,45.3,OpenSubtitles v2018 / OPUS
+606,and tell,183,45.3,OpenSubtitles v2018 / OPUS
+607,you all right,183,45.3,OpenSubtitles v2018 / OPUS
+608,you know how,183,45.3,OpenSubtitles v2018 / OPUS
+609,you back,183,45.3,OpenSubtitles v2018 / OPUS
+610,i gotta,183,45.3,OpenSubtitles v2018 / OPUS
+611,it's your,182,45.2,OpenSubtitles v2018 / OPUS
+612,want to go,182,45.2,OpenSubtitles v2018 / OPUS
+613,i find,182,45.2,OpenSubtitles v2018 / OPUS
+614,i've seen,182,45.2,OpenSubtitles v2018 / OPUS
+615,didn't do,182,45.2,OpenSubtitles v2018 / OPUS
+616,i guess i,182,45.2,OpenSubtitles v2018 / OPUS
+617,on our,181,45.2,OpenSubtitles v2018 / OPUS
+618,don't go,181,45.2,OpenSubtitles v2018 / OPUS
+619,pick up,181,45.2,OpenSubtitles v2018 / OPUS
+620,out for,181,45.2,OpenSubtitles v2018 / OPUS
+621,you tell me,181,45.2,OpenSubtitles v2018 / OPUS
+622,what do you know,181,45.2,OpenSubtitles v2018 / OPUS
+623,what time,181,45.2,OpenSubtitles v2018 / OPUS
+624,give her,179,45.1,OpenSubtitles v2018 / OPUS
+625,just don't,179,45.1,OpenSubtitles v2018 / OPUS
+626,to call,179,45.1,OpenSubtitles v2018 / OPUS
+627,i'm leaving,178,45.1,OpenSubtitles v2018 / OPUS
+628,that's all right,178,45.1,OpenSubtitles v2018 / OPUS
+629,i was in,178,45.1,OpenSubtitles v2018 / OPUS
+630,them in,178,45.1,OpenSubtitles v2018 / OPUS
+631,what's the matter with,178,45.1,OpenSubtitles v2018 / OPUS
+632,give you a,177,45.0,OpenSubtitles v2018 / OPUS
+633,we're all,177,45.0,OpenSubtitles v2018 / OPUS
+634,next time,176,45.0,OpenSubtitles v2018 / OPUS
+635,wouldn't have,176,45.0,OpenSubtitles v2018 / OPUS
+636,are in,176,45.0,OpenSubtitles v2018 / OPUS
+637,a look at,176,45.0,OpenSubtitles v2018 / OPUS
+638,i don't wanna,175,44.9,OpenSubtitles v2018 / OPUS
+639,that you're,175,44.9,OpenSubtitles v2018 / OPUS
+640,but there's,175,44.9,OpenSubtitles v2018 / OPUS
+641,think we,175,44.9,OpenSubtitles v2018 / OPUS
+642,wouldn't be,175,44.9,OpenSubtitles v2018 / OPUS
+643,your way,174,44.9,OpenSubtitles v2018 / OPUS
+644,love to,174,44.9,OpenSubtitles v2018 / OPUS
+645,no time,174,44.9,OpenSubtitles v2018 / OPUS
+646,that's enough,174,44.9,OpenSubtitles v2018 / OPUS
+647,we'll have to,174,44.9,OpenSubtitles v2018 / OPUS
+648,my way,173,44.8,OpenSubtitles v2018 / OPUS
+649,you call,173,44.8,OpenSubtitles v2018 / OPUS
+650,we want,173,44.8,OpenSubtitles v2018 / OPUS
+651,you'll never,173,44.8,OpenSubtitles v2018 / OPUS
+652,right in,173,44.8,OpenSubtitles v2018 / OPUS
+653,spider's web castle,173,44.8,OpenSubtitles v2018 / OPUS
+654,too bad,172,44.8,OpenSubtitles v2018 / OPUS
+655,what you mean,172,44.8,OpenSubtitles v2018 / OPUS
+656,that i'm,171,44.7,OpenSubtitles v2018 / OPUS
+657,i don't have,171,44.7,OpenSubtitles v2018 / OPUS
+658,have a look,171,44.7,OpenSubtitles v2018 / OPUS
+659,you'll have to,171,44.7,OpenSubtitles v2018 / OPUS
+660,just that,170,44.7,OpenSubtitles v2018 / OPUS
+661,find the,170,44.7,OpenSubtitles v2018 / OPUS
+662,you gotta,170,44.7,OpenSubtitles v2018 / OPUS
+663,we need,170,44.7,OpenSubtitles v2018 / OPUS
+664,i ain't,170,44.7,OpenSubtitles v2018 / OPUS
+665,your work,170,44.7,OpenSubtitles v2018 / OPUS
+666,her in,169,44.6,OpenSubtitles v2018 / OPUS
+667,where's the,169,44.6,OpenSubtitles v2018 / OPUS
+668,make sure,168,44.6,OpenSubtitles v2018 / OPUS
+669,i know what,168,44.6,OpenSubtitles v2018 / OPUS
+670,you talk,168,44.6,OpenSubtitles v2018 / OPUS
+671,think i'll,168,44.6,OpenSubtitles v2018 / OPUS
+672,oh thank,168,44.6,OpenSubtitles v2018 / OPUS
+673,the first time,168,44.6,OpenSubtitles v2018 / OPUS
+674,take a look,168,44.6,OpenSubtitles v2018 / OPUS
+675,don't need,168,44.6,OpenSubtitles v2018 / OPUS
+676,want to get,168,44.6,OpenSubtitles v2018 / OPUS
+677,they can't,168,44.6,OpenSubtitles v2018 / OPUS
+678,know it's,168,44.6,OpenSubtitles v2018 / OPUS
+679,give us,167,44.5,OpenSubtitles v2018 / OPUS
+680,give me the,167,44.5,OpenSubtitles v2018 / OPUS
+681,i'm getting,167,44.5,OpenSubtitles v2018 / OPUS
+682,don't see,167,44.5,OpenSubtitles v2018 / OPUS
+683,i'll see you,167,44.5,OpenSubtitles v2018 / OPUS
+684,he's going,167,44.5,OpenSubtitles v2018 / OPUS
+685,in court,167,44.5,OpenSubtitles v2018 / OPUS
+686,love me,166,44.5,OpenSubtitles v2018 / OPUS
+687,i know it,166,44.5,OpenSubtitles v2018 / OPUS
+688,it's like,166,44.5,OpenSubtitles v2018 / OPUS
+689,it's me,165,44.4,OpenSubtitles v2018 / OPUS
+690,a way,165,44.4,OpenSubtitles v2018 / OPUS
+691,better go,165,44.4,OpenSubtitles v2018 / OPUS
+692,care for,165,44.4,OpenSubtitles v2018 / OPUS
+693,up your,164,44.3,OpenSubtitles v2018 / OPUS
+694,you remember,164,44.3,OpenSubtitles v2018 / OPUS
+695,never go,164,44.3,OpenSubtitles v2018 / OPUS
+696,she's not,163,44.3,OpenSubtitles v2018 / OPUS
+697,out of my,163,44.3,OpenSubtitles v2018 / OPUS
+698,just got,163,44.3,OpenSubtitles v2018 / OPUS
+699,sorry to,163,44.3,OpenSubtitles v2018 / OPUS
+700,i'm here,162,44.2,OpenSubtitles v2018 / OPUS
+701,been in,162,44.2,OpenSubtitles v2018 / OPUS
+702,out of this,162,44.2,OpenSubtitles v2018 / OPUS
+703,won't have,162,44.2,OpenSubtitles v2018 / OPUS
+704,oh thank you,161,44.2,OpenSubtitles v2018 / OPUS
+705,will come,161,44.2,OpenSubtitles v2018 / OPUS
+706,around the,161,44.2,OpenSubtitles v2018 / OPUS
+707,they're all,161,44.2,OpenSubtitles v2018 / OPUS
+708,don't even,161,44.2,OpenSubtitles v2018 / OPUS
+709,sorry sir,161,44.2,OpenSubtitles v2018 / OPUS
+710,she'll be,160,44.1,OpenSubtitles v2018 / OPUS
+711,what's going on,160,44.1,OpenSubtitles v2018 / OPUS
+712,tell us,160,44.1,OpenSubtitles v2018 / OPUS
+713,get going,160,44.1,OpenSubtitles v2018 / OPUS
+714,down in,160,44.1,OpenSubtitles v2018 / OPUS
+715,get rid,160,44.1,OpenSubtitles v2018 / OPUS
+716,but i don't,159,44.1,OpenSubtitles v2018 / OPUS
+717,you shouldn't,159,44.1,OpenSubtitles v2018 / OPUS
+718,you don't have to,159,44.1,OpenSubtitles v2018 / OPUS
+719,well i'll,159,44.1,OpenSubtitles v2018 / OPUS
+720,i'll make,159,44.1,OpenSubtitles v2018 / OPUS
+721,just a minute,159,44.1,OpenSubtitles v2018 / OPUS
+722,give the,159,44.1,OpenSubtitles v2018 / OPUS
+723,get rid of,159,44.1,OpenSubtitles v2018 / OPUS
+724,blow up,159,44.1,OpenSubtitles v2018 / OPUS
+725,that's my,158,44.0,OpenSubtitles v2018 / OPUS
+726,get this,158,44.0,OpenSubtitles v2018 / OPUS
+727,when you're,158,44.0,OpenSubtitles v2018 / OPUS
+728,i'll try,158,44.0,OpenSubtitles v2018 / OPUS
+729,gonna do,157,44.0,OpenSubtitles v2018 / OPUS
+730,i think you,157,44.0,OpenSubtitles v2018 / OPUS
+731,what i'm,157,44.0,OpenSubtitles v2018 / OPUS
+732,can take,157,44.0,OpenSubtitles v2018 / OPUS
+733,how come,157,44.0,OpenSubtitles v2018 / OPUS
+734,call you,156,43.9,OpenSubtitles v2018 / OPUS
+735,was on,156,43.9,OpenSubtitles v2018 / OPUS
+736,ready for,156,43.9,OpenSubtitles v2018 / OPUS
+737,believe in,155,43.9,OpenSubtitles v2018 / OPUS
+738,sorry i,155,43.9,OpenSubtitles v2018 / OPUS
+739,the way you,155,43.9,OpenSubtitles v2018 / OPUS
+740,on him,155,43.9,OpenSubtitles v2018 / OPUS
+741,they didn't,155,43.9,OpenSubtitles v2018 / OPUS
+742,didn't want to,155,43.9,OpenSubtitles v2018 / OPUS
+743,to talk to you,155,43.9,OpenSubtitles v2018 / OPUS
+744,this thing,155,43.9,OpenSubtitles v2018 / OPUS
+745,i think it's,154,43.8,OpenSubtitles v2018 / OPUS
+746,you care,154,43.8,OpenSubtitles v2018 / OPUS
+747,up in the,154,43.8,OpenSubtitles v2018 / OPUS
+748,we just,153,43.8,OpenSubtitles v2018 / OPUS
+749,you know about,153,43.8,OpenSubtitles v2018 / OPUS
+750,i've done,153,43.8,OpenSubtitles v2018 / OPUS
+751,it down,153,43.8,OpenSubtitles v2018 / OPUS
+752,give up,153,43.8,OpenSubtitles v2018 / OPUS
+753,but don't,153,43.8,OpenSubtitles v2018 / OPUS
+754,want him,153,43.8,OpenSubtitles v2018 / OPUS
+755,in a few,153,43.8,OpenSubtitles v2018 / OPUS
+756,look at this,153,43.8,OpenSubtitles v2018 / OPUS
+757,i'd say,153,43.8,OpenSubtitles v2018 / OPUS
+758,you'd like,153,43.8,OpenSubtitles v2018 / OPUS
+759,and he's,152,43.7,OpenSubtitles v2018 / OPUS
+760,after you,152,43.7,OpenSubtitles v2018 / OPUS
+761,far away,152,43.7,OpenSubtitles v2018 / OPUS
+762,there's something,152,43.7,OpenSubtitles v2018 / OPUS
+763,mind if,152,43.7,OpenSubtitles v2018 / OPUS
+764,in case,151,43.6,OpenSubtitles v2018 / OPUS
+765,just as,151,43.6,OpenSubtitles v2018 / OPUS
+766,is just,151,43.6,OpenSubtitles v2018 / OPUS
+767,look at me,151,43.6,OpenSubtitles v2018 / OPUS
+768,you're all,151,43.6,OpenSubtitles v2018 / OPUS
+769,don't tell,151,43.6,OpenSubtitles v2018 / OPUS
+770,be right,151,43.6,OpenSubtitles v2018 / OPUS
+771,gonna have,150,43.6,OpenSubtitles v2018 / OPUS
+772,hey you,150,43.6,OpenSubtitles v2018 / OPUS
+773,don't do,150,43.6,OpenSubtitles v2018 / OPUS
+774,come from,150,43.6,OpenSubtitles v2018 / OPUS
+775,it just,150,43.6,OpenSubtitles v2018 / OPUS
+776,in the middle,150,43.6,OpenSubtitles v2018 / OPUS
+777,know who,150,43.6,OpenSubtitles v2018 / OPUS
+778,call the,150,43.6,OpenSubtitles v2018 / OPUS
+779,be sure,150,43.6,OpenSubtitles v2018 / OPUS
+780,come to the,149,43.5,OpenSubtitles v2018 / OPUS
+781,feel like,149,43.5,OpenSubtitles v2018 / OPUS
+782,don't bother,149,43.5,OpenSubtitles v2018 / OPUS
+783,the work,149,43.5,OpenSubtitles v2018 / OPUS
+784,carry on,149,43.5,OpenSubtitles v2018 / OPUS
+785,calm down,148,43.5,OpenSubtitles v2018 / OPUS
+786,it's an,148,43.5,OpenSubtitles v2018 / OPUS
+787,haven't you,148,43.5,OpenSubtitles v2018 / OPUS
+788,to believe,148,43.5,OpenSubtitles v2018 / OPUS
+789,get down,148,43.5,OpenSubtitles v2018 / OPUS
+790,i'm not going,148,43.5,OpenSubtitles v2018 / OPUS
+791,wake up,147,43.4,OpenSubtitles v2018 / OPUS
+792,there's the,147,43.4,OpenSubtitles v2018 / OPUS
+793,that's very,147,43.4,OpenSubtitles v2018 / OPUS
+794,to happen,147,43.4,OpenSubtitles v2018 / OPUS
+795,last time,146,43.3,OpenSubtitles v2018 / OPUS
+796,down here,146,43.3,OpenSubtitles v2018 / OPUS
+797,want the,146,43.3,OpenSubtitles v2018 / OPUS
+798,oh that's,146,43.3,OpenSubtitles v2018 / OPUS
+799,haven't got,146,43.3,OpenSubtitles v2018 / OPUS
+800,way i,146,43.3,OpenSubtitles v2018 / OPUS
+801,it's over,146,43.3,OpenSubtitles v2018 / OPUS
+802,yes i'm,145,43.3,OpenSubtitles v2018 / OPUS
+803,wait till,145,43.3,OpenSubtitles v2018 / OPUS
+804,in their,145,43.3,OpenSubtitles v2018 / OPUS
+805,you love,145,43.3,OpenSubtitles v2018 / OPUS
+806,don't believe,145,43.3,OpenSubtitles v2018 / OPUS
+807,just a little,145,43.3,OpenSubtitles v2018 / OPUS
+808,you let,145,43.3,OpenSubtitles v2018 / OPUS
+809,get off,145,43.3,OpenSubtitles v2018 / OPUS
+810,i'll never,144,43.2,OpenSubtitles v2018 / OPUS
+811,i think i'll,144,43.2,OpenSubtitles v2018 / OPUS
+812,it over,144,43.2,OpenSubtitles v2018 / OPUS
+813,think the,144,43.2,OpenSubtitles v2018 / OPUS
+814,his way,144,43.2,OpenSubtitles v2018 / OPUS
+815,thing i,144,43.2,OpenSubtitles v2018 / OPUS
+816,to hold,143,43.2,OpenSubtitles v2018 / OPUS
+817,if i'm,143,43.2,OpenSubtitles v2018 / OPUS
+818,good idea,143,43.2,OpenSubtitles v2018 / OPUS
+819,can't take,143,43.2,OpenSubtitles v2018 / OPUS
+820,get my,143,43.2,OpenSubtitles v2018 / OPUS
+821,was right,143,43.2,OpenSubtitles v2018 / OPUS
+822,would you mind,143,43.2,OpenSubtitles v2018 / OPUS
+823,now don't,143,43.2,OpenSubtitles v2018 / OPUS
+824,may never go,143,43.2,OpenSubtitles v2018 / OPUS
+825,never go home,143,43.2,OpenSubtitles v2018 / OPUS
+826,i may never go,143,43.2,OpenSubtitles v2018 / OPUS
+827,may never go home,143,43.2,OpenSubtitles v2018 / OPUS
+828,i may never go home,143,43.2,OpenSubtitles v2018 / OPUS
+829,need it,142,43.1,OpenSubtitles v2018 / OPUS
+830,will go,142,43.1,OpenSubtitles v2018 / OPUS
+831,in town,142,43.1,OpenSubtitles v2018 / OPUS
+832,look for,141,43.0,OpenSubtitles v2018 / OPUS
+833,live in,141,43.0,OpenSubtitles v2018 / OPUS
+834,find a,141,43.0,OpenSubtitles v2018 / OPUS
+835,it's only,141,43.0,OpenSubtitles v2018 / OPUS
+836,along with,141,43.0,OpenSubtitles v2018 / OPUS
+837,they won't,141,43.0,OpenSubtitles v2018 / OPUS
+838,know but,141,43.0,OpenSubtitles v2018 / OPUS
+839,all the way,141,43.0,OpenSubtitles v2018 / OPUS
+840,come over here,140,43.0,OpenSubtitles v2018 / OPUS
+841,just for,140,43.0,OpenSubtitles v2018 / OPUS
+842,maybe we,140,43.0,OpenSubtitles v2018 / OPUS
+843,and take,139,42.9,OpenSubtitles v2018 / OPUS
+844,back and,139,42.9,OpenSubtitles v2018 / OPUS
+845,could get,139,42.9,OpenSubtitles v2018 / OPUS
+846,mean you,139,42.9,OpenSubtitles v2018 / OPUS
+847,know this,139,42.9,OpenSubtitles v2018 / OPUS
+848,just a moment,139,42.9,OpenSubtitles v2018 / OPUS
+849,matter how,138,42.9,OpenSubtitles v2018 / OPUS
+850,out of it,138,42.9,OpenSubtitles v2018 / OPUS
+851,just to,138,42.9,OpenSubtitles v2018 / OPUS
+852,to tell me,138,42.9,OpenSubtitles v2018 / OPUS
+853,i didn't do,138,42.9,OpenSubtitles v2018 / OPUS
+854,be good,137,42.8,OpenSubtitles v2018 / OPUS
+855,work on,137,42.8,OpenSubtitles v2018 / OPUS
+856,not really,137,42.8,OpenSubtitles v2018 / OPUS
+857,can't help,136,42.7,OpenSubtitles v2018 / OPUS
+858,oh yeah,136,42.7,OpenSubtitles v2018 / OPUS
+859,come with me,136,42.7,OpenSubtitles v2018 / OPUS
+860,but i've,136,42.7,OpenSubtitles v2018 / OPUS
+861,i didn't want,136,42.7,OpenSubtitles v2018 / OPUS
+862,not think,136,42.7,OpenSubtitles v2018 / OPUS
+863,i think so,136,42.7,OpenSubtitles v2018 / OPUS
+864,her up,135,42.7,OpenSubtitles v2018 / OPUS
+865,mean to,135,42.7,OpenSubtitles v2018 / OPUS
+866,let's have,135,42.7,OpenSubtitles v2018 / OPUS
+867,i'm still,135,42.7,OpenSubtitles v2018 / OPUS
+868,i know you,135,42.7,OpenSubtitles v2018 / OPUS
+869,get there,135,42.7,OpenSubtitles v2018 / OPUS
+870,that won't,135,42.7,OpenSubtitles v2018 / OPUS
+871,place in,135,42.7,OpenSubtitles v2018 / OPUS
+872,time is,135,42.7,OpenSubtitles v2018 / OPUS
+873,in for,135,42.7,OpenSubtitles v2018 / OPUS
+874,to find out,135,42.7,OpenSubtitles v2018 / OPUS
+875,be ready,135,42.7,OpenSubtitles v2018 / OPUS
+876,never get,134,42.6,OpenSubtitles v2018 / OPUS
+877,after that,134,42.6,OpenSubtitles v2018 / OPUS
+878,can tell,134,42.6,OpenSubtitles v2018 / OPUS
+879,i'm all,134,42.6,OpenSubtitles v2018 / OPUS
+880,they want,134,42.6,OpenSubtitles v2018 / OPUS
+881,thing is,134,42.6,OpenSubtitles v2018 / OPUS
+882,we didn't,134,42.6,OpenSubtitles v2018 / OPUS
+883,have come,134,42.6,OpenSubtitles v2018 / OPUS
+884,off and,134,42.6,OpenSubtitles v2018 / OPUS
+885,believe that,133,42.5,OpenSubtitles v2018 / OPUS
+886,you think you,133,42.5,OpenSubtitles v2018 / OPUS
+887,and give,133,42.5,OpenSubtitles v2018 / OPUS
+888,know anything,133,42.5,OpenSubtitles v2018 / OPUS
+889,don't say,133,42.5,OpenSubtitles v2018 / OPUS
+890,it won't be,133,42.5,OpenSubtitles v2018 / OPUS
+891,to go back,133,42.5,OpenSubtitles v2018 / OPUS
+892,ain't no,133,42.5,OpenSubtitles v2018 / OPUS
+893,we've got to,133,42.5,OpenSubtitles v2018 / OPUS
+894,take her,132,42.5,OpenSubtitles v2018 / OPUS
+895,sorry for,132,42.5,OpenSubtitles v2018 / OPUS
+896,find him,132,42.5,OpenSubtitles v2018 / OPUS
+897,it's time,132,42.5,OpenSubtitles v2018 / OPUS
+898,he's the,132,42.5,OpenSubtitles v2018 / OPUS
+899,what's this,132,42.5,OpenSubtitles v2018 / OPUS
+900,can't stand,132,42.5,OpenSubtitles v2018 / OPUS
+901,just want,132,42.5,OpenSubtitles v2018 / OPUS
+902,sorry but,131,42.4,OpenSubtitles v2018 / OPUS
+903,but that's,131,42.4,OpenSubtitles v2018 / OPUS
+904,i look,130,42.3,OpenSubtitles v2018 / OPUS
+905,it's nothing,130,42.3,OpenSubtitles v2018 / OPUS
+906,you don't understand,130,42.3,OpenSubtitles v2018 / OPUS
+907,at the time,130,42.3,OpenSubtitles v2018 / OPUS
+908,are you all right,130,42.3,OpenSubtitles v2018 / OPUS
+909,just about,130,42.3,OpenSubtitles v2018 / OPUS
+910,in one,130,42.3,OpenSubtitles v2018 / OPUS
+911,but he's,130,42.3,OpenSubtitles v2018 / OPUS
+912,hold him,130,42.3,OpenSubtitles v2018 / OPUS
+913,now get,130,42.3,OpenSubtitles v2018 / OPUS
+914,there'll be,130,42.3,OpenSubtitles v2018 / OPUS
+915,sure i,130,42.3,OpenSubtitles v2018 / OPUS
+916,give in,130,42.3,OpenSubtitles v2018 / OPUS
+917,here we go,129,42.3,OpenSubtitles v2018 / OPUS
+918,it's for,129,42.3,OpenSubtitles v2018 / OPUS
+919,go over,129,42.3,OpenSubtitles v2018 / OPUS
+920,of time,129,42.3,OpenSubtitles v2018 / OPUS
+921,matter of fact,129,42.3,OpenSubtitles v2018 / OPUS
+922,that's just,129,42.3,OpenSubtitles v2018 / OPUS
+923,it's quite,129,42.3,OpenSubtitles v2018 / OPUS
+924,didn't i,128,42.2,OpenSubtitles v2018 / OPUS
+925,when i'm,128,42.2,OpenSubtitles v2018 / OPUS
+926,now look,128,42.2,OpenSubtitles v2018 / OPUS
+927,do you know what,128,42.2,OpenSubtitles v2018 / OPUS
+928,don't we,128,42.2,OpenSubtitles v2018 / OPUS
+929,gonna get,128,42.2,OpenSubtitles v2018 / OPUS
+930,back here,128,42.2,OpenSubtitles v2018 / OPUS
+931,in bed,128,42.2,OpenSubtitles v2018 / OPUS
+932,in paris,128,42.2,OpenSubtitles v2018 / OPUS
+933,but i'll,128,42.2,OpenSubtitles v2018 / OPUS
+934,doesn't matter,127,42.1,OpenSubtitles v2018 / OPUS
+935,what you want,127,42.1,OpenSubtitles v2018 / OPUS
+936,yes ma'am,127,42.1,OpenSubtitles v2018 / OPUS
+937,don't worry about,127,42.1,OpenSubtitles v2018 / OPUS
+938,you don't mind,127,42.1,OpenSubtitles v2018 / OPUS
+939,good fellow,127,42.1,OpenSubtitles v2018 / OPUS
+940,wanna go,127,42.1,OpenSubtitles v2018 / OPUS
+941,it's just that,127,42.1,OpenSubtitles v2018 / OPUS
+942,i'm on,126,42.1,OpenSubtitles v2018 / OPUS
+943,then i'll,126,42.1,OpenSubtitles v2018 / OPUS
+944,you know why,126,42.1,OpenSubtitles v2018 / OPUS
+945,what he's,126,42.1,OpenSubtitles v2018 / OPUS
+946,that's good,126,42.1,OpenSubtitles v2018 / OPUS
+947,back on,126,42.1,OpenSubtitles v2018 / OPUS
+948,sure that,126,42.1,OpenSubtitles v2018 / OPUS
+949,get back to,126,42.1,OpenSubtitles v2018 / OPUS
+950,only thing,126,42.1,OpenSubtitles v2018 / OPUS
+951,thanks for,126,42.1,OpenSubtitles v2018 / OPUS
+952,happy in,126,42.1,OpenSubtitles v2018 / OPUS
+953,on the night,126,42.1,OpenSubtitles v2018 / OPUS
+954,i'll show,125,42.0,OpenSubtitles v2018 / OPUS
+955,don't make me,125,42.0,OpenSubtitles v2018 / OPUS
+956,it back,125,42.0,OpenSubtitles v2018 / OPUS
+957,if there's,125,42.0,OpenSubtitles v2018 / OPUS
+958,know what i,125,42.0,OpenSubtitles v2018 / OPUS
+959,them out,125,42.0,OpenSubtitles v2018 / OPUS
+960,now let's,125,42.0,OpenSubtitles v2018 / OPUS
+961,look i,125,42.0,OpenSubtitles v2018 / OPUS
+962,not on,125,42.0,OpenSubtitles v2018 / OPUS
+963,you don't want,125,42.0,OpenSubtitles v2018 / OPUS
+964,i sure,125,42.0,OpenSubtitles v2018 / OPUS
+965,he's a jolly,125,42.0,OpenSubtitles v2018 / OPUS
+966,a jolly good,125,42.0,OpenSubtitles v2018 / OPUS
+967,jolly good fellow,125,42.0,OpenSubtitles v2018 / OPUS
+968,he's a jolly good,125,42.0,OpenSubtitles v2018 / OPUS
+969,a jolly good fellow,125,42.0,OpenSubtitles v2018 / OPUS
+970,he's a jolly good fellow,125,42.0,OpenSubtitles v2018 / OPUS
+971,over a,124,41.9,OpenSubtitles v2018 / OPUS
+972,on the other,124,41.9,OpenSubtitles v2018 / OPUS
+973,came in,124,41.9,OpenSubtitles v2018 / OPUS
+974,going back,124,41.9,OpenSubtitles v2018 / OPUS
+975,you think i,124,41.9,OpenSubtitles v2018 / OPUS
+976,where'd you,124,41.9,OpenSubtitles v2018 / OPUS
+977,for he's,124,41.9,OpenSubtitles v2018 / OPUS
+978,for he's a,124,41.9,OpenSubtitles v2018 / OPUS
+979,for he's a jolly,124,41.9,OpenSubtitles v2018 / OPUS
+980,for he's a jolly good,124,41.9,OpenSubtitles v2018 / OPUS
+981,well maybe,124,41.9,OpenSubtitles v2018 / OPUS
+982,no matter how,123,41.9,OpenSubtitles v2018 / OPUS
+983,she doesn't,123,41.9,OpenSubtitles v2018 / OPUS
+984,you couldn't,123,41.9,OpenSubtitles v2018 / OPUS
+985,she didn't,123,41.9,OpenSubtitles v2018 / OPUS
+986,what we're,123,41.9,OpenSubtitles v2018 / OPUS
+987,to get out,123,41.9,OpenSubtitles v2018 / OPUS
+988,it's you,123,41.9,OpenSubtitles v2018 / OPUS
+989,give me that,123,41.9,OpenSubtitles v2018 / OPUS
+990,for sure,123,41.9,OpenSubtitles v2018 / OPUS
+991,in all,123,41.9,OpenSubtitles v2018 / OPUS
+992,the only thing,123,41.9,OpenSubtitles v2018 / OPUS
+993,mind if i,123,41.9,OpenSubtitles v2018 / OPUS
+994,get them,123,41.9,OpenSubtitles v2018 / OPUS
+995,good enough,123,41.9,OpenSubtitles v2018 / OPUS
+996,if you'll,123,41.9,OpenSubtitles v2018 / OPUS
+997,in the middle of,123,41.9,OpenSubtitles v2018 / OPUS
+998,to wait,122,41.8,OpenSubtitles v2018 / OPUS
+999,down on,122,41.8,OpenSubtitles v2018 / OPUS
+1000,don't know why,122,41.8,OpenSubtitles v2018 / OPUS
+1001,have a good,122,41.8,OpenSubtitles v2018 / OPUS
+1002,i'm very,122,41.8,OpenSubtitles v2018 / OPUS
+1003,now on,122,41.8,OpenSubtitles v2018 / OPUS
+1004,and you know,122,41.8,OpenSubtitles v2018 / OPUS
+1005,time of,122,41.8,OpenSubtitles v2018 / OPUS
+1006,that's the way,122,41.8,OpenSubtitles v2018 / OPUS
+1007,he just,122,41.8,OpenSubtitles v2018 / OPUS
+1008,try and,122,41.8,OpenSubtitles v2018 / OPUS
+1009,care to,122,41.8,OpenSubtitles v2018 / OPUS
+1010,she's got,122,41.8,OpenSubtitles v2018 / OPUS
+1011,i'm not a,121,41.7,OpenSubtitles v2018 / OPUS
+1012,go get,121,41.7,OpenSubtitles v2018 / OPUS
+1013,me i'm,121,41.7,OpenSubtitles v2018 / OPUS
+1014,the good,121,41.7,OpenSubtitles v2018 / OPUS
+1015,on their,121,41.7,OpenSubtitles v2018 / OPUS
+1016,it ain't,121,41.7,OpenSubtitles v2018 / OPUS
+1017,if you'd,121,41.7,OpenSubtitles v2018 / OPUS
+1018,and i've,121,41.7,OpenSubtitles v2018 / OPUS
+1019,you get it,121,41.7,OpenSubtitles v2018 / OPUS
+1020,didn't do it,121,41.7,OpenSubtitles v2018 / OPUS
+1021,stay in,120,41.7,OpenSubtitles v2018 / OPUS
+1022,let me see,120,41.7,OpenSubtitles v2018 / OPUS
+1023,me out of,120,41.7,OpenSubtitles v2018 / OPUS
+1024,good day,120,41.7,OpenSubtitles v2018 / OPUS
+1025,did you find,119,41.6,OpenSubtitles v2018 / OPUS
+1026,as a matter,119,41.6,OpenSubtitles v2018 / OPUS
+1027,as a matter of,119,41.6,OpenSubtitles v2018 / OPUS
+1028,didn't get,119,41.6,OpenSubtitles v2018 / OPUS
+1029,the way i,119,41.6,OpenSubtitles v2018 / OPUS
+1030,know something,119,41.6,OpenSubtitles v2018 / OPUS
+1031,get us,119,41.6,OpenSubtitles v2018 / OPUS
+1032,you'll see,119,41.6,OpenSubtitles v2018 / OPUS
+1033,don't think so,119,41.6,OpenSubtitles v2018 / OPUS
+1034,know what you're,119,41.6,OpenSubtitles v2018 / OPUS
+1035,stand up,119,41.6,OpenSubtitles v2018 / OPUS
+1036,forget about,118,41.5,OpenSubtitles v2018 / OPUS
+1037,can find,118,41.5,OpenSubtitles v2018 / OPUS
+1038,it's been a,118,41.5,OpenSubtitles v2018 / OPUS
+1039,down to the,118,41.5,OpenSubtitles v2018 / OPUS
+1040,really want,118,41.5,OpenSubtitles v2018 / OPUS
+1041,a matter of fact,118,41.5,OpenSubtitles v2018 / OPUS
+1042,as a matter of fact,118,41.5,OpenSubtitles v2018 / OPUS
+1043,that's where,118,41.5,OpenSubtitles v2018 / OPUS
+1044,that's all i,118,41.5,OpenSubtitles v2018 / OPUS
+1045,so bad,118,41.5,OpenSubtitles v2018 / OPUS
+1046,coming in,118,41.5,OpenSubtitles v2018 / OPUS
+1047,in any,118,41.5,OpenSubtitles v2018 / OPUS
+1048,haven't the,118,41.5,OpenSubtitles v2018 / OPUS
+1049,in the jungle,118,41.5,OpenSubtitles v2018 / OPUS
+1050,they're going,118,41.5,OpenSubtitles v2018 / OPUS
+1051,now you're,117,41.4,OpenSubtitles v2018 / OPUS
+1052,do you know about,117,41.4,OpenSubtitles v2018 / OPUS
+1053,now i'm,117,41.4,OpenSubtitles v2018 / OPUS
+1054,you're so,117,41.4,OpenSubtitles v2018 / OPUS
+1055,go now,117,41.4,OpenSubtitles v2018 / OPUS
+1056,won't let,117,41.4,OpenSubtitles v2018 / OPUS
+1057,i'm tired,117,41.4,OpenSubtitles v2018 / OPUS
+1058,wouldn't know,117,41.4,OpenSubtitles v2018 / OPUS
+1059,to get the,117,41.4,OpenSubtitles v2018 / OPUS
+1060,he's going to,117,41.4,OpenSubtitles v2018 / OPUS
+1061,not just,117,41.4,OpenSubtitles v2018 / OPUS
+1062,what's your name,116,41.4,OpenSubtitles v2018 / OPUS
+1063,on let's,116,41.4,OpenSubtitles v2018 / OPUS
+1064,come on let's,116,41.4,OpenSubtitles v2018 / OPUS
+1065,it's so,116,41.4,OpenSubtitles v2018 / OPUS
+1066,he's gone,116,41.4,OpenSubtitles v2018 / OPUS
+1067,from now on,116,41.4,OpenSubtitles v2018 / OPUS
+1068,just one,116,41.4,OpenSubtitles v2018 / OPUS
+1069,go there,116,41.4,OpenSubtitles v2018 / OPUS
+1070,find you,116,41.4,OpenSubtitles v2018 / OPUS
+1071,did you know,116,41.4,OpenSubtitles v2018 / OPUS
+1072,stay away,116,41.4,OpenSubtitles v2018 / OPUS
+1073,i can't help,115,41.3,OpenSubtitles v2018 / OPUS
+1074,him back,115,41.3,OpenSubtitles v2018 / OPUS
+1075,think about it,115,41.3,OpenSubtitles v2018 / OPUS
+1076,i'll call,115,41.3,OpenSubtitles v2018 / OPUS
+1077,come back to,115,41.3,OpenSubtitles v2018 / OPUS
+1078,is right,115,41.3,OpenSubtitles v2018 / OPUS
+1079,run away,115,41.3,OpenSubtitles v2018 / OPUS
+1080,haven't been,115,41.3,OpenSubtitles v2018 / OPUS
+1081,them on,115,41.3,OpenSubtitles v2018 / OPUS
+1082,i don't think so,115,41.3,OpenSubtitles v2018 / OPUS
+1083,it right,114,41.2,OpenSubtitles v2018 / OPUS
+1084,but i'm not,114,41.2,OpenSubtitles v2018 / OPUS
+1085,that'll be,114,41.2,OpenSubtitles v2018 / OPUS
+1086,you out of,114,41.2,OpenSubtitles v2018 / OPUS
+1087,it's just a,114,41.2,OpenSubtitles v2018 / OPUS
+1088,just because,114,41.2,OpenSubtitles v2018 / OPUS
+1089,look here,114,41.2,OpenSubtitles v2018 / OPUS
+1090,good afternoon,114,41.2,OpenSubtitles v2018 / OPUS
+1091,thing to do,114,41.2,OpenSubtitles v2018 / OPUS
+1092,what's happened,114,41.2,OpenSubtitles v2018 / OPUS
+1093,i'm sick,114,41.2,OpenSubtitles v2018 / OPUS
+1094,that's how,113,41.1,OpenSubtitles v2018 / OPUS
+1095,not sure,113,41.1,OpenSubtitles v2018 / OPUS
+1096,maybe he,113,41.1,OpenSubtitles v2018 / OPUS
+1097,tell me what,113,41.1,OpenSubtitles v2018 / OPUS
+1098,it can't,113,41.1,OpenSubtitles v2018 / OPUS
+1099,don't know how,113,41.1,OpenSubtitles v2018 / OPUS
+1100,you've had,113,41.1,OpenSubtitles v2018 / OPUS
+1101,tell you what,113,41.1,OpenSubtitles v2018 / OPUS
+1102,well i don't,113,41.1,OpenSubtitles v2018 / OPUS
+1103,gonna take,113,41.1,OpenSubtitles v2018 / OPUS
+1104,if he's,113,41.1,OpenSubtitles v2018 / OPUS
+1105,isn't there,113,41.1,OpenSubtitles v2018 / OPUS
+1106,by now,113,41.1,OpenSubtitles v2018 / OPUS
+1107,let's not,113,41.1,OpenSubtitles v2018 / OPUS
+1108,and ready,113,41.1,OpenSubtitles v2018 / OPUS
+1109,gyeon woo's,112,41.1,OpenSubtitles v2018 / OPUS
+1110,where's your,112,41.1,OpenSubtitles v2018 / OPUS
+1111,same thing,112,41.1,OpenSubtitles v2018 / OPUS
+1112,take off,112,41.1,OpenSubtitles v2018 / OPUS
+1113,whole thing,112,41.1,OpenSubtitles v2018 / OPUS
+1114,go along,112,41.1,OpenSubtitles v2018 / OPUS
+1115,out a,112,41.1,OpenSubtitles v2018 / OPUS
+1116,you'll find,112,41.1,OpenSubtitles v2018 / OPUS
+1117,shouldn't have,111,41.0,OpenSubtitles v2018 / OPUS
+1118,all in,111,41.0,OpenSubtitles v2018 / OPUS
+1119,in the car,111,41.0,OpenSubtitles v2018 / OPUS
+1120,doesn't know,111,41.0,OpenSubtitles v2018 / OPUS
+1121,i don't see,111,41.0,OpenSubtitles v2018 / OPUS
+1122,i don't get,111,41.0,OpenSubtitles v2018 / OPUS
+1123,just an,111,41.0,OpenSubtitles v2018 / OPUS
+1124,it's good,111,41.0,OpenSubtitles v2018 / OPUS
+1125,a deal,111,41.0,OpenSubtitles v2018 / OPUS
+1126,just what,111,41.0,OpenSubtitles v2018 / OPUS
+1127,in jail,111,41.0,OpenSubtitles v2018 / OPUS
+1128,come home,111,41.0,OpenSubtitles v2018 / OPUS
+1129,has happened,111,41.0,OpenSubtitles v2018 / OPUS
+1130,terribly sorry,111,41.0,OpenSubtitles v2018 / OPUS
+1131,you're quite,111,41.0,OpenSubtitles v2018 / OPUS
+1132,away with,110,40.9,OpenSubtitles v2018 / OPUS
+1133,and look,110,40.9,OpenSubtitles v2018 / OPUS
+1134,me right,110,40.9,OpenSubtitles v2018 / OPUS
+1135,out with,110,40.9,OpenSubtitles v2018 / OPUS
+1136,take them,110,40.9,OpenSubtitles v2018 / OPUS
+1137,you're doing,110,40.9,OpenSubtitles v2018 / OPUS
+1138,it in the,110,40.9,OpenSubtitles v2018 / OPUS
+1139,to get a,110,40.9,OpenSubtitles v2018 / OPUS
+1140,i know that,110,40.9,OpenSubtitles v2018 / OPUS
+1141,don't talk,110,40.9,OpenSubtitles v2018 / OPUS
+1142,over and,110,40.9,OpenSubtitles v2018 / OPUS
+1143,i've ever,110,40.9,OpenSubtitles v2018 / OPUS
+1144,it on the,110,40.9,OpenSubtitles v2018 / OPUS
+1145,to get you,109,40.8,OpenSubtitles v2018 / OPUS
+1146,be over,109,40.8,OpenSubtitles v2018 / OPUS
+1147,don't know if,109,40.8,OpenSubtitles v2018 / OPUS
+1148,coming up,109,40.8,OpenSubtitles v2018 / OPUS
+1149,have time,109,40.8,OpenSubtitles v2018 / OPUS
+1150,and i don't,109,40.8,OpenSubtitles v2018 / OPUS
+1151,want to talk,109,40.8,OpenSubtitles v2018 / OPUS
+1152,pretty good,109,40.8,OpenSubtitles v2018 / OPUS
+1153,got to get,109,40.8,OpenSubtitles v2018 / OPUS
+1154,yes i know,109,40.8,OpenSubtitles v2018 / OPUS
+1155,me get,109,40.8,OpenSubtitles v2018 / OPUS
+1156,i need to,108,40.7,OpenSubtitles v2018 / OPUS
+1157,this isn't,108,40.7,OpenSubtitles v2018 / OPUS
+1158,know you're,108,40.7,OpenSubtitles v2018 / OPUS
+1159,i'll come,108,40.7,OpenSubtitles v2018 / OPUS
+1160,no right,108,40.7,OpenSubtitles v2018 / OPUS
+1161,here's your,108,40.7,OpenSubtitles v2018 / OPUS
+1162,you mean you,108,40.7,OpenSubtitles v2018 / OPUS
+1163,of spider's,108,40.7,OpenSubtitles v2018 / OPUS
+1164,i'm coming,107,40.7,OpenSubtitles v2018 / OPUS
+1165,you go to,107,40.7,OpenSubtitles v2018 / OPUS
+1166,it's going,107,40.7,OpenSubtitles v2018 / OPUS
+1167,go for,107,40.7,OpenSubtitles v2018 / OPUS
+1168,love him,107,40.7,OpenSubtitles v2018 / OPUS
+1169,you try,107,40.7,OpenSubtitles v2018 / OPUS
+1170,even know,107,40.7,OpenSubtitles v2018 / OPUS
+1171,stand by,107,40.7,OpenSubtitles v2018 / OPUS
+1172,know what you,107,40.7,OpenSubtitles v2018 / OPUS
+1173,why don't we,107,40.7,OpenSubtitles v2018 / OPUS
+1174,what's it,106,40.6,OpenSubtitles v2018 / OPUS
+1175,came back,106,40.6,OpenSubtitles v2018 / OPUS
+1176,i don't know if,106,40.6,OpenSubtitles v2018 / OPUS
+1177,it's better,106,40.6,OpenSubtitles v2018 / OPUS
+1178,along the,106,40.6,OpenSubtitles v2018 / OPUS
+1179,didn't you tell,106,40.6,OpenSubtitles v2018 / OPUS
+1180,do you mind,106,40.6,OpenSubtitles v2018 / OPUS
+1181,he's still,106,40.6,OpenSubtitles v2018 / OPUS
+1182,oh i'm sorry,106,40.6,OpenSubtitles v2018 / OPUS
+1183,i'll do it,105,40.5,OpenSubtitles v2018 / OPUS
+1184,was in the,105,40.5,OpenSubtitles v2018 / OPUS
+1185,on the way,105,40.5,OpenSubtitles v2018 / OPUS
+1186,get lost,105,40.5,OpenSubtitles v2018 / OPUS
+1187,must go,105,40.5,OpenSubtitles v2018 / OPUS
+1188,or i'll,105,40.5,OpenSubtitles v2018 / OPUS
+1189,you know it,105,40.5,OpenSubtitles v2018 / OPUS
+1190,you work,105,40.5,OpenSubtitles v2018 / OPUS
+1191,well you're,105,40.5,OpenSubtitles v2018 / OPUS
+1192,be out,105,40.5,OpenSubtitles v2018 / OPUS
+1193,i'm terribly,105,40.5,OpenSubtitles v2018 / OPUS
+1194,blow up the,105,40.5,OpenSubtitles v2018 / OPUS
+1195,in the west,105,40.5,OpenSubtitles v2018 / OPUS
+1196,you're an,104,40.4,OpenSubtitles v2018 / OPUS
+1197,doing in,104,40.4,OpenSubtitles v2018 / OPUS
+1198,we'll go,104,40.4,OpenSubtitles v2018 / OPUS
+1199,because i'm,104,40.4,OpenSubtitles v2018 / OPUS
+1200,talk to me,104,40.4,OpenSubtitles v2018 / OPUS
+1201,sure he,104,40.4,OpenSubtitles v2018 / OPUS
+1202,every time,104,40.4,OpenSubtitles v2018 / OPUS
+1203,no need to,104,40.4,OpenSubtitles v2018 / OPUS
+1204,up to the,104,40.4,OpenSubtitles v2018 / OPUS
+1205,on the night of,104,40.4,OpenSubtitles v2018 / OPUS
+1206,found out,103,40.3,OpenSubtitles v2018 / OPUS
+1207,let go of,103,40.3,OpenSubtitles v2018 / OPUS
+1208,know your,103,40.3,OpenSubtitles v2018 / OPUS
+1209,go into,103,40.3,OpenSubtitles v2018 / OPUS
+1210,in this country,103,40.3,OpenSubtitles v2018 / OPUS
+1211,do not know,103,40.3,OpenSubtitles v2018 / OPUS
+1212,me off,103,40.3,OpenSubtitles v2018 / OPUS
+1213,you think so,103,40.3,OpenSubtitles v2018 / OPUS
+1214,look in,103,40.3,OpenSubtitles v2018 / OPUS
+1215,out of there,103,40.3,OpenSubtitles v2018 / OPUS
+1216,i'll say,103,40.3,OpenSubtitles v2018 / OPUS
+1217,hold your,103,40.3,OpenSubtitles v2018 / OPUS
+1218,no i'm not,102,40.3,OpenSubtitles v2018 / OPUS
+1219,i don't know why,102,40.3,OpenSubtitles v2018 / OPUS
+1220,but i can't,102,40.3,OpenSubtitles v2018 / OPUS
+1221,in you,102,40.3,OpenSubtitles v2018 / OPUS
+1222,you were in,102,40.3,OpenSubtitles v2018 / OPUS
+1223,it away,102,40.3,OpenSubtitles v2018 / OPUS
+1224,in the back,102,40.3,OpenSubtitles v2018 / OPUS
+1225,you mustn't,102,40.3,OpenSubtitles v2018 / OPUS
+1226,they know,102,40.3,OpenSubtitles v2018 / OPUS
+1227,get away from,102,40.3,OpenSubtitles v2018 / OPUS
+1228,that's not true,102,40.3,OpenSubtitles v2018 / OPUS
+1229,to know that,102,40.3,OpenSubtitles v2018 / OPUS
+1230,they'll be,102,40.3,OpenSubtitles v2018 / OPUS
+1231,a right,102,40.3,OpenSubtitles v2018 / OPUS
+1232,i'll show you,101,40.2,OpenSubtitles v2018 / OPUS
+1233,other way,101,40.2,OpenSubtitles v2018 / OPUS
+1234,on earth,101,40.2,OpenSubtitles v2018 / OPUS
+1235,way of,101,40.2,OpenSubtitles v2018 / OPUS
+1236,don't leave,101,40.2,OpenSubtitles v2018 / OPUS
+1237,back there,101,40.2,OpenSubtitles v2018 / OPUS
+1238,didn't mean,101,40.2,OpenSubtitles v2018 / OPUS
+1239,in the hospital,101,40.2,OpenSubtitles v2018 / OPUS
+1240,in battle,101,40.2,OpenSubtitles v2018 / OPUS
+1241,you trying,101,40.2,OpenSubtitles v2018 / OPUS
+1242,you trying to,101,40.2,OpenSubtitles v2018 / OPUS
+1243,need for,101,40.2,OpenSubtitles v2018 / OPUS
+1244,once in,101,40.2,OpenSubtitles v2018 / OPUS
+1245,know he,101,40.2,OpenSubtitles v2018 / OPUS
+1246,as good,101,40.2,OpenSubtitles v2018 / OPUS
+1247,take over,101,40.2,OpenSubtitles v2018 / OPUS
+1248,what do you know about,101,40.2,OpenSubtitles v2018 / OPUS
+1249,right there,100,40.1,OpenSubtitles v2018 / OPUS
+1250,getting out,100,40.1,OpenSubtitles v2018 / OPUS
+1251,work for,100,40.1,OpenSubtitles v2018 / OPUS
+1252,picked up,100,40.1,OpenSubtitles v2018 / OPUS
+1253,don't want you,100,40.1,OpenSubtitles v2018 / OPUS
+1254,no don't,100,40.1,OpenSubtitles v2018 / OPUS
+1255,look at that,100,40.1,OpenSubtitles v2018 / OPUS
+1256,but it's not,100,40.1,OpenSubtitles v2018 / OPUS
+1257,say good,100,40.1,OpenSubtitles v2018 / OPUS
+1258,care what,100,40.1,OpenSubtitles v2018 / OPUS
+1259,you to come,100,40.1,OpenSubtitles v2018 / OPUS
+1260,didn't come,99,40.0,OpenSubtitles v2018 / OPUS
+1261,i'm looking,99,40.0,OpenSubtitles v2018 / OPUS
+1262,it's going to,99,40.0,OpenSubtitles v2018 / OPUS
+1263,maybe it,99,40.0,OpenSubtitles v2018 / OPUS
+1264,i have to go,99,40.0,OpenSubtitles v2018 / OPUS
+1265,i'm talking,99,40.0,OpenSubtitles v2018 / OPUS
+1266,that thing,99,40.0,OpenSubtitles v2018 / OPUS
+1267,the same thing,99,40.0,OpenSubtitles v2018 / OPUS
+1268,what i've,99,40.0,OpenSubtitles v2018 / OPUS
+1269,don't tell me,99,40.0,OpenSubtitles v2018 / OPUS
+1270,tell you that,99,40.0,OpenSubtitles v2018 / OPUS
+1271,i want to see,99,40.0,OpenSubtitles v2018 / OPUS
+1272,go down,99,40.0,OpenSubtitles v2018 / OPUS
+1273,off your,99,40.0,OpenSubtitles v2018 / OPUS
+1274,thing that,99,40.0,OpenSubtitles v2018 / OPUS
+1275,i'll have to,99,40.0,OpenSubtitles v2018 / OPUS
+1276,oh sure,99,40.0,OpenSubtitles v2018 / OPUS
+1277,so you're,98,39.9,OpenSubtitles v2018 / OPUS
+1278,mean that,98,39.9,OpenSubtitles v2018 / OPUS
+1279,why'd you,98,39.9,OpenSubtitles v2018 / OPUS
+1280,right then,98,39.9,OpenSubtitles v2018 / OPUS
+1281,and you'll,98,39.9,OpenSubtitles v2018 / OPUS
+1282,won't take,98,39.9,OpenSubtitles v2018 / OPUS
+1283,we'll try,98,39.9,OpenSubtitles v2018 / OPUS
+1284,they get,98,39.9,OpenSubtitles v2018 / OPUS
+1285,want my,98,39.9,OpenSubtitles v2018 / OPUS
+1286,is in the,98,39.9,OpenSubtitles v2018 / OPUS
+1287,me please,98,39.9,OpenSubtitles v2018 / OPUS
+1288,mean it,98,39.9,OpenSubtitles v2018 / OPUS
+1289,i didn't want to,98,39.9,OpenSubtitles v2018 / OPUS
+1290,i just don't,98,39.9,OpenSubtitles v2018 / OPUS
+1291,can't see,98,39.9,OpenSubtitles v2018 / OPUS
+1292,we're getting,98,39.9,OpenSubtitles v2018 / OPUS
+1293,didn't say,98,39.9,OpenSubtitles v2018 / OPUS
+1294,thing you,98,39.9,OpenSubtitles v2018 / OPUS
+1295,i'll leave,98,39.9,OpenSubtitles v2018 / OPUS
+1296,get into,98,39.9,OpenSubtitles v2018 / OPUS
+1297,no i didn't,98,39.9,OpenSubtitles v2018 / OPUS
+1298,well don't,98,39.9,OpenSubtitles v2018 / OPUS
+1299,isn't a,97,39.8,OpenSubtitles v2018 / OPUS
+1300,don't come,97,39.8,OpenSubtitles v2018 / OPUS
+1301,it was just,97,39.8,OpenSubtitles v2018 / OPUS
+1302,care about,97,39.8,OpenSubtitles v2018 / OPUS
+1303,tell you something,97,39.8,OpenSubtitles v2018 / OPUS
+1304,to love,97,39.8,OpenSubtitles v2018 / OPUS
+1305,he wasn't,97,39.8,OpenSubtitles v2018 / OPUS
+1306,will find,97,39.8,OpenSubtitles v2018 / OPUS
+1307,how's that,97,39.8,OpenSubtitles v2018 / OPUS
+1308,too good,97,39.8,OpenSubtitles v2018 / OPUS
+1309,on boy,97,39.8,OpenSubtitles v2018 / OPUS
+1310,it's gonna,97,39.8,OpenSubtitles v2018 / OPUS
+1311,one way,97,39.8,OpenSubtitles v2018 / OPUS
+1312,but you've,97,39.8,OpenSubtitles v2018 / OPUS
+1313,the way to,97,39.8,OpenSubtitles v2018 / OPUS
+1314,years in,97,39.8,OpenSubtitles v2018 / OPUS
+1315,that's when,97,39.8,OpenSubtitles v2018 / OPUS
+1316,in my life,97,39.8,OpenSubtitles v2018 / OPUS
+1317,don't move,96,39.7,OpenSubtitles v2018 / OPUS
+1318,get over,96,39.7,OpenSubtitles v2018 / OPUS
+1319,that right,96,39.7,OpenSubtitles v2018 / OPUS
+1320,is good,96,39.7,OpenSubtitles v2018 / OPUS
+1321,never know,96,39.7,OpenSubtitles v2018 / OPUS
+1322,all over the,96,39.7,OpenSubtitles v2018 / OPUS
+1323,in peace,96,39.7,OpenSubtitles v2018 / OPUS
+1324,to get it,96,39.7,OpenSubtitles v2018 / OPUS
+1325,way out,96,39.7,OpenSubtitles v2018 / OPUS
+1326,just can't,96,39.7,OpenSubtitles v2018 / OPUS
+1327,got out,96,39.7,OpenSubtitles v2018 / OPUS
+1328,you need a,96,39.7,OpenSubtitles v2018 / OPUS
+1329,dog in,96,39.7,OpenSubtitles v2018 / OPUS
+1330,i've heard,96,39.7,OpenSubtitles v2018 / OPUS
+1331,in a hurry,96,39.7,OpenSubtitles v2018 / OPUS
+1332,believe you,96,39.7,OpenSubtitles v2018 / OPUS
+1333,me tell,96,39.7,OpenSubtitles v2018 / OPUS
+1334,sounds like,96,39.7,OpenSubtitles v2018 / OPUS
+1335,swear by,96,39.7,OpenSubtitles v2018 / OPUS
+1336,run out,96,39.7,OpenSubtitles v2018 / OPUS
+1337,can't we,96,39.7,OpenSubtitles v2018 / OPUS
+1338,i'm taking,96,39.7,OpenSubtitles v2018 / OPUS
+1339,and come,96,39.7,OpenSubtitles v2018 / OPUS
+1340,matter with you,96,39.7,OpenSubtitles v2018 / OPUS
+1341,the matter with you,96,39.7,OpenSubtitles v2018 / OPUS
+1342,call him,95,39.6,OpenSubtitles v2018 / OPUS
+1343,don't mean,95,39.6,OpenSubtitles v2018 / OPUS
+1344,don't take,95,39.6,OpenSubtitles v2018 / OPUS
+1345,know i'm,95,39.6,OpenSubtitles v2018 / OPUS
+1346,more thing,95,39.6,OpenSubtitles v2018 / OPUS
+1347,one more thing,95,39.6,OpenSubtitles v2018 / OPUS
+1348,well i guess,95,39.6,OpenSubtitles v2018 / OPUS
+1349,end up,95,39.6,OpenSubtitles v2018 / OPUS
+1350,need you,95,39.6,OpenSubtitles v2018 / OPUS
+1351,him in the,95,39.6,OpenSubtitles v2018 / OPUS
+1352,he's got a,95,39.6,OpenSubtitles v2018 / OPUS
+1353,why didn't you tell,95,39.6,OpenSubtitles v2018 / OPUS
+1354,there's one,95,39.6,OpenSubtitles v2018 / OPUS
+1355,you're still,95,39.6,OpenSubtitles v2018 / OPUS
+1356,you think i'm,95,39.6,OpenSubtitles v2018 / OPUS
+1357,get some sleep,95,39.6,OpenSubtitles v2018 / OPUS
+1358,give him a,95,39.6,OpenSubtitles v2018 / OPUS
+1359,i didn't do it,95,39.6,OpenSubtitles v2018 / OPUS
+1360,be happy in,95,39.6,OpenSubtitles v2018 / OPUS
+1361,happy in your,95,39.6,OpenSubtitles v2018 / OPUS
+1362,in your work,95,39.6,OpenSubtitles v2018 / OPUS
+1363,happy in your work,95,39.6,OpenSubtitles v2018 / OPUS
+1364,how you feel,95,39.6,OpenSubtitles v2018 / OPUS
+1365,by all,95,39.6,OpenSubtitles v2018 / OPUS
+1366,don't you see,95,39.6,OpenSubtitles v2018 / OPUS
+1367,about time,95,39.6,OpenSubtitles v2018 / OPUS
+1368,you're getting,95,39.6,OpenSubtitles v2018 / OPUS
+1369,in the witness,95,39.6,OpenSubtitles v2018 / OPUS
+1370,in the witness box,95,39.6,OpenSubtitles v2018 / OPUS
+1371,the prisoner's,95,39.6,OpenSubtitles v2018 / OPUS
+1372,in this world,94,39.6,OpenSubtitles v2018 / OPUS
+1373,know sir,94,39.6,OpenSubtitles v2018 / OPUS
+1374,we'll do,94,39.6,OpenSubtitles v2018 / OPUS
+1375,don't give,94,39.6,OpenSubtitles v2018 / OPUS
+1376,is over,94,39.6,OpenSubtitles v2018 / OPUS
+1377,back with,94,39.6,OpenSubtitles v2018 / OPUS
+1378,think they,94,39.6,OpenSubtitles v2018 / OPUS
+1379,i call,94,39.6,OpenSubtitles v2018 / OPUS
+1380,have just,94,39.6,OpenSubtitles v2018 / OPUS
+1381,didn't even,94,39.6,OpenSubtitles v2018 / OPUS
+1382,come now,94,39.6,OpenSubtitles v2018 / OPUS
+1383,would you care,94,39.6,OpenSubtitles v2018 / OPUS
+1384,you're not going,94,39.6,OpenSubtitles v2018 / OPUS
+1385,now go,94,39.6,OpenSubtitles v2018 / OPUS
+1386,but we're,94,39.6,OpenSubtitles v2018 / OPUS
+1387,when it's,94,39.6,OpenSubtitles v2018 / OPUS
+1388,i'll send,94,39.6,OpenSubtitles v2018 / OPUS
+1389,do you want me,93,39.5,OpenSubtitles v2018 / OPUS
+1390,a good idea,93,39.5,OpenSubtitles v2018 / OPUS
+1391,i'll kill,93,39.5,OpenSubtitles v2018 / OPUS
+1392,can give,93,39.5,OpenSubtitles v2018 / OPUS
+1393,how's the,93,39.5,OpenSubtitles v2018 / OPUS
+1394,long way,93,39.5,OpenSubtitles v2018 / OPUS
+1395,i think we,93,39.5,OpenSubtitles v2018 / OPUS
+1396,look how,93,39.5,OpenSubtitles v2018 / OPUS
+1397,that's too,93,39.5,OpenSubtitles v2018 / OPUS
+1398,well he's,93,39.5,OpenSubtitles v2018 / OPUS
+1399,if we're,93,39.5,OpenSubtitles v2018 / OPUS
+1400,come on boy,93,39.5,OpenSubtitles v2018 / OPUS
+1401,over to the,93,39.5,OpenSubtitles v2018 / OPUS
+1402,think he's,93,39.5,OpenSubtitles v2018 / OPUS
+1403,right i,93,39.5,OpenSubtitles v2018 / OPUS
+1404,there's only,93,39.5,OpenSubtitles v2018 / OPUS
+1405,they've got,93,39.5,OpenSubtitles v2018 / OPUS
+1406,thought you'd,93,39.5,OpenSubtitles v2018 / OPUS
+1407,sure it,93,39.5,OpenSubtitles v2018 / OPUS
+1408,on the bridge,93,39.5,OpenSubtitles v2018 / OPUS
+1409,she won't,92,39.4,OpenSubtitles v2018 / OPUS
+1410,there's another,92,39.4,OpenSubtitles v2018 / OPUS
+1411,what's his,92,39.4,OpenSubtitles v2018 / OPUS
+1412,him on,92,39.4,OpenSubtitles v2018 / OPUS
+1413,good man,92,39.4,OpenSubtitles v2018 / OPUS
+1414,you think of,92,39.4,OpenSubtitles v2018 / OPUS
+1415,i just want,92,39.4,OpenSubtitles v2018 / OPUS
+1416,wait here,92,39.4,OpenSubtitles v2018 / OPUS
+1417,hang on,92,39.4,OpenSubtitles v2018 / OPUS
+1418,that don't,92,39.4,OpenSubtitles v2018 / OPUS
+1419,if that's,92,39.4,OpenSubtitles v2018 / OPUS
+1420,i'm not gonna,92,39.4,OpenSubtitles v2018 / OPUS
+1421,he's all,92,39.4,OpenSubtitles v2018 / OPUS
+1422,i'll take care,92,39.4,OpenSubtitles v2018 / OPUS
+1423,it's not a,92,39.4,OpenSubtitles v2018 / OPUS
+1424,need is,92,39.4,OpenSubtitles v2018 / OPUS
+1425,cut it out,92,39.4,OpenSubtitles v2018 / OPUS
+1426,you wait,92,39.4,OpenSubtitles v2018 / OPUS
+1427,yeah that's,92,39.4,OpenSubtitles v2018 / OPUS
+1428,same way,92,39.4,OpenSubtitles v2018 / OPUS
+1429,right sir,92,39.4,OpenSubtitles v2018 / OPUS
+1430,good boy,92,39.4,OpenSubtitles v2018 / OPUS
+1431,it doesn't matter,92,39.4,OpenSubtitles v2018 / OPUS
+1432,him out of,92,39.4,OpenSubtitles v2018 / OPUS
+1433,let's take,91,39.3,OpenSubtitles v2018 / OPUS
+1434,work here,91,39.3,OpenSubtitles v2018 / OPUS
+1435,for a long time,91,39.3,OpenSubtitles v2018 / OPUS
+1436,i'm no,91,39.3,OpenSubtitles v2018 / OPUS
+1437,don't be afraid,91,39.3,OpenSubtitles v2018 / OPUS
+1438,do you feel,91,39.3,OpenSubtitles v2018 / OPUS
+1439,you want it,91,39.3,OpenSubtitles v2018 / OPUS
+1440,there in,91,39.3,OpenSubtitles v2018 / OPUS
+1441,will tell,91,39.3,OpenSubtitles v2018 / OPUS
+1442,will give,91,39.3,OpenSubtitles v2018 / OPUS
+1443,what's the matter with you,91,39.3,OpenSubtitles v2018 / OPUS
+1444,the same way,91,39.3,OpenSubtitles v2018 / OPUS
+1445,know when,91,39.3,OpenSubtitles v2018 / OPUS
+1446,i'm terribly sorry,91,39.3,OpenSubtitles v2018 / OPUS
+1447,up the bridge,91,39.3,OpenSubtitles v2018 / OPUS
+1448,blow up the bridge,91,39.3,OpenSubtitles v2018 / OPUS
+1449,is wrong,90,39.2,OpenSubtitles v2018 / OPUS
+1450,know her,90,39.2,OpenSubtitles v2018 / OPUS
+1451,to forget,90,39.2,OpenSubtitles v2018 / OPUS
+1452,be a good,90,39.2,OpenSubtitles v2018 / OPUS
+1453,they're not,90,39.2,OpenSubtitles v2018 / OPUS
+1454,to take the,90,39.2,OpenSubtitles v2018 / OPUS
+1455,here's the,90,39.2,OpenSubtitles v2018 / OPUS
+1456,no right to,90,39.2,OpenSubtitles v2018 / OPUS
+1457,i'll be back,90,39.2,OpenSubtitles v2018 / OPUS
+1458,the last time,90,39.2,OpenSubtitles v2018 / OPUS
+1459,she's been,90,39.2,OpenSubtitles v2018 / OPUS
+1460,a long way,90,39.2,OpenSubtitles v2018 / OPUS
+1461,must tell,90,39.2,OpenSubtitles v2018 / OPUS
+1462,well let's,90,39.2,OpenSubtitles v2018 / OPUS
+1463,i'll be right,90,39.2,OpenSubtitles v2018 / OPUS
+1464,through a,90,39.2,OpenSubtitles v2018 / OPUS
+1465,go right,90,39.2,OpenSubtitles v2018 / OPUS
+1466,let me tell,90,39.2,OpenSubtitles v2018 / OPUS
+1467,any time,90,39.2,OpenSubtitles v2018 / OPUS
+1468,you'd have,90,39.2,OpenSubtitles v2018 / OPUS
+1469,you can't get,90,39.2,OpenSubtitles v2018 / OPUS
+1470,it's too late,90,39.2,OpenSubtitles v2018 / OPUS
+1471,oh shut up,90,39.2,OpenSubtitles v2018 / OPUS
+1472,way it,90,39.2,OpenSubtitles v2018 / OPUS
+1473,they're going to,90,39.2,OpenSubtitles v2018 / OPUS
+1474,you get that,90,39.2,OpenSubtitles v2018 / OPUS
+1475,i didn't have,90,39.2,OpenSubtitles v2018 / OPUS
+1476,blood on,90,39.2,OpenSubtitles v2018 / OPUS
+1477,but you know,89,39.1,OpenSubtitles v2018 / OPUS
+1478,do you want me to,89,39.1,OpenSubtitles v2018 / OPUS
+1479,you know where,89,39.1,OpenSubtitles v2018 / OPUS
+1480,it's hard,89,39.1,OpenSubtitles v2018 / OPUS
+1481,i take it,89,39.1,OpenSubtitles v2018 / OPUS
+1482,be fine,89,39.1,OpenSubtitles v2018 / OPUS
+1483,time it,89,39.1,OpenSubtitles v2018 / OPUS
+1484,off to,89,39.1,OpenSubtitles v2018 / OPUS
+1485,the thing,89,39.1,OpenSubtitles v2018 / OPUS
+1486,turn around,89,39.1,OpenSubtitles v2018 / OPUS
+1487,i can't stand,89,39.1,OpenSubtitles v2018 / OPUS
+1488,know him,89,39.1,OpenSubtitles v2018 / OPUS
+1489,didn't have to,89,39.1,OpenSubtitles v2018 / OPUS
+1490,go with you,89,39.1,OpenSubtitles v2018 / OPUS
+1491,the whole thing,89,39.1,OpenSubtitles v2018 / OPUS
+1492,away from me,89,39.1,OpenSubtitles v2018 / OPUS
+1493,do not think,89,39.1,OpenSubtitles v2018 / OPUS
+1494,forget the,89,39.1,OpenSubtitles v2018 / OPUS
+1495,thought i'd,89,39.1,OpenSubtitles v2018 / OPUS
+1496,watch out,89,39.1,OpenSubtitles v2018 / OPUS
+1497,that's what you,89,39.1,OpenSubtitles v2018 / OPUS
+1498,i can't go,89,39.1,OpenSubtitles v2018 / OPUS
+1499,take a look at,89,39.1,OpenSubtitles v2018 / OPUS
+1500,now just,89,39.1,OpenSubtitles v2018 / OPUS
+1501,you ready,88,39.0,OpenSubtitles v2018 / OPUS
+1502,who's the,88,39.0,OpenSubtitles v2018 / OPUS
+1503,i'm sorry but,88,39.0,OpenSubtitles v2018 / OPUS
+1504,are you gonna,88,39.0,OpenSubtitles v2018 / OPUS
+1505,that time,88,39.0,OpenSubtitles v2018 / OPUS
+1506,yeah but,88,39.0,OpenSubtitles v2018 / OPUS
+1507,it's really,88,39.0,OpenSubtitles v2018 / OPUS
+1508,i'm all right,88,39.0,OpenSubtitles v2018 / OPUS
+1509,in new,88,39.0,OpenSubtitles v2018 / OPUS
+1510,got in,88,39.0,OpenSubtitles v2018 / OPUS
+1511,fall in,88,39.0,OpenSubtitles v2018 / OPUS
+1512,just want to,88,39.0,OpenSubtitles v2018 / OPUS
+1513,come into,88,39.0,OpenSubtitles v2018 / OPUS
+1514,doesn't want,88,39.0,OpenSubtitles v2018 / OPUS
+1515,thank you mr,88,39.0,OpenSubtitles v2018 / OPUS
+1516,where's my,88,39.0,OpenSubtitles v2018 / OPUS
+1517,good to see,88,39.0,OpenSubtitles v2018 / OPUS
+1518,i'll wait,88,39.0,OpenSubtitles v2018 / OPUS
+1519,ain't got,88,39.0,OpenSubtitles v2018 / OPUS
+1520,you know something,88,39.0,OpenSubtitles v2018 / OPUS
+1521,want any,88,39.0,OpenSubtitles v2018 / OPUS
+1522,i'll take care of,88,39.0,OpenSubtitles v2018 / OPUS
+1523,know all,88,39.0,OpenSubtitles v2018 / OPUS
+1524,up this,88,39.0,OpenSubtitles v2018 / OPUS
+1525,won't do,88,39.0,OpenSubtitles v2018 / OPUS
+1526,i swear by,88,39.0,OpenSubtitles v2018 / OPUS
+1527,don't let me,88,39.0,OpenSubtitles v2018 / OPUS
+1528,i've got it,88,39.0,OpenSubtitles v2018 / OPUS
+1529,good heavens,88,39.0,OpenSubtitles v2018 / OPUS
+1530,good at,88,39.0,OpenSubtitles v2018 / OPUS
+1531,i'm too,87,38.9,OpenSubtitles v2018 / OPUS
+1532,in order,87,38.9,OpenSubtitles v2018 / OPUS
+1533,give a,87,38.9,OpenSubtitles v2018 / OPUS
+1534,show up,87,38.9,OpenSubtitles v2018 / OPUS
+1535,them up,87,38.9,OpenSubtitles v2018 / OPUS
+1536,up on the,87,38.9,OpenSubtitles v2018 / OPUS
+1537,can't you see,87,38.9,OpenSubtitles v2018 / OPUS
+1538,in trouble,87,38.9,OpenSubtitles v2018 / OPUS
+1539,out in the,87,38.9,OpenSubtitles v2018 / OPUS
+1540,went out,87,38.9,OpenSubtitles v2018 / OPUS
+1541,you want to see,87,38.9,OpenSubtitles v2018 / OPUS
+1542,think i'd,87,38.9,OpenSubtitles v2018 / OPUS
+1543,it's in,87,38.9,OpenSubtitles v2018 / OPUS
+1544,i give you,87,38.9,OpenSubtitles v2018 / OPUS
+1545,it's the only,87,38.9,OpenSubtitles v2018 / OPUS
+1546,there on,87,38.9,OpenSubtitles v2018 / OPUS
+1547,on out,87,38.9,OpenSubtitles v2018 / OPUS
+1548,let me get,87,38.9,OpenSubtitles v2018 / OPUS
+1549,on my way,86,38.8,OpenSubtitles v2018 / OPUS
+1550,there's an,86,38.8,OpenSubtitles v2018 / OPUS
+1551,go back to the,86,38.8,OpenSubtitles v2018 / OPUS
+1552,my time,86,38.8,OpenSubtitles v2018 / OPUS
+1553,it can't be,86,38.8,OpenSubtitles v2018 / OPUS
+1554,that's true,86,38.8,OpenSubtitles v2018 / OPUS
+1555,we're doing,86,38.8,OpenSubtitles v2018 / OPUS
+1556,her out,86,38.8,OpenSubtitles v2018 / OPUS
+1557,just in,86,38.8,OpenSubtitles v2018 / OPUS
+1558,you give me,86,38.8,OpenSubtitles v2018 / OPUS
+1559,not come,86,38.8,OpenSubtitles v2018 / OPUS
+1560,once in a,86,38.8,OpenSubtitles v2018 / OPUS
+1561,me away,86,38.8,OpenSubtitles v2018 / OPUS
+1562,it's all over,86,38.8,OpenSubtitles v2018 / OPUS
+1563,trying to do,86,38.8,OpenSubtitles v2018 / OPUS
+1564,not good,86,38.8,OpenSubtitles v2018 / OPUS
+1565,on now,86,38.8,OpenSubtitles v2018 / OPUS
+1566,i've tried,86,38.8,OpenSubtitles v2018 / OPUS
+1567,i've just,86,38.8,OpenSubtitles v2018 / OPUS
+1568,that's an,86,38.8,OpenSubtitles v2018 / OPUS
+1569,got off,86,38.8,OpenSubtitles v2018 / OPUS
+1570,after her,85,38.7,OpenSubtitles v2018 / OPUS
+1571,all right then,85,38.7,OpenSubtitles v2018 / OPUS
+1572,he isn't,85,38.7,OpenSubtitles v2018 / OPUS
+1573,not believe,85,38.7,OpenSubtitles v2018 / OPUS
+1574,know what i'm,85,38.7,OpenSubtitles v2018 / OPUS
+1575,on time,85,38.7,OpenSubtitles v2018 / OPUS
+1576,won't give,85,38.7,OpenSubtitles v2018 / OPUS
+1577,were just,85,38.7,OpenSubtitles v2018 / OPUS
+1578,you're talking,85,38.7,OpenSubtitles v2018 / OPUS
+1579,you really want,85,38.7,OpenSubtitles v2018 / OPUS
+1580,i'm sure you,85,38.7,OpenSubtitles v2018 / OPUS
+1581,and let,85,38.7,OpenSubtitles v2018 / OPUS
+1582,haven't seen,85,38.7,OpenSubtitles v2018 / OPUS
+1583,a man in,85,38.7,OpenSubtitles v2018 / OPUS
+1584,i do not know,85,38.7,OpenSubtitles v2018 / OPUS
+1585,me tell you,85,38.7,OpenSubtitles v2018 / OPUS
+1586,let me tell you,85,38.7,OpenSubtitles v2018 / OPUS
+1587,want to talk to,85,38.7,OpenSubtitles v2018 / OPUS
+1588,stay out,85,38.7,OpenSubtitles v2018 / OPUS
+1589,you've got a,85,38.7,OpenSubtitles v2018 / OPUS
+1590,thank god,85,38.7,OpenSubtitles v2018 / OPUS
+1591,and i know,85,38.7,OpenSubtitles v2018 / OPUS
+1592,you come to,85,38.7,OpenSubtitles v2018 / OPUS
+1593,in with,85,38.7,OpenSubtitles v2018 / OPUS
+1594,a man's,85,38.7,OpenSubtitles v2018 / OPUS
+1595,by all means,85,38.7,OpenSubtitles v2018 / OPUS
+1596,sure it's,85,38.7,OpenSubtitles v2018 / OPUS
+1597,don't expect,85,38.7,OpenSubtitles v2018 / OPUS
+1598,gotta get,85,38.7,OpenSubtitles v2018 / OPUS
+1599,we'll see,84,38.6,OpenSubtitles v2018 / OPUS
+1600,you're very,84,38.6,OpenSubtitles v2018 / OPUS
+1601,in two,84,38.6,OpenSubtitles v2018 / OPUS
+1602,went through,84,38.6,OpenSubtitles v2018 / OPUS
+1603,you can go,84,38.6,OpenSubtitles v2018 / OPUS
+1604,we're in,84,38.6,OpenSubtitles v2018 / OPUS
+1605,you're always,84,38.6,OpenSubtitles v2018 / OPUS
+1606,much time,84,38.6,OpenSubtitles v2018 / OPUS
+1607,remember the,84,38.6,OpenSubtitles v2018 / OPUS
+1608,it's getting,84,38.6,OpenSubtitles v2018 / OPUS
+1609,are you trying,84,38.6,OpenSubtitles v2018 / OPUS
+1610,are you trying to,84,38.6,OpenSubtitles v2018 / OPUS
+1611,i don't believe,84,38.6,OpenSubtitles v2018 / OPUS
+1612,you over,84,38.6,OpenSubtitles v2018 / OPUS
+1613,time ago,84,38.6,OpenSubtitles v2018 / OPUS
+1614,you off,84,38.6,OpenSubtitles v2018 / OPUS
+1615,i haven't got,84,38.6,OpenSubtitles v2018 / OPUS
+1616,something wrong,84,38.6,OpenSubtitles v2018 / OPUS
+1617,don't know what you're,84,38.6,OpenSubtitles v2018 / OPUS
+1618,i do not think,84,38.6,OpenSubtitles v2018 / OPUS
+1619,of spider's web,84,38.6,OpenSubtitles v2018 / OPUS
+1620,miki's son,84,38.6,OpenSubtitles v2018 / OPUS
+1621,look after,83,38.5,OpenSubtitles v2018 / OPUS
+1622,oh please,83,38.5,OpenSubtitles v2018 / OPUS
+1623,no way,83,38.5,OpenSubtitles v2018 / OPUS
+1624,to think of,83,38.5,OpenSubtitles v2018 / OPUS
+1625,we can get,83,38.5,OpenSubtitles v2018 / OPUS
+1626,cut off,83,38.5,OpenSubtitles v2018 / OPUS
+1627,in mind,83,38.5,OpenSubtitles v2018 / OPUS
+1628,matter what,83,38.5,OpenSubtitles v2018 / OPUS
+1629,i think that,83,38.5,OpenSubtitles v2018 / OPUS
+1630,isn't he,83,38.5,OpenSubtitles v2018 / OPUS
+1631,i don't want you,83,38.5,OpenSubtitles v2018 / OPUS
+1632,in the house,83,38.5,OpenSubtitles v2018 / OPUS
+1633,i don't mind,83,38.5,OpenSubtitles v2018 / OPUS
+1634,i don't even,83,38.5,OpenSubtitles v2018 / OPUS
+1635,give it to me,83,38.5,OpenSubtitles v2018 / OPUS
+1636,not go,83,38.5,OpenSubtitles v2018 / OPUS
+1637,to remember,83,38.5,OpenSubtitles v2018 / OPUS
+1638,happened to you,83,38.5,OpenSubtitles v2018 / OPUS
+1639,he's dead,83,38.5,OpenSubtitles v2018 / OPUS
+1640,who's there,83,38.5,OpenSubtitles v2018 / OPUS
+1641,i'll take a,83,38.5,OpenSubtitles v2018 / OPUS
+1642,here in the,83,38.5,OpenSubtitles v2018 / OPUS
+1643,come down,83,38.5,OpenSubtitles v2018 / OPUS
+1644,oh i don't,83,38.5,OpenSubtitles v2018 / OPUS
+1645,stand down,83,38.5,OpenSubtitles v2018 / OPUS
+1646,one in,83,38.5,OpenSubtitles v2018 / OPUS
+1647,you're welcome,83,38.5,OpenSubtitles v2018 / OPUS
+1648,you're out,82,38.4,OpenSubtitles v2018 / OPUS
+1649,on and,82,38.4,OpenSubtitles v2018 / OPUS
+1650,he wouldn't,82,38.4,OpenSubtitles v2018 / OPUS
+1651,the king's,82,38.4,OpenSubtitles v2018 / OPUS
+1652,i know i,82,38.4,OpenSubtitles v2018 / OPUS
+1653,don't leave me,82,38.4,OpenSubtitles v2018 / OPUS
+1654,make up,82,38.4,OpenSubtitles v2018 / OPUS
+1655,go through,82,38.4,OpenSubtitles v2018 / OPUS
+1656,don't want to be,82,38.4,OpenSubtitles v2018 / OPUS
+1657,i've come,82,38.4,OpenSubtitles v2018 / OPUS
+1658,to let you,82,38.4,OpenSubtitles v2018 / OPUS
+1659,in rome,82,38.4,OpenSubtitles v2018 / OPUS
+1660,want to help,82,38.4,OpenSubtitles v2018 / OPUS
+1661,let go of me,82,38.4,OpenSubtitles v2018 / OPUS
+1662,not take,82,38.4,OpenSubtitles v2018 / OPUS
+1663,get here,82,38.4,OpenSubtitles v2018 / OPUS
+1664,we take,82,38.4,OpenSubtitles v2018 / OPUS
+1665,to come back,82,38.4,OpenSubtitles v2018 / OPUS
+1666,get you a,82,38.4,OpenSubtitles v2018 / OPUS
+1667,in the first,82,38.4,OpenSubtitles v2018 / OPUS
+1668,in some,82,38.4,OpenSubtitles v2018 / OPUS
+1669,feel the,82,38.4,OpenSubtitles v2018 / OPUS
+1670,is a good,82,38.4,OpenSubtitles v2018 / OPUS
+1671,there isn't,82,38.4,OpenSubtitles v2018 / OPUS
+1672,come on in,82,38.4,OpenSubtitles v2018 / OPUS
+1673,who's that,82,38.4,OpenSubtitles v2018 / OPUS
+1674,he ain't,82,38.4,OpenSubtitles v2018 / OPUS
+1675,he hasn't,81,38.3,OpenSubtitles v2018 / OPUS
+1676,remember that,81,38.3,OpenSubtitles v2018 / OPUS
+1677,i'm out,81,38.3,OpenSubtitles v2018 / OPUS
+1678,it's going to be,81,38.3,OpenSubtitles v2018 / OPUS
+1679,get along,81,38.3,OpenSubtitles v2018 / OPUS
+1680,get hurt,81,38.3,OpenSubtitles v2018 / OPUS
+1681,you're here,81,38.3,OpenSubtitles v2018 / OPUS
+1682,put on,81,38.3,OpenSubtitles v2018 / OPUS
+1683,got out of,81,38.3,OpenSubtitles v2018 / OPUS
+1684,was a good,81,38.3,OpenSubtitles v2018 / OPUS
+1685,back of,81,38.3,OpenSubtitles v2018 / OPUS
+1686,i shouldn't,81,38.3,OpenSubtitles v2018 / OPUS
+1687,to go with,81,38.3,OpenSubtitles v2018 / OPUS
+1688,keep out,81,38.3,OpenSubtitles v2018 / OPUS
+1689,you mind if,81,38.3,OpenSubtitles v2018 / OPUS
+1690,love it,81,38.3,OpenSubtitles v2018 / OPUS
+1691,trying to get,81,38.3,OpenSubtitles v2018 / OPUS
+1692,if you don't mind,81,38.3,OpenSubtitles v2018 / OPUS
+1693,can't even,81,38.3,OpenSubtitles v2018 / OPUS
+1694,first time i,81,38.3,OpenSubtitles v2018 / OPUS
+1695,manned and ready,81,38.3,OpenSubtitles v2018 / OPUS
+1696,work in,80,38.2,OpenSubtitles v2018 / OPUS
+1697,we're just,80,38.2,OpenSubtitles v2018 / OPUS
+1698,they come,80,38.2,OpenSubtitles v2018 / OPUS
+1699,want them,80,38.2,OpenSubtitles v2018 / OPUS
+1700,but in,80,38.2,OpenSubtitles v2018 / OPUS
+1701,out of your,80,38.2,OpenSubtitles v2018 / OPUS
+1702,what good,80,38.2,OpenSubtitles v2018 / OPUS
+1703,don't you know,80,38.2,OpenSubtitles v2018 / OPUS
+1704,will get,80,38.2,OpenSubtitles v2018 / OPUS
+1705,man in the,80,38.2,OpenSubtitles v2018 / OPUS
+1706,me in the,80,38.2,OpenSubtitles v2018 / OPUS
+1707,good to see you,80,38.2,OpenSubtitles v2018 / OPUS
+1708,in charge,80,38.2,OpenSubtitles v2018 / OPUS
+1709,we'll have a,80,38.2,OpenSubtitles v2018 / OPUS
+1710,on get,80,38.2,OpenSubtitles v2018 / OPUS
+1711,i'm sorry i,80,38.2,OpenSubtitles v2018 / OPUS
+1712,how did you get,80,38.2,OpenSubtitles v2018 / OPUS
+1713,yeah sure,80,38.2,OpenSubtitles v2018 / OPUS
+1714,he's right,80,38.2,OpenSubtitles v2018 / OPUS
+1715,was gonna,80,38.2,OpenSubtitles v2018 / OPUS
+1716,no ma'am,80,38.2,OpenSubtitles v2018 / OPUS
+1717,you'd better get,80,38.2,OpenSubtitles v2018 / OPUS
+1718,and we're,79,38.1,OpenSubtitles v2018 / OPUS
+1719,think this,79,38.1,OpenSubtitles v2018 / OPUS
+1720,by your,79,38.1,OpenSubtitles v2018 / OPUS
+1721,feel better,79,38.1,OpenSubtitles v2018 / OPUS
+1722,was wrong,79,38.1,OpenSubtitles v2018 / OPUS
+1723,that's not what,79,38.1,OpenSubtitles v2018 / OPUS
+1724,because it's,79,38.1,OpenSubtitles v2018 / OPUS
+1725,of the way,79,38.1,OpenSubtitles v2018 / OPUS
+1726,after him,79,38.1,OpenSubtitles v2018 / OPUS
+1727,you've seen,79,38.1,OpenSubtitles v2018 / OPUS
+1728,you want to know,79,38.1,OpenSubtitles v2018 / OPUS
+1729,no need for,79,38.1,OpenSubtitles v2018 / OPUS
+1730,to give you,79,38.1,OpenSubtitles v2018 / OPUS
+1731,men in,79,38.1,OpenSubtitles v2018 / OPUS
+1732,away from here,79,38.1,OpenSubtitles v2018 / OPUS
+1733,happen to me,79,38.1,OpenSubtitles v2018 / OPUS
+1734,say good bye,79,38.1,OpenSubtitles v2018 / OPUS
+1735,i've got something,79,38.1,OpenSubtitles v2018 / OPUS
+1736,i'm looking for,79,38.1,OpenSubtitles v2018 / OPUS
+1737,working on,79,38.1,OpenSubtitles v2018 / OPUS
+1738,right down,79,38.1,OpenSubtitles v2018 / OPUS
+1739,she just,79,38.1,OpenSubtitles v2018 / OPUS
+1740,god's grace,79,38.1,OpenSubtitles v2018 / OPUS
+1741,let me help,78,38.0,OpenSubtitles v2018 / OPUS
+1742,her back,78,38.0,OpenSubtitles v2018 / OPUS
+1743,how do you know,78,38.0,OpenSubtitles v2018 / OPUS
+1744,what's his name,78,38.0,OpenSubtitles v2018 / OPUS
+1745,think that's,78,38.0,OpenSubtitles v2018 / OPUS
+1746,but i think,78,38.0,OpenSubtitles v2018 / OPUS
+1747,aii right,78,38.0,OpenSubtitles v2018 / OPUS
+1748,let's see what,78,38.0,OpenSubtitles v2018 / OPUS
+1749,we'll take,78,38.0,OpenSubtitles v2018 / OPUS
+1750,can't find,78,38.0,OpenSubtitles v2018 / OPUS
+1751,it's still,78,38.0,OpenSubtitles v2018 / OPUS
+1752,get his,78,38.0,OpenSubtitles v2018 / OPUS
+1753,want that,78,38.0,OpenSubtitles v2018 / OPUS
+1754,i'm trying,78,38.0,OpenSubtitles v2018 / OPUS
+1755,you think you're,78,38.0,OpenSubtitles v2018 / OPUS
+1756,let's get out,78,38.0,OpenSubtitles v2018 / OPUS
+1757,you down,78,38.0,OpenSubtitles v2018 / OPUS
+1758,i think you're,78,38.0,OpenSubtitles v2018 / OPUS
+1759,not want,78,38.0,OpenSubtitles v2018 / OPUS
+1760,look out,78,38.0,OpenSubtitles v2018 / OPUS
+1761,back to work,78,38.0,OpenSubtitles v2018 / OPUS
+1762,find me,78,38.0,OpenSubtitles v2018 / OPUS
+1763,i don't need,78,38.0,OpenSubtitles v2018 / OPUS
+1764,give them,78,38.0,OpenSubtitles v2018 / OPUS
+1765,want to do,78,38.0,OpenSubtitles v2018 / OPUS
+1766,know my,78,38.0,OpenSubtitles v2018 / OPUS
+1767,there's not,78,38.0,OpenSubtitles v2018 / OPUS
+1768,such a thing,78,38.0,OpenSubtitles v2018 / OPUS
+1769,only one thing,78,38.0,OpenSubtitles v2018 / OPUS
+1770,talk with,78,38.0,OpenSubtitles v2018 / OPUS
+1771,and good,78,38.0,OpenSubtitles v2018 / OPUS
+1772,you won't have,78,38.0,OpenSubtitles v2018 / OPUS
+1773,to get out of,78,38.0,OpenSubtitles v2018 / OPUS
+1774,the way it,78,38.0,OpenSubtitles v2018 / OPUS
+1775,i know it's,78,38.0,OpenSubtitles v2018 / OPUS
+1776,get cracking,78,38.0,OpenSubtitles v2018 / OPUS
+1777,set up,78,38.0,OpenSubtitles v2018 / OPUS
+1778,i'm not going to,78,38.0,OpenSubtitles v2018 / OPUS
+1779,in those,78,38.0,OpenSubtitles v2018 / OPUS
+1780,give evidence,78,38.0,OpenSubtitles v2018 / OPUS
+1781,you forget,77,37.8,OpenSubtitles v2018 / OPUS
+1782,that's why you,77,37.8,OpenSubtitles v2018 / OPUS
+1783,i feel like,77,37.8,OpenSubtitles v2018 / OPUS
+1784,then we'll,77,37.8,OpenSubtitles v2018 / OPUS
+1785,give us a,77,37.8,OpenSubtitles v2018 / OPUS
+1786,i must tell,77,37.8,OpenSubtitles v2018 / OPUS
+1787,they think,77,37.8,OpenSubtitles v2018 / OPUS
+1788,you want a,77,37.8,OpenSubtitles v2018 / OPUS
+1789,guess you,77,37.8,OpenSubtitles v2018 / OPUS
+1790,look at it,77,37.8,OpenSubtitles v2018 / OPUS
+1791,long time ago,77,37.8,OpenSubtitles v2018 / OPUS
+1792,you can get,77,37.8,OpenSubtitles v2018 / OPUS
+1793,but i'd,77,37.8,OpenSubtitles v2018 / OPUS
+1794,so sure,77,37.8,OpenSubtitles v2018 / OPUS
+1795,i've already,77,37.8,OpenSubtitles v2018 / OPUS
+1796,there's always the,77,37.8,OpenSubtitles v2018 / OPUS
+1797,that's fine,77,37.8,OpenSubtitles v2018 / OPUS
+1798,get him out,77,37.8,OpenSubtitles v2018 / OPUS
+1799,go to sleep,76,37.7,OpenSubtitles v2018 / OPUS
+1800,ahead and,76,37.7,OpenSubtitles v2018 / OPUS
+1801,feel about,76,37.7,OpenSubtitles v2018 / OPUS
+1802,i'm not sure,76,37.7,OpenSubtitles v2018 / OPUS
+1803,maybe a,76,37.7,OpenSubtitles v2018 / OPUS
+1804,you're crazy,76,37.7,OpenSubtitles v2018 / OPUS
+1805,you don't like,76,37.7,OpenSubtitles v2018 / OPUS
+1806,on with,76,37.7,OpenSubtitles v2018 / OPUS
+1807,after i,76,37.7,OpenSubtitles v2018 / OPUS
+1808,he was in,76,37.7,OpenSubtitles v2018 / OPUS
+1809,that's your,76,37.7,OpenSubtitles v2018 / OPUS
+1810,you don't want to,76,37.7,OpenSubtitles v2018 / OPUS
+1811,right on,76,37.7,OpenSubtitles v2018 / OPUS
+1812,him down,76,37.7,OpenSubtitles v2018 / OPUS
+1813,yes that's,76,37.7,OpenSubtitles v2018 / OPUS
+1814,same time,76,37.7,OpenSubtitles v2018 / OPUS
+1815,don't remember,76,37.7,OpenSubtitles v2018 / OPUS
+1816,and get some,76,37.7,OpenSubtitles v2018 / OPUS
+1817,how'd you,76,37.7,OpenSubtitles v2018 / OPUS
+1818,as i'm,76,37.7,OpenSubtitles v2018 / OPUS
+1819,by that,76,37.7,OpenSubtitles v2018 / OPUS
+1820,try me,76,37.7,OpenSubtitles v2018 / OPUS
+1821,don't you ever,76,37.7,OpenSubtitles v2018 / OPUS
+1822,talk to him,76,37.7,OpenSubtitles v2018 / OPUS
+1823,mrs french's,76,37.7,OpenSubtitles v2018 / OPUS
+1824,by almighty,76,37.7,OpenSubtitles v2018 / OPUS
+1825,swear by almighty,76,37.7,OpenSubtitles v2018 / OPUS
+1826,by almighty god,76,37.7,OpenSubtitles v2018 / OPUS
+1827,i swear by almighty,76,37.7,OpenSubtitles v2018 / OPUS
+1828,swear by almighty god,76,37.7,OpenSubtitles v2018 / OPUS
+1829,by almighty god that,76,37.7,OpenSubtitles v2018 / OPUS
+1830,had blood on,76,37.7,OpenSubtitles v2018 / OPUS
+1831,know what that,75,37.6,OpenSubtitles v2018 / OPUS
+1832,can't i,75,37.6,OpenSubtitles v2018 / OPUS
+1833,girl in,75,37.6,OpenSubtitles v2018 / OPUS
+1834,in law,75,37.6,OpenSubtitles v2018 / OPUS
+1835,don't feel,75,37.6,OpenSubtitles v2018 / OPUS
+1836,me back,75,37.6,OpenSubtitles v2018 / OPUS
+1837,we don't know,75,37.6,OpenSubtitles v2018 / OPUS
+1838,your time,75,37.6,OpenSubtitles v2018 / OPUS
+1839,in now,75,37.6,OpenSubtitles v2018 / OPUS
+1840,to thank,75,37.6,OpenSubtitles v2018 / OPUS
+1841,has come,75,37.6,OpenSubtitles v2018 / OPUS
+1842,i'll pay,75,37.6,OpenSubtitles v2018 / OPUS
+1843,care of yourself,75,37.6,OpenSubtitles v2018 / OPUS
+1844,you in a,75,37.6,OpenSubtitles v2018 / OPUS
+1845,come and get,75,37.6,OpenSubtitles v2018 / OPUS
+1846,officers will work,75,37.6,OpenSubtitles v2018 / OPUS
+1847,our work,75,37.6,OpenSubtitles v2018 / OPUS
+1848,in london,75,37.6,OpenSubtitles v2018 / OPUS
+1849,there's always the unexpected,75,37.6,OpenSubtitles v2018 / OPUS
+1850,there's always one,75,37.6,OpenSubtitles v2018 / OPUS
+1851,there's always one more,75,37.6,OpenSubtitles v2018 / OPUS
+1852,always one more thing,75,37.6,OpenSubtitles v2018 / OPUS
+1853,there's always one more thing,75,37.6,OpenSubtitles v2018 / OPUS
+1854,don't you get,75,37.6,OpenSubtitles v2018 / OPUS
+1855,in god's,75,37.6,OpenSubtitles v2018 / OPUS
+1856,wanna get,74,37.5,OpenSubtitles v2018 / OPUS
+1857,is really,74,37.5,OpenSubtitles v2018 / OPUS
+1858,what's so,74,37.5,OpenSubtitles v2018 / OPUS
+1859,out that,74,37.5,OpenSubtitles v2018 / OPUS
+1860,still in,74,37.5,OpenSubtitles v2018 / OPUS
+1861,can come,74,37.5,OpenSubtitles v2018 / OPUS
+1862,don't really,74,37.5,OpenSubtitles v2018 / OPUS
+1863,must tell you,74,37.5,OpenSubtitles v2018 / OPUS
+1864,right at,74,37.5,OpenSubtitles v2018 / OPUS
+1865,it that way,74,37.5,OpenSubtitles v2018 / OPUS
+1866,couldn't be,74,37.5,OpenSubtitles v2018 / OPUS
+1867,mean the,74,37.5,OpenSubtitles v2018 / OPUS
+1868,wanna be,74,37.5,OpenSubtitles v2018 / OPUS
+1869,good and,74,37.5,OpenSubtitles v2018 / OPUS
+1870,go that,74,37.5,OpenSubtitles v2018 / OPUS
+1871,day after,74,37.5,OpenSubtitles v2018 / OPUS
+1872,and after,74,37.5,OpenSubtitles v2018 / OPUS
+1873,we'll make,74,37.5,OpenSubtitles v2018 / OPUS
+1874,and i think,74,37.5,OpenSubtitles v2018 / OPUS
+1875,just thinking,74,37.5,OpenSubtitles v2018 / OPUS
+1876,going to get,74,37.5,OpenSubtitles v2018 / OPUS
+1877,i don't know how,74,37.5,OpenSubtitles v2018 / OPUS
+1878,here on,74,37.5,OpenSubtitles v2018 / OPUS
+1879,back home,73,37.4,OpenSubtitles v2018 / OPUS
+1880,talk about it,73,37.4,OpenSubtitles v2018 / OPUS
+1881,a very good,73,37.4,OpenSubtitles v2018 / OPUS
+1882,here's a,73,37.4,OpenSubtitles v2018 / OPUS
+1883,she's in,73,37.4,OpenSubtitles v2018 / OPUS
+1884,doesn't mean,73,37.4,OpenSubtitles v2018 / OPUS
+1885,just thought,73,37.4,OpenSubtitles v2018 / OPUS
+1886,i'm trying to,73,37.4,OpenSubtitles v2018 / OPUS
+1887,back to your,73,37.4,OpenSubtitles v2018 / OPUS
+1888,can't go on,73,37.4,OpenSubtitles v2018 / OPUS
+1889,i must tell you,73,37.4,OpenSubtitles v2018 / OPUS
+1890,not on the,73,37.4,OpenSubtitles v2018 / OPUS
+1891,in which,73,37.4,OpenSubtitles v2018 / OPUS
+1892,on the floor,73,37.4,OpenSubtitles v2018 / OPUS
+1893,way he,73,37.4,OpenSubtitles v2018 / OPUS
+1894,by this,73,37.4,OpenSubtitles v2018 / OPUS
+1895,it's almost,73,37.4,OpenSubtitles v2018 / OPUS
+1896,no please,73,37.4,OpenSubtitles v2018 / OPUS
+1897,you good,73,37.4,OpenSubtitles v2018 / OPUS
+1898,i've been thinking,73,37.4,OpenSubtitles v2018 / OPUS
+1899,he's given,73,37.4,OpenSubtitles v2018 / OPUS
+1900,my name's,73,37.4,OpenSubtitles v2018 / OPUS
+1901,you'd like to,73,37.4,OpenSubtitles v2018 / OPUS
+1902,thanks a,73,37.4,OpenSubtitles v2018 / OPUS
+1903,up that,73,37.4,OpenSubtitles v2018 / OPUS
+1904,i know but,73,37.4,OpenSubtitles v2018 / OPUS
+1905,off a,73,37.4,OpenSubtitles v2018 / OPUS
+1906,back for,73,37.4,OpenSubtitles v2018 / OPUS
+1907,go home any,73,37.4,OpenSubtitles v2018 / OPUS
+1908,never go home any,73,37.4,OpenSubtitles v2018 / OPUS
+1909,go home any more,73,37.4,OpenSubtitles v2018 / OPUS
+1910,may never go home any,73,37.4,OpenSubtitles v2018 / OPUS
+1911,never go home any more,73,37.4,OpenSubtitles v2018 / OPUS
+1912,engines ahead,73,37.4,OpenSubtitles v2018 / OPUS
+1913,go ahead and,72,37.3,OpenSubtitles v2018 / OPUS
+1914,think of it,72,37.3,OpenSubtitles v2018 / OPUS
+1915,sit in,72,37.3,OpenSubtitles v2018 / OPUS
+1916,him away,72,37.3,OpenSubtitles v2018 / OPUS
+1917,i can't be,72,37.3,OpenSubtitles v2018 / OPUS
+1918,will happen,72,37.3,OpenSubtitles v2018 / OPUS
+1919,what i want,72,37.3,OpenSubtitles v2018 / OPUS
+1920,i don't want to be,72,37.3,OpenSubtitles v2018 / OPUS
+1921,i think he,72,37.3,OpenSubtitles v2018 / OPUS
+1922,but i didn't,72,37.3,OpenSubtitles v2018 / OPUS
+1923,know anything about,72,37.3,OpenSubtitles v2018 / OPUS
+1924,dog in the,72,37.3,OpenSubtitles v2018 / OPUS
+1925,just now,72,37.3,OpenSubtitles v2018 / OPUS
+1926,don't like it,72,37.3,OpenSubtitles v2018 / OPUS
+1927,no just,72,37.3,OpenSubtitles v2018 / OPUS
+1928,keep out of,72,37.3,OpenSubtitles v2018 / OPUS
+1929,on account,72,37.3,OpenSubtitles v2018 / OPUS
+1930,i'm working,72,37.3,OpenSubtitles v2018 / OPUS
+1931,good of,72,37.3,OpenSubtitles v2018 / OPUS
+1932,know of,72,37.3,OpenSubtitles v2018 / OPUS
+1933,time he,72,37.3,OpenSubtitles v2018 / OPUS
+1934,going away,72,37.3,OpenSubtitles v2018 / OPUS
+1935,let's get out of,72,37.3,OpenSubtitles v2018 / OPUS
+1936,come off,72,37.3,OpenSubtitles v2018 / OPUS
+1937,now wait,72,37.3,OpenSubtitles v2018 / OPUS
+1938,feel so,72,37.3,OpenSubtitles v2018 / OPUS
+1939,put up,72,37.3,OpenSubtitles v2018 / OPUS
+1940,thanks a lot,72,37.3,OpenSubtitles v2018 / OPUS
+1941,you know you,72,37.3,OpenSubtitles v2018 / OPUS
+1942,her down,72,37.3,OpenSubtitles v2018 / OPUS
+1943,all engines ahead,72,37.3,OpenSubtitles v2018 / OPUS
+1944,talk like,71,37.1,OpenSubtitles v2018 / OPUS
+1945,want some,71,37.1,OpenSubtitles v2018 / OPUS
+1946,what's up,71,37.1,OpenSubtitles v2018 / OPUS
+1947,right all,71,37.1,OpenSubtitles v2018 / OPUS
+1948,and just,71,37.1,OpenSubtitles v2018 / OPUS
+1949,depends on,71,37.1,OpenSubtitles v2018 / OPUS
+1950,i won't be,71,37.1,OpenSubtitles v2018 / OPUS
+1951,after a,71,37.1,OpenSubtitles v2018 / OPUS
+1952,it didn't,71,37.1,OpenSubtitles v2018 / OPUS
+1953,to get married,71,37.1,OpenSubtitles v2018 / OPUS
+1954,could go,71,37.1,OpenSubtitles v2018 / OPUS
+1955,he's just,71,37.1,OpenSubtitles v2018 / OPUS
+1956,i guess you,71,37.1,OpenSubtitles v2018 / OPUS
+1957,better take,71,37.1,OpenSubtitles v2018 / OPUS
+1958,ain't that,71,37.1,OpenSubtitles v2018 / OPUS
+1959,know about the,71,37.1,OpenSubtitles v2018 / OPUS
+1960,coming back,71,37.1,OpenSubtitles v2018 / OPUS
+1961,a long time ago,71,37.1,OpenSubtitles v2018 / OPUS
+1962,like to go,71,37.1,OpenSubtitles v2018 / OPUS
+1963,to talk about,71,37.1,OpenSubtitles v2018 / OPUS
+1964,won't get,71,37.1,OpenSubtitles v2018 / OPUS
+1965,know what's,71,37.1,OpenSubtitles v2018 / OPUS
+1966,might get,71,37.1,OpenSubtitles v2018 / OPUS
+1967,and talk,71,37.1,OpenSubtitles v2018 / OPUS
+1968,i haven't been,71,37.1,OpenSubtitles v2018 / OPUS
+1969,who doesn't,71,37.1,OpenSubtitles v2018 / OPUS
+1970,he's doing,71,37.1,OpenSubtitles v2018 / OPUS
+1971,don't expect you,71,37.1,OpenSubtitles v2018 / OPUS
+1972,it's such,71,37.1,OpenSubtitles v2018 / OPUS
+1973,it's such a,71,37.1,OpenSubtitles v2018 / OPUS
+1974,on the road,71,37.1,OpenSubtitles v2018 / OPUS
+1975,gonna have to,71,37.1,OpenSubtitles v2018 / OPUS
+1976,while i'm,70,37.0,OpenSubtitles v2018 / OPUS
+1977,get me a,70,37.0,OpenSubtitles v2018 / OPUS
+1978,what we're doing,70,37.0,OpenSubtitles v2018 / OPUS
+1979,lie down,70,37.0,OpenSubtitles v2018 / OPUS
+1980,no matter what,70,37.0,OpenSubtitles v2018 / OPUS
+1981,you hold,70,37.0,OpenSubtitles v2018 / OPUS
+1982,you want to go,70,37.0,OpenSubtitles v2018 / OPUS
+1983,want to make,70,37.0,OpenSubtitles v2018 / OPUS
+1984,i work,70,37.0,OpenSubtitles v2018 / OPUS
+1985,i didn't mean,70,37.0,OpenSubtitles v2018 / OPUS
+1986,right i'll,70,37.0,OpenSubtitles v2018 / OPUS
+1987,and there's,70,37.0,OpenSubtitles v2018 / OPUS
+1988,eye on,70,37.0,OpenSubtitles v2018 / OPUS
+1989,give your,70,37.0,OpenSubtitles v2018 / OPUS
+1990,settle down,70,37.0,OpenSubtitles v2018 / OPUS
+1991,you're not going to,70,37.0,OpenSubtitles v2018 / OPUS
+1992,we gotta,70,37.0,OpenSubtitles v2018 / OPUS
+1993,i can get,70,37.0,OpenSubtitles v2018 / OPUS
+1994,good girl,70,37.0,OpenSubtitles v2018 / OPUS
+1995,there's still,70,37.0,OpenSubtitles v2018 / OPUS
+1996,know how you,70,37.0,OpenSubtitles v2018 / OPUS
+1997,well in,70,37.0,OpenSubtitles v2018 / OPUS
+1998,in the same,70,37.0,OpenSubtitles v2018 / OPUS
+1999,you weren't,70,37.0,OpenSubtitles v2018 / OPUS
+2000,you don't think,70,37.0,OpenSubtitles v2018 / OPUS
+2001,be happy in your,70,37.0,OpenSubtitles v2018 / OPUS
+2002,be happy in your work,70,37.0,OpenSubtitles v2018 / OPUS
+2003,i think he's,70,37.0,OpenSubtitles v2018 / OPUS
+2004,been trying,70,37.0,OpenSubtitles v2018 / OPUS
+2005,been trying to,70,37.0,OpenSubtitles v2018 / OPUS
+2006,they're gonna,70,37.0,OpenSubtitles v2018 / OPUS
+2007,will you go,70,37.0,OpenSubtitles v2018 / OPUS
+2008,ain't you,70,37.0,OpenSubtitles v2018 / OPUS
+2009,she can't,70,37.0,OpenSubtitles v2018 / OPUS
+2010,work out,70,37.0,OpenSubtitles v2018 / OPUS
+2011,it wouldn't,70,37.0,OpenSubtitles v2018 / OPUS
+2012,in germany,70,37.0,OpenSubtitles v2018 / OPUS
+2013,doggone dog in,70,37.0,OpenSubtitles v2018 / OPUS
+2014,best doggone dog in,70,37.0,OpenSubtitles v2018 / OPUS
+2015,doggone dog in the,70,37.0,OpenSubtitles v2018 / OPUS
+2016,dog in the west,70,37.0,OpenSubtitles v2018 / OPUS
+2017,in god's grace,70,37.0,OpenSubtitles v2018 / OPUS
+2018,i'll just,69,36.9,OpenSubtitles v2018 / OPUS
+2019,go to bed,69,36.9,OpenSubtitles v2018 / OPUS
+2020,you're leaving,69,36.9,OpenSubtitles v2018 / OPUS
+2021,i'm with,69,36.9,OpenSubtitles v2018 / OPUS
+2022,turn out,69,36.9,OpenSubtitles v2018 / OPUS
+2023,give her a,69,36.9,OpenSubtitles v2018 / OPUS
+2024,it's hard to,69,36.9,OpenSubtitles v2018 / OPUS
+2025,time when,69,36.9,OpenSubtitles v2018 / OPUS
+2026,right let's,69,36.9,OpenSubtitles v2018 / OPUS
+2027,the right to,69,36.9,OpenSubtitles v2018 / OPUS
+2028,that i've,69,36.9,OpenSubtitles v2018 / OPUS
+2029,look so,69,36.9,OpenSubtitles v2018 / OPUS
+2030,had in,69,36.9,OpenSubtitles v2018 / OPUS
+2031,like to know,69,36.9,OpenSubtitles v2018 / OPUS
+2032,was on the,69,36.9,OpenSubtitles v2018 / OPUS
+2033,some time,69,36.9,OpenSubtitles v2018 / OPUS
+2034,of work,69,36.9,OpenSubtitles v2018 / OPUS
+2035,do you believe,69,36.9,OpenSubtitles v2018 / OPUS
+2036,if i'd,69,36.9,OpenSubtitles v2018 / OPUS
+2037,you on the,69,36.9,OpenSubtitles v2018 / OPUS
+2038,wouldn't you,69,36.9,OpenSubtitles v2018 / OPUS
+2039,didn't you tell me,69,36.9,OpenSubtitles v2018 / OPUS
+2040,there ain't,69,36.9,OpenSubtitles v2018 / OPUS
+2041,tell him that,69,36.9,OpenSubtitles v2018 / OPUS
+2042,think we're,69,36.9,OpenSubtitles v2018 / OPUS
+2043,it's a little,69,36.9,OpenSubtitles v2018 / OPUS
+2044,good news,69,36.9,OpenSubtitles v2018 / OPUS
+2045,have to tell,69,36.9,OpenSubtitles v2018 / OPUS
+2046,get away with,69,36.9,OpenSubtitles v2018 / OPUS
+2047,couldn't have,69,36.9,OpenSubtitles v2018 / OPUS
+2048,he's gonna,69,36.9,OpenSubtitles v2018 / OPUS
+2049,was just thinking,69,36.9,OpenSubtitles v2018 / OPUS
+2050,i was just thinking,69,36.9,OpenSubtitles v2018 / OPUS
+2051,down on the,69,36.9,OpenSubtitles v2018 / OPUS
+2052,don't understand you,69,36.9,OpenSubtitles v2018 / OPUS
+2053,up some,69,36.9,OpenSubtitles v2018 / OPUS
+2054,the way he,69,36.9,OpenSubtitles v2018 / OPUS
+2055,ran away,68,36.8,OpenSubtitles v2018 / OPUS
+2056,didn't hear,68,36.8,OpenSubtitles v2018 / OPUS
+2057,all right all,68,36.8,OpenSubtitles v2018 / OPUS
+2058,right all right,68,36.8,OpenSubtitles v2018 / OPUS
+2059,i'd love,68,36.8,OpenSubtitles v2018 / OPUS
+2060,won't go,68,36.8,OpenSubtitles v2018 / OPUS
+2061,good looking,68,36.8,OpenSubtitles v2018 / OPUS
+2062,our way,68,36.8,OpenSubtitles v2018 / OPUS
+2063,after me,68,36.8,OpenSubtitles v2018 / OPUS
+2064,did you come,68,36.8,OpenSubtitles v2018 / OPUS
+2065,there's nothing to,68,36.8,OpenSubtitles v2018 / OPUS
+2066,just keep,68,36.8,OpenSubtitles v2018 / OPUS
+2067,just say,68,36.8,OpenSubtitles v2018 / OPUS
+2068,just get,68,36.8,OpenSubtitles v2018 / OPUS
+2069,where did you get,68,36.8,OpenSubtitles v2018 / OPUS
+2070,oh it's you,68,36.8,OpenSubtitles v2018 / OPUS
+2071,poor thing,68,36.8,OpenSubtitles v2018 / OPUS
+2072,let's get out of here,68,36.8,OpenSubtitles v2018 / OPUS
+2073,been through,68,36.8,OpenSubtitles v2018 / OPUS
+2074,know what you mean,68,36.8,OpenSubtitles v2018 / OPUS
+2075,why don't you get,68,36.8,OpenSubtitles v2018 / OPUS
+2076,be in the,68,36.8,OpenSubtitles v2018 / OPUS
+2077,let's drink,67,36.7,OpenSubtitles v2018 / OPUS
+2078,we want to,67,36.7,OpenSubtitles v2018 / OPUS
+2079,not let,67,36.7,OpenSubtitles v2018 / OPUS
+2080,was just a,67,36.7,OpenSubtitles v2018 / OPUS
+2081,because you're,67,36.7,OpenSubtitles v2018 / OPUS
+2082,only way,67,36.7,OpenSubtitles v2018 / OPUS
+2083,of love,67,36.7,OpenSubtitles v2018 / OPUS
+2084,that's so,67,36.7,OpenSubtitles v2018 / OPUS
+2085,thanks to,67,36.7,OpenSubtitles v2018 / OPUS
+2086,sure of,67,36.7,OpenSubtitles v2018 / OPUS
+2087,lived in,67,36.7,OpenSubtitles v2018 / OPUS
+2088,love with you,67,36.7,OpenSubtitles v2018 / OPUS
+2089,remember what,67,36.7,OpenSubtitles v2018 / OPUS
+2090,will tell you,67,36.7,OpenSubtitles v2018 / OPUS
+2091,going to take,67,36.7,OpenSubtitles v2018 / OPUS
+2092,of good,67,36.7,OpenSubtitles v2018 / OPUS
+2093,find some,67,36.7,OpenSubtitles v2018 / OPUS
+2094,tell the truth,67,36.7,OpenSubtitles v2018 / OPUS
+2095,let me help you,67,36.7,OpenSubtitles v2018 / OPUS
+2096,can't let,67,36.7,OpenSubtitles v2018 / OPUS
+2097,why can't,67,36.7,OpenSubtitles v2018 / OPUS
+2098,i won't let,67,36.7,OpenSubtitles v2018 / OPUS
+2099,i'll have a,67,36.7,OpenSubtitles v2018 / OPUS
+2100,you think it,67,36.7,OpenSubtitles v2018 / OPUS
+2101,sit down and,67,36.7,OpenSubtitles v2018 / OPUS
+2102,not bad,67,36.7,OpenSubtitles v2018 / OPUS
+2103,get far,67,36.7,OpenSubtitles v2018 / OPUS
+2104,get one,67,36.7,OpenSubtitles v2018 / OPUS
+2105,didn't like,67,36.7,OpenSubtitles v2018 / OPUS
+2106,get those,67,36.7,OpenSubtitles v2018 / OPUS
+2107,want her,67,36.7,OpenSubtitles v2018 / OPUS
+2108,even in,67,36.7,OpenSubtitles v2018 / OPUS
+2109,now tell,67,36.7,OpenSubtitles v2018 / OPUS
+2110,doesn't it,67,36.7,OpenSubtitles v2018 / OPUS
+2111,good for you,67,36.7,OpenSubtitles v2018 / OPUS
+2112,want to kill,67,36.7,OpenSubtitles v2018 / OPUS
+2113,you don't get,67,36.7,OpenSubtitles v2018 / OPUS
+2114,i'd have to,67,36.7,OpenSubtitles v2018 / OPUS
+2115,now there's,67,36.7,OpenSubtitles v2018 / OPUS
+2116,unexpected isn't,67,36.7,OpenSubtitles v2018 / OPUS
+2117,the unexpected isn't,67,36.7,OpenSubtitles v2018 / OPUS
+2118,unexpected isn't there,67,36.7,OpenSubtitles v2018 / OPUS
+2119,always the unexpected isn't,67,36.7,OpenSubtitles v2018 / OPUS
+2120,the unexpected isn't there,67,36.7,OpenSubtitles v2018 / OPUS
+2121,there's always the unexpected isn't,67,36.7,OpenSubtitles v2018 / OPUS
+2122,always the unexpected isn't there,67,36.7,OpenSubtitles v2018 / OPUS
+2123,well i think,67,36.7,OpenSubtitles v2018 / OPUS
+2124,we're still,67,36.7,OpenSubtitles v2018 / OPUS
+2125,that's quite,67,36.7,OpenSubtitles v2018 / OPUS
+2126,i wanna go,67,36.7,OpenSubtitles v2018 / OPUS
+2127,in this case,67,36.7,OpenSubtitles v2018 / OPUS
+2128,i'll make it,67,36.7,OpenSubtitles v2018 / OPUS
+2129,hate to,67,36.7,OpenSubtitles v2018 / OPUS
+2130,well let,67,36.7,OpenSubtitles v2018 / OPUS
+2131,i'm through,67,36.7,OpenSubtitles v2018 / OPUS
+2132,to go to the,66,36.5,OpenSubtitles v2018 / OPUS
+2133,she's just,66,36.5,OpenSubtitles v2018 / OPUS
+2134,let's take a,66,36.5,OpenSubtitles v2018 / OPUS
+2135,you tell him,66,36.5,OpenSubtitles v2018 / OPUS
+2136,to get me,66,36.5,OpenSubtitles v2018 / OPUS
+2137,that wasn't,66,36.5,OpenSubtitles v2018 / OPUS
+2138,on your way,66,36.5,OpenSubtitles v2018 / OPUS
+2139,out of the way,66,36.5,OpenSubtitles v2018 / OPUS
+2140,us out,66,36.5,OpenSubtitles v2018 / OPUS
+2141,have to get,66,36.5,OpenSubtitles v2018 / OPUS
+2142,you know what i,66,36.5,OpenSubtitles v2018 / OPUS
+2143,people in,66,36.5,OpenSubtitles v2018 / OPUS
+2144,it's wonderful,66,36.5,OpenSubtitles v2018 / OPUS
+2145,find that,66,36.5,OpenSubtitles v2018 / OPUS
+2146,wasn't it,66,36.5,OpenSubtitles v2018 / OPUS
+2147,anything wrong,66,36.5,OpenSubtitles v2018 / OPUS
+2148,the only way,66,36.5,OpenSubtitles v2018 / OPUS
+2149,tell him to,66,36.5,OpenSubtitles v2018 / OPUS
+2150,and wait,66,36.5,OpenSubtitles v2018 / OPUS
+2151,that's impossible,66,36.5,OpenSubtitles v2018 / OPUS
+2152,want to tell,66,36.5,OpenSubtitles v2018 / OPUS
+2153,won't we,66,36.5,OpenSubtitles v2018 / OPUS
+2154,it's my fault,66,36.5,OpenSubtitles v2018 / OPUS
+2155,on top,66,36.5,OpenSubtitles v2018 / OPUS
+2156,you know it's,66,36.5,OpenSubtitles v2018 / OPUS
+2157,oh don't,66,36.5,OpenSubtitles v2018 / OPUS
+2158,maybe you're,66,36.5,OpenSubtitles v2018 / OPUS
+2159,thing like,66,36.5,OpenSubtitles v2018 / OPUS
+2160,going out,66,36.5,OpenSubtitles v2018 / OPUS
+2161,to come to,66,36.5,OpenSubtitles v2018 / OPUS
+2162,on his way,66,36.5,OpenSubtitles v2018 / OPUS
+2163,to take care,66,36.5,OpenSubtitles v2018 / OPUS
+2164,can't do that,66,36.5,OpenSubtitles v2018 / OPUS
+2165,go again,66,36.5,OpenSubtitles v2018 / OPUS
+2166,don't work,66,36.5,OpenSubtitles v2018 / OPUS
+2167,that's very kind,66,36.5,OpenSubtitles v2018 / OPUS
+2168,i'm not even,66,36.5,OpenSubtitles v2018 / OPUS
+2169,aren't they,66,36.5,OpenSubtitles v2018 / OPUS
+2170,wind up,66,36.5,OpenSubtitles v2018 / OPUS
+2171,i've asked,66,36.5,OpenSubtitles v2018 / OPUS
+2172,it's about time,66,36.5,OpenSubtitles v2018 / OPUS
+2173,they've been,66,36.5,OpenSubtitles v2018 / OPUS
+2174,don't care what,66,36.5,OpenSubtitles v2018 / OPUS
+2175,right but,66,36.5,OpenSubtitles v2018 / OPUS
+2176,all right let's,66,36.5,OpenSubtitles v2018 / OPUS
+2177,know is,66,36.5,OpenSubtitles v2018 / OPUS
+2178,off his,66,36.5,OpenSubtitles v2018 / OPUS
+2179,in love with you,66,36.5,OpenSubtitles v2018 / OPUS
+2180,so sorry,66,36.5,OpenSubtitles v2018 / OPUS
+2181,that on,66,36.5,OpenSubtitles v2018 / OPUS
+2182,good friends,66,36.5,OpenSubtitles v2018 / OPUS
+2183,he don't,66,36.5,OpenSubtitles v2018 / OPUS
+2184,i'm really,65,36.4,OpenSubtitles v2018 / OPUS
+2185,are you ready,65,36.4,OpenSubtitles v2018 / OPUS
+2186,mind your,65,36.4,OpenSubtitles v2018 / OPUS
+2187,just wanted,65,36.4,OpenSubtitles v2018 / OPUS
+2188,tell that,65,36.4,OpenSubtitles v2018 / OPUS
+2189,need me,65,36.4,OpenSubtitles v2018 / OPUS
+2190,i'm just a,65,36.4,OpenSubtitles v2018 / OPUS
+2191,all right all right,65,36.4,OpenSubtitles v2018 / OPUS
+2192,on the ground,65,36.4,OpenSubtitles v2018 / OPUS
+2193,want to hear,65,36.4,OpenSubtitles v2018 / OPUS
+2194,go off,65,36.4,OpenSubtitles v2018 / OPUS
+2195,give you the,65,36.4,OpenSubtitles v2018 / OPUS
+2196,and i want,65,36.4,OpenSubtitles v2018 / OPUS
+2197,am sorry,65,36.4,OpenSubtitles v2018 / OPUS
+2198,i am sorry,65,36.4,OpenSubtitles v2018 / OPUS
+2199,know our,65,36.4,OpenSubtitles v2018 / OPUS
+2200,been a long time,65,36.4,OpenSubtitles v2018 / OPUS
+2201,over my,65,36.4,OpenSubtitles v2018 / OPUS
+2202,when he's,65,36.4,OpenSubtitles v2018 / OPUS
+2203,you care to,65,36.4,OpenSubtitles v2018 / OPUS
+2204,hold this,65,36.4,OpenSubtitles v2018 / OPUS
+2205,just a few,65,36.4,OpenSubtitles v2018 / OPUS
+2206,why didn't you tell me,65,36.4,OpenSubtitles v2018 / OPUS
+2207,know his,65,36.4,OpenSubtitles v2018 / OPUS
+2208,you mind if i,65,36.4,OpenSubtitles v2018 / OPUS
+2209,ought to know,65,36.4,OpenSubtitles v2018 / OPUS
+2210,you to get,65,36.4,OpenSubtitles v2018 / OPUS
+2211,up you,65,36.4,OpenSubtitles v2018 / OPUS
+2212,put it on,65,36.4,OpenSubtitles v2018 / OPUS
+2213,slow down,65,36.4,OpenSubtitles v2018 / OPUS
+2214,sure is,65,36.4,OpenSubtitles v2018 / OPUS
+2215,a talk,65,36.4,OpenSubtitles v2018 / OPUS
+2216,on let's go,65,36.4,OpenSubtitles v2018 / OPUS
+2217,come on let's go,65,36.4,OpenSubtitles v2018 / OPUS
+2218,mixed up,65,36.4,OpenSubtitles v2018 / OPUS
+2219,me it's,65,36.4,OpenSubtitles v2018 / OPUS
+2220,i've no,65,36.4,OpenSubtitles v2018 / OPUS
+2221,can't do this,65,36.4,OpenSubtitles v2018 / OPUS
+2222,time they,65,36.4,OpenSubtitles v2018 / OPUS
+2223,you'll get a,65,36.4,OpenSubtitles v2018 / OPUS
+2224,gonna tell,65,36.4,OpenSubtitles v2018 / OPUS
+2225,really think,65,36.4,OpenSubtitles v2018 / OPUS
+2226,after what,65,36.4,OpenSubtitles v2018 / OPUS
+2227,in your own,65,36.4,OpenSubtitles v2018 / OPUS
+2228,could just,65,36.4,OpenSubtitles v2018 / OPUS
+2229,how it's,65,36.4,OpenSubtitles v2018 / OPUS
+2230,did you go,64,36.3,OpenSubtitles v2018 / OPUS
+2231,on the phone,64,36.3,OpenSubtitles v2018 / OPUS
+2232,over for,64,36.3,OpenSubtitles v2018 / OPUS
+2233,woo's mom,64,36.3,OpenSubtitles v2018 / OPUS
+2234,gyeon woo's mom,64,36.3,OpenSubtitles v2018 / OPUS
+2235,have in,64,36.3,OpenSubtitles v2018 / OPUS
+2236,here please,64,36.3,OpenSubtitles v2018 / OPUS
+2237,give me your,64,36.3,OpenSubtitles v2018 / OPUS
+2238,their way,64,36.3,OpenSubtitles v2018 / OPUS
+2239,and in the,64,36.3,OpenSubtitles v2018 / OPUS
+2240,know what to,64,36.3,OpenSubtitles v2018 / OPUS
+2241,you come back,64,36.3,OpenSubtitles v2018 / OPUS
+2242,back to me,64,36.3,OpenSubtitles v2018 / OPUS
+2243,need some,64,36.3,OpenSubtitles v2018 / OPUS
+2244,don't have a,64,36.3,OpenSubtitles v2018 / OPUS
+2245,i was on,64,36.3,OpenSubtitles v2018 / OPUS
+2246,it's one,64,36.3,OpenSubtitles v2018 / OPUS
+2247,want to say,64,36.3,OpenSubtitles v2018 / OPUS
+2248,so that's,64,36.3,OpenSubtitles v2018 / OPUS
+2249,you don't know what,64,36.3,OpenSubtitles v2018 / OPUS
+2250,can't get far,64,36.3,OpenSubtitles v2018 / OPUS
+2251,get far without,64,36.3,OpenSubtitles v2018 / OPUS
+2252,you can't get far,64,36.3,OpenSubtitles v2018 / OPUS
+2253,can't get far without,64,36.3,OpenSubtitles v2018 / OPUS
+2254,get far without a,64,36.3,OpenSubtitles v2018 / OPUS
+2255,you can't get far without,64,36.3,OpenSubtitles v2018 / OPUS
+2256,can't get far without a,64,36.3,OpenSubtitles v2018 / OPUS
+2257,to work on,64,36.3,OpenSubtitles v2018 / OPUS
+2258,is ready,64,36.3,OpenSubtitles v2018 / OPUS
+2259,me talk,64,36.3,OpenSubtitles v2018 / OPUS
+2260,let me talk,64,36.3,OpenSubtitles v2018 / OPUS
+2261,feel sorry,64,36.3,OpenSubtitles v2018 / OPUS
+2262,feel sorry for,64,36.3,OpenSubtitles v2018 / OPUS
+2263,all right now,64,36.3,OpenSubtitles v2018 / OPUS
+2264,am sure,64,36.3,OpenSubtitles v2018 / OPUS
+2265,i am sure,64,36.3,OpenSubtitles v2018 / OPUS
+2266,it's gonna be,64,36.3,OpenSubtitles v2018 / OPUS
+2267,across the river,64,36.3,OpenSubtitles v2018 / OPUS
+2268,see what i mean,64,36.3,OpenSubtitles v2018 / OPUS
+2269,want is,64,36.3,OpenSubtitles v2018 / OPUS
+2270,in command,64,36.3,OpenSubtitles v2018 / OPUS
+2271,do you really,64,36.3,OpenSubtitles v2018 / OPUS
+2272,you won't be,64,36.3,OpenSubtitles v2018 / OPUS
+2273,think it was,64,36.3,OpenSubtitles v2018 / OPUS
+2274,here by,64,36.3,OpenSubtitles v2018 / OPUS
+2275,and that's the,64,36.3,OpenSubtitles v2018 / OPUS
+2276,must get,64,36.3,OpenSubtitles v2018 / OPUS
+2277,by surprise,64,36.3,OpenSubtitles v2018 / OPUS
+2278,thank you miss,64,36.3,OpenSubtitles v2018 / OPUS
+2279,are ready,64,36.3,OpenSubtitles v2018 / OPUS
+2280,you doing in,63,36.1,OpenSubtitles v2018 / OPUS
+2281,gonna be a,63,36.1,OpenSubtitles v2018 / OPUS
+2282,that it's,63,36.1,OpenSubtitles v2018 / OPUS
+2283,it happened,63,36.1,OpenSubtitles v2018 / OPUS
+2284,tell me why,63,36.1,OpenSubtitles v2018 / OPUS
+2285,i just can't,63,36.1,OpenSubtitles v2018 / OPUS
+2286,the time of,63,36.1,OpenSubtitles v2018 / OPUS
+2287,you go on,63,36.1,OpenSubtitles v2018 / OPUS
+2288,want him to,63,36.1,OpenSubtitles v2018 / OPUS
+2289,me down,63,36.1,OpenSubtitles v2018 / OPUS
+2290,just look,63,36.1,OpenSubtitles v2018 / OPUS
+2291,walk on,63,36.1,OpenSubtitles v2018 / OPUS
+2292,you're making,63,36.1,OpenSubtitles v2018 / OPUS
+2293,run along,63,36.1,OpenSubtitles v2018 / OPUS
+2294,is just a,63,36.1,OpenSubtitles v2018 / OPUS
+2295,way down,63,36.1,OpenSubtitles v2018 / OPUS
+2296,said in,63,36.1,OpenSubtitles v2018 / OPUS
+2297,on account of,63,36.1,OpenSubtitles v2018 / OPUS
+2298,we wouldn't,63,36.1,OpenSubtitles v2018 / OPUS
+2299,wouldn't do,63,36.1,OpenSubtitles v2018 / OPUS
+2300,not in the,63,36.1,OpenSubtitles v2018 / OPUS
+2301,things in,63,36.1,OpenSubtitles v2018 / OPUS
+2302,off it,63,36.1,OpenSubtitles v2018 / OPUS
+2303,a thing like,63,36.1,OpenSubtitles v2018 / OPUS
+2304,oh come,63,36.1,OpenSubtitles v2018 / OPUS
+2305,didn't think,63,36.1,OpenSubtitles v2018 / OPUS
+2306,no i don't want,63,36.1,OpenSubtitles v2018 / OPUS
+2307,come on now,63,36.1,OpenSubtitles v2018 / OPUS
+2308,in years,63,36.1,OpenSubtitles v2018 / OPUS
+2309,it's done,63,36.1,OpenSubtitles v2018 / OPUS
+2310,they wouldn't,63,36.1,OpenSubtitles v2018 / OPUS
+2311,i don't understand you,63,36.1,OpenSubtitles v2018 / OPUS
+2312,your back,63,36.1,OpenSubtitles v2018 / OPUS
+2313,i know all,63,36.1,OpenSubtitles v2018 / OPUS
+2314,to get to,63,36.1,OpenSubtitles v2018 / OPUS
+2315,you right,63,36.1,OpenSubtitles v2018 / OPUS
+2316,just the same,63,36.1,OpenSubtitles v2018 / OPUS
+2317,put in,63,36.1,OpenSubtitles v2018 / OPUS
+2318,it's mine,63,36.1,OpenSubtitles v2018 / OPUS
+2319,i know the,62,36.0,OpenSubtitles v2018 / OPUS
+2320,i can't get,62,36.0,OpenSubtitles v2018 / OPUS
+2321,in touch,62,36.0,OpenSubtitles v2018 / OPUS
+2322,i'll help,62,36.0,OpenSubtitles v2018 / OPUS
+2323,after we,62,36.0,OpenSubtitles v2018 / OPUS
+2324,no i'll,62,36.0,OpenSubtitles v2018 / OPUS
+2325,i'll get you,62,36.0,OpenSubtitles v2018 / OPUS
+2326,it out of,62,36.0,OpenSubtitles v2018 / OPUS
+2327,then you'll,62,36.0,OpenSubtitles v2018 / OPUS
+2328,to tell him,62,36.0,OpenSubtitles v2018 / OPUS
+2329,in such,62,36.0,OpenSubtitles v2018 / OPUS
+2330,and get it,62,36.0,OpenSubtitles v2018 / OPUS
+2331,away to,62,36.0,OpenSubtitles v2018 / OPUS
+2332,all right i'll,62,36.0,OpenSubtitles v2018 / OPUS
+2333,out to the,62,36.0,OpenSubtitles v2018 / OPUS
+2334,don't get it,62,36.0,OpenSubtitles v2018 / OPUS
+2335,going in,62,36.0,OpenSubtitles v2018 / OPUS
+2336,put it in,62,36.0,OpenSubtitles v2018 / OPUS
+2337,get outta,62,36.0,OpenSubtitles v2018 / OPUS
+2338,gonna make,62,36.0,OpenSubtitles v2018 / OPUS
+2339,in a while,62,36.0,OpenSubtitles v2018 / OPUS
+2340,not tell,62,36.0,OpenSubtitles v2018 / OPUS
+2341,the same time,62,36.0,OpenSubtitles v2018 / OPUS
+2342,out of a,62,36.0,OpenSubtitles v2018 / OPUS
+2343,maybe it's,62,36.0,OpenSubtitles v2018 / OPUS
+2344,you to go,62,36.0,OpenSubtitles v2018 / OPUS
+2345,went on,62,36.0,OpenSubtitles v2018 / OPUS
+2346,don't call,62,36.0,OpenSubtitles v2018 / OPUS
+2347,over at,62,36.0,OpenSubtitles v2018 / OPUS
+2348,to take care of,62,36.0,OpenSubtitles v2018 / OPUS
+2349,what'd you,62,36.0,OpenSubtitles v2018 / OPUS
+2350,out of town,62,36.0,OpenSubtitles v2018 / OPUS
+2351,good look,62,36.0,OpenSubtitles v2018 / OPUS
+2352,a good look,62,36.0,OpenSubtitles v2018 / OPUS
+2353,didn't make,62,36.0,OpenSubtitles v2018 / OPUS
+2354,i didn't say,62,36.0,OpenSubtitles v2018 / OPUS
+2355,in the army,61,35.8,OpenSubtitles v2018 / OPUS
+2356,i'm doing,61,35.8,OpenSubtitles v2018 / OPUS
+2357,you're supposed,61,35.8,OpenSubtitles v2018 / OPUS
+2358,you're supposed to,61,35.8,OpenSubtitles v2018 / OPUS
+2359,doesn't he,61,35.8,OpenSubtitles v2018 / OPUS
+2360,it look,61,35.8,OpenSubtitles v2018 / OPUS
+2361,i'm talking to,61,35.8,OpenSubtitles v2018 / OPUS
+2362,just go,61,35.8,OpenSubtitles v2018 / OPUS
+2363,mean i,61,35.8,OpenSubtitles v2018 / OPUS
+2364,i'm getting married,61,35.8,OpenSubtitles v2018 / OPUS
+2365,hold the,61,35.8,OpenSubtitles v2018 / OPUS
+2366,now that's,61,35.8,OpenSubtitles v2018 / OPUS
+2367,wouldn't let,61,35.8,OpenSubtitles v2018 / OPUS
+2368,in them,61,35.8,OpenSubtitles v2018 / OPUS
+2369,right you,61,35.8,OpenSubtitles v2018 / OPUS
+2370,it don't,61,35.8,OpenSubtitles v2018 / OPUS
+2371,well get,61,35.8,OpenSubtitles v2018 / OPUS
+2372,i've never seen,61,35.8,OpenSubtitles v2018 / OPUS
+2373,in from,61,35.8,OpenSubtitles v2018 / OPUS
+2374,on them,61,35.8,OpenSubtitles v2018 / OPUS
+2375,please sit,61,35.8,OpenSubtitles v2018 / OPUS
+2376,please sit down,61,35.8,OpenSubtitles v2018 / OPUS
+2377,you are in,61,35.8,OpenSubtitles v2018 / OPUS
+2378,let's go to,61,35.8,OpenSubtitles v2018 / OPUS
+2379,out again,61,35.8,OpenSubtitles v2018 / OPUS
+2380,you can find,61,35.8,OpenSubtitles v2018 / OPUS
+2381,please come,61,35.8,OpenSubtitles v2018 / OPUS
+2382,would you care to,61,35.8,OpenSubtitles v2018 / OPUS
+2383,report on,61,35.8,OpenSubtitles v2018 / OPUS
+2384,come on get,61,35.8,OpenSubtitles v2018 / OPUS
+2385,maybe i can,61,35.8,OpenSubtitles v2018 / OPUS
+2386,which way,61,35.8,OpenSubtitles v2018 / OPUS
+2387,didn't kill,61,35.8,OpenSubtitles v2018 / OPUS
+2388,all right i,61,35.8,OpenSubtitles v2018 / OPUS
+2389,it's on,61,35.8,OpenSubtitles v2018 / OPUS
+2390,wait a second,61,35.8,OpenSubtitles v2018 / OPUS
+2391,take care of yourself,61,35.8,OpenSubtitles v2018 / OPUS
+2392,it's got,61,35.8,OpenSubtitles v2018 / OPUS
+2393,you didn't have,61,35.8,OpenSubtitles v2018 / OPUS
+2394,that's for,61,35.8,OpenSubtitles v2018 / OPUS
+2395,down please,61,35.8,OpenSubtitles v2018 / OPUS
+2396,we're lucky,61,35.8,OpenSubtitles v2018 / OPUS
+2397,now tell me,61,35.8,OpenSubtitles v2018 / OPUS
+2398,ain't it,61,35.8,OpenSubtitles v2018 / OPUS
+2399,now wait a,61,35.8,OpenSubtitles v2018 / OPUS
+2400,come on out,61,35.8,OpenSubtitles v2018 / OPUS
+2401,the time you,61,35.8,OpenSubtitles v2018 / OPUS
+2402,me ma'am,61,35.8,OpenSubtitles v2018 / OPUS
+2403,just my,60,35.7,OpenSubtitles v2018 / OPUS
+2404,her go,60,35.7,OpenSubtitles v2018 / OPUS
+2405,you'll come,60,35.7,OpenSubtitles v2018 / OPUS
+2406,it's possible,60,35.7,OpenSubtitles v2018 / OPUS
+2407,over with,60,35.7,OpenSubtitles v2018 / OPUS
+2408,get ready,60,35.7,OpenSubtitles v2018 / OPUS
+2409,sure if,60,35.7,OpenSubtitles v2018 / OPUS
+2410,on duty,60,35.7,OpenSubtitles v2018 / OPUS
+2411,you're in the,60,35.7,OpenSubtitles v2018 / OPUS
+2412,don't give me,60,35.7,OpenSubtitles v2018 / OPUS
+2413,i've always,60,35.7,OpenSubtitles v2018 / OPUS
+2414,it's a question,60,35.7,OpenSubtitles v2018 / OPUS
+2415,is gonna,60,35.7,OpenSubtitles v2018 / OPUS
+2416,to take a,60,35.7,OpenSubtitles v2018 / OPUS
+2417,look what,60,35.7,OpenSubtitles v2018 / OPUS
+2418,could find,60,35.7,OpenSubtitles v2018 / OPUS
+2419,why i'm,60,35.7,OpenSubtitles v2018 / OPUS
+2420,be just,60,35.7,OpenSubtitles v2018 / OPUS
+2421,we don't have,60,35.7,OpenSubtitles v2018 / OPUS
+2422,out from,60,35.7,OpenSubtitles v2018 / OPUS
+2423,i think it,60,35.7,OpenSubtitles v2018 / OPUS
+2424,he doesn't know,60,35.7,OpenSubtitles v2018 / OPUS
+2425,maybe they,60,35.7,OpenSubtitles v2018 / OPUS
+2426,mean a,60,35.7,OpenSubtitles v2018 / OPUS
+2427,think you can,60,35.7,OpenSubtitles v2018 / OPUS
+2428,in these,60,35.7,OpenSubtitles v2018 / OPUS
+2429,gets back,60,35.7,OpenSubtitles v2018 / OPUS
+2430,in this town,60,35.7,OpenSubtitles v2018 / OPUS
+2431,them in the,60,35.7,OpenSubtitles v2018 / OPUS
+2432,grew up,60,35.7,OpenSubtitles v2018 / OPUS
+2433,remember me,60,35.7,OpenSubtitles v2018 / OPUS
+2434,or maybe,60,35.7,OpenSubtitles v2018 / OPUS
+2435,just too,60,35.7,OpenSubtitles v2018 / OPUS
+2436,i didn't think,60,35.7,OpenSubtitles v2018 / OPUS
+2437,on the beach,60,35.7,OpenSubtitles v2018 / OPUS
+2438,of thing,60,35.7,OpenSubtitles v2018 / OPUS
+2439,you get out,60,35.7,OpenSubtitles v2018 / OPUS
+2440,it's not that,60,35.7,OpenSubtitles v2018 / OPUS
+2441,just trying,60,35.7,OpenSubtitles v2018 / OPUS
+2442,just trying to,60,35.7,OpenSubtitles v2018 / OPUS
+2443,i'm sure it,60,35.7,OpenSubtitles v2018 / OPUS
+2444,i've got something to,60,35.7,OpenSubtitles v2018 / OPUS
+2445,get excited,60,35.7,OpenSubtitles v2018 / OPUS
+2446,i know how you,60,35.7,OpenSubtitles v2018 / OPUS
+2447,down in the,60,35.7,OpenSubtitles v2018 / OPUS
+2448,tell you how,60,35.7,OpenSubtitles v2018 / OPUS
+2449,you get the,60,35.7,OpenSubtitles v2018 / OPUS
+2450,it please,60,35.7,OpenSubtitles v2018 / OPUS
+2451,to hang,60,35.7,OpenSubtitles v2018 / OPUS
+2452,don't understand it,60,35.7,OpenSubtitles v2018 / OPUS
+2453,let me out,60,35.7,OpenSubtitles v2018 / OPUS
+2454,go to your,60,35.7,OpenSubtitles v2018 / OPUS
+2455,spider's web forest,60,35.7,OpenSubtitles v2018 / OPUS
+2456,great lord's,60,35.7,OpenSubtitles v2018 / OPUS
+2457,the great lord's,60,35.7,OpenSubtitles v2018 / OPUS
+2458,it's not true,59,35.6,OpenSubtitles v2018 / OPUS
+2459,i'm in the,59,35.6,OpenSubtitles v2018 / OPUS
+2460,won't come,59,35.6,OpenSubtitles v2018 / OPUS
+2461,you're wrong,59,35.6,OpenSubtitles v2018 / OPUS
+2462,love is,59,35.6,OpenSubtitles v2018 / OPUS
+2463,just leave,59,35.6,OpenSubtitles v2018 / OPUS
+2464,i went through,59,35.6,OpenSubtitles v2018 / OPUS
+2465,know it was,59,35.6,OpenSubtitles v2018 / OPUS
+2466,i'll stay,59,35.6,OpenSubtitles v2018 / OPUS
+2467,through with,59,35.6,OpenSubtitles v2018 / OPUS
+2468,on one,59,35.6,OpenSubtitles v2018 / OPUS
+2469,time we,59,35.6,OpenSubtitles v2018 / OPUS
+2470,sure we,59,35.6,OpenSubtitles v2018 / OPUS
+2471,that isn't,59,35.6,OpenSubtitles v2018 / OPUS
+2472,i will give,59,35.6,OpenSubtitles v2018 / OPUS
+2473,know mr,59,35.6,OpenSubtitles v2018 / OPUS
+2474,go inside,59,35.6,OpenSubtitles v2018 / OPUS
+2475,didn't see,59,35.6,OpenSubtitles v2018 / OPUS
+2476,they call,59,35.6,OpenSubtitles v2018 / OPUS
+2477,still don't,59,35.6,OpenSubtitles v2018 / OPUS
+2478,are on,59,35.6,OpenSubtitles v2018 / OPUS
+2479,we're on,59,35.6,OpenSubtitles v2018 / OPUS
+2480,out on the,59,35.6,OpenSubtitles v2018 / OPUS
+2481,you're too,59,35.6,OpenSubtitles v2018 / OPUS
+2482,of 'em,59,35.6,OpenSubtitles v2018 / OPUS
+2483,have a look at,59,35.6,OpenSubtitles v2018 / OPUS
+2484,me talk to,59,35.6,OpenSubtitles v2018 / OPUS
+2485,let me talk to,59,35.6,OpenSubtitles v2018 / OPUS
+2486,to take it,59,35.6,OpenSubtitles v2018 / OPUS
+2487,i talk,59,35.6,OpenSubtitles v2018 / OPUS
+2488,i'm not afraid,59,35.6,OpenSubtitles v2018 / OPUS
+2489,turn in,59,35.6,OpenSubtitles v2018 / OPUS
+2490,bad news,59,35.6,OpenSubtitles v2018 / OPUS
+2491,they take,59,35.6,OpenSubtitles v2018 / OPUS
+2492,please tell,59,35.6,OpenSubtitles v2018 / OPUS
+2493,stay away from,59,35.6,OpenSubtitles v2018 / OPUS
+2494,no i don't think,59,35.6,OpenSubtitles v2018 / OPUS
+2495,tell you i,59,35.6,OpenSubtitles v2018 / OPUS
+2496,it's a question of,59,35.6,OpenSubtitles v2018 / OPUS
+2497,work beside,59,35.6,OpenSubtitles v2018 / OPUS
+2498,eyes right,59,35.6,OpenSubtitles v2018 / OPUS
+2499,hate the,59,35.6,OpenSubtitles v2018 / OPUS
+2500,problem is,59,35.6,OpenSubtitles v2018 / OPUS
+2501,i mean it,59,35.6,OpenSubtitles v2018 / OPUS
+2502,job in,59,35.6,OpenSubtitles v2018 / OPUS
+2503,know how you feel,59,35.6,OpenSubtitles v2018 / OPUS
+2504,we'll try to,59,35.6,OpenSubtitles v2018 / OPUS
+2505,and on,59,35.6,OpenSubtitles v2018 / OPUS
+2506,no wait,59,35.6,OpenSubtitles v2018 / OPUS
+2507,right for,59,35.6,OpenSubtitles v2018 / OPUS
+2508,maybe i'll,59,35.6,OpenSubtitles v2018 / OPUS
+2509,come back here,59,35.6,OpenSubtitles v2018 / OPUS
+2510,now let,59,35.6,OpenSubtitles v2018 / OPUS
+2511,should be in,59,35.6,OpenSubtitles v2018 / OPUS
+2512,don't you go,59,35.6,OpenSubtitles v2018 / OPUS
+2513,why don't you go,59,35.6,OpenSubtitles v2018 / OPUS
+2514,i'm giving,59,35.6,OpenSubtitles v2018 / OPUS
+2515,him i'll,59,35.6,OpenSubtitles v2018 / OPUS
+2516,in the air,58,35.4,OpenSubtitles v2018 / OPUS
+2517,i'm an,58,35.4,OpenSubtitles v2018 / OPUS
+2518,i'll buy,58,35.4,OpenSubtitles v2018 / OPUS
+2519,wrong with you,58,35.4,OpenSubtitles v2018 / OPUS
+2520,don't take it,58,35.4,OpenSubtitles v2018 / OPUS
+2521,it this way,58,35.4,OpenSubtitles v2018 / OPUS
+2522,me don't,58,35.4,OpenSubtitles v2018 / OPUS
+2523,care of you,58,35.4,OpenSubtitles v2018 / OPUS
+2524,how do you feel,58,35.4,OpenSubtitles v2018 / OPUS
+2525,just so,58,35.4,OpenSubtitles v2018 / OPUS
+2526,you're talking about,58,35.4,OpenSubtitles v2018 / OPUS
+2527,is love,58,35.4,OpenSubtitles v2018 / OPUS
+2528,don't touch,58,35.4,OpenSubtitles v2018 / OPUS
+2529,went in,58,35.4,OpenSubtitles v2018 / OPUS
+2530,they just,58,35.4,OpenSubtitles v2018 / OPUS
+2531,can talk,58,35.4,OpenSubtitles v2018 / OPUS
+2532,to get away,58,35.4,OpenSubtitles v2018 / OPUS
+2533,by his,58,35.4,OpenSubtitles v2018 / OPUS
+2534,right back,58,35.4,OpenSubtitles v2018 / OPUS
+2535,don't even know,58,35.4,OpenSubtitles v2018 / OPUS
+2536,count on,58,35.4,OpenSubtitles v2018 / OPUS
+2537,off at,58,35.4,OpenSubtitles v2018 / OPUS
+2538,in front of the,58,35.4,OpenSubtitles v2018 / OPUS
+2539,on october,58,35.4,OpenSubtitles v2018 / OPUS
+2540,take you to,58,35.4,OpenSubtitles v2018 / OPUS
+2541,to come in,58,35.4,OpenSubtitles v2018 / OPUS
+2542,do you know that,58,35.4,OpenSubtitles v2018 / OPUS
+2543,that doesn't,58,35.4,OpenSubtitles v2018 / OPUS
+2544,i can tell,58,35.4,OpenSubtitles v2018 / OPUS
+2545,doesn't make,58,35.4,OpenSubtitles v2018 / OPUS
+2546,when i get,58,35.4,OpenSubtitles v2018 / OPUS
+2547,what i'd,58,35.4,OpenSubtitles v2018 / OPUS
+2548,thing for,58,35.4,OpenSubtitles v2018 / OPUS
+2549,once in a while,58,35.4,OpenSubtitles v2018 / OPUS
+2550,in a way,58,35.4,OpenSubtitles v2018 / OPUS
+2551,caught in,58,35.4,OpenSubtitles v2018 / OPUS
+2552,not matter,58,35.4,OpenSubtitles v2018 / OPUS
+2553,i'm sick of,58,35.4,OpenSubtitles v2018 / OPUS
+2554,life in,58,35.4,OpenSubtitles v2018 / OPUS
+2555,you'll go,58,35.4,OpenSubtitles v2018 / OPUS
+2556,we'll find,58,35.4,OpenSubtitles v2018 / OPUS
+2557,me i'd,58,35.4,OpenSubtitles v2018 / OPUS
+2558,you know a,58,35.4,OpenSubtitles v2018 / OPUS
+2559,it sounds,58,35.4,OpenSubtitles v2018 / OPUS
+2560,was trying,58,35.4,OpenSubtitles v2018 / OPUS
+2561,you care for,58,35.4,OpenSubtitles v2018 / OPUS
+2562,miles away,58,35.4,OpenSubtitles v2018 / OPUS
+2563,i know how you feel,58,35.4,OpenSubtitles v2018 / OPUS
+2564,wrong with that,58,35.4,OpenSubtitles v2018 / OPUS
+2565,it's worth,58,35.4,OpenSubtitles v2018 / OPUS
+2566,gone down,58,35.4,OpenSubtitles v2018 / OPUS
+2567,any good,58,35.4,OpenSubtitles v2018 / OPUS
+2568,but you don't,58,35.4,OpenSubtitles v2018 / OPUS
+2569,you need to,57,35.3,OpenSubtitles v2018 / OPUS
+2570,pick it up,57,35.3,OpenSubtitles v2018 / OPUS
+2571,wanna know,57,35.3,OpenSubtitles v2018 / OPUS
+2572,in order to,57,35.3,OpenSubtitles v2018 / OPUS
+2573,you on your,57,35.3,OpenSubtitles v2018 / OPUS
+2574,and maybe,57,35.3,OpenSubtitles v2018 / OPUS
+2575,maybe we can,57,35.3,OpenSubtitles v2018 / OPUS
+2576,it's our,57,35.3,OpenSubtitles v2018 / OPUS
+2577,in the way,57,35.3,OpenSubtitles v2018 / OPUS
+2578,isn't she,57,35.3,OpenSubtitles v2018 / OPUS
+2579,from time,57,35.3,OpenSubtitles v2018 / OPUS
+2580,i just got,57,35.3,OpenSubtitles v2018 / OPUS
+2581,important thing,57,35.3,OpenSubtitles v2018 / OPUS
+2582,now it's,57,35.3,OpenSubtitles v2018 / OPUS
+2583,tell me you,57,35.3,OpenSubtitles v2018 / OPUS
+2584,if you think,57,35.3,OpenSubtitles v2018 / OPUS
+2585,get so,57,35.3,OpenSubtitles v2018 / OPUS
+2586,tell him the,57,35.3,OpenSubtitles v2018 / OPUS
+2587,in the street,57,35.3,OpenSubtitles v2018 / OPUS
+2588,that out,57,35.3,OpenSubtitles v2018 / OPUS
+2589,i know how to,57,35.3,OpenSubtitles v2018 / OPUS
+2590,him right,57,35.3,OpenSubtitles v2018 / OPUS
+2591,in the name,57,35.3,OpenSubtitles v2018 / OPUS
+2592,in the name of,57,35.3,OpenSubtitles v2018 / OPUS
+2593,a serious,57,35.3,OpenSubtitles v2018 / OPUS
+2594,it really,57,35.3,OpenSubtitles v2018 / OPUS
+2595,think she,57,35.3,OpenSubtitles v2018 / OPUS
+2596,think you'll,57,35.3,OpenSubtitles v2018 / OPUS
+2597,i'm right,57,35.3,OpenSubtitles v2018 / OPUS
+2598,get through,57,35.3,OpenSubtitles v2018 / OPUS
+2599,it'd be,57,35.3,OpenSubtitles v2018 / OPUS
+2600,down your,57,35.3,OpenSubtitles v2018 / OPUS
+2601,going to happen,57,35.3,OpenSubtitles v2018 / OPUS
+2602,you can't do,57,35.3,OpenSubtitles v2018 / OPUS
+2603,you're looking,57,35.3,OpenSubtitles v2018 / OPUS
+2604,good as,57,35.3,OpenSubtitles v2018 / OPUS
+2605,you're saying,57,35.3,OpenSubtitles v2018 / OPUS
+2606,i want to talk,57,35.3,OpenSubtitles v2018 / OPUS
+2607,you around,57,35.3,OpenSubtitles v2018 / OPUS
+2608,first thing,57,35.3,OpenSubtitles v2018 / OPUS
+2609,by the time,57,35.3,OpenSubtitles v2018 / OPUS
+2610,you're sure,57,35.3,OpenSubtitles v2018 / OPUS
+2611,on in the,57,35.3,OpenSubtitles v2018 / OPUS
+2612,it's a matter,57,35.3,OpenSubtitles v2018 / OPUS
+2613,it's a matter of,57,35.3,OpenSubtitles v2018 / OPUS
+2614,that's not what i,57,35.3,OpenSubtitles v2018 / OPUS
+2615,i was right,57,35.3,OpenSubtitles v2018 / OPUS
+2616,well there's,57,35.3,OpenSubtitles v2018 / OPUS
+2617,now wait a minute,57,35.3,OpenSubtitles v2018 / OPUS
+2618,don't seem,57,35.3,OpenSubtitles v2018 / OPUS
+2619,i can't take,57,35.3,OpenSubtitles v2018 / OPUS
+2620,and go to,57,35.3,OpenSubtitles v2018 / OPUS
+2621,i don't understand it,57,35.3,OpenSubtitles v2018 / OPUS
+2622,aye that's,57,35.3,OpenSubtitles v2018 / OPUS
+2623,leonard vole's,57,35.3,OpenSubtitles v2018 / OPUS
+2624,wanna live,57,35.3,OpenSubtitles v2018 / OPUS
+2625,do you think you,56,35.1,OpenSubtitles v2018 / OPUS
+2626,did you tell,56,35.1,OpenSubtitles v2018 / OPUS
+2627,yes it's,56,35.1,OpenSubtitles v2018 / OPUS
+2628,you ma'am,56,35.1,OpenSubtitles v2018 / OPUS
+2629,i'm gonna have,56,35.1,OpenSubtitles v2018 / OPUS
+2630,all around,56,35.1,OpenSubtitles v2018 / OPUS
+2631,let's just,56,35.1,OpenSubtitles v2018 / OPUS
+2632,shouldn't be,56,35.1,OpenSubtitles v2018 / OPUS
+2633,turned out,56,35.1,OpenSubtitles v2018 / OPUS
+2634,made up,56,35.1,OpenSubtitles v2018 / OPUS
+2635,running away,56,35.1,OpenSubtitles v2018 / OPUS
+2636,died in,56,35.1,OpenSubtitles v2018 / OPUS
+2637,i know you're,56,35.1,OpenSubtitles v2018 / OPUS
+2638,a good man,56,35.1,OpenSubtitles v2018 / OPUS
+2639,up again,56,35.1,OpenSubtitles v2018 / OPUS
+2640,back from,56,35.1,OpenSubtitles v2018 / OPUS
+2641,money in,56,35.1,OpenSubtitles v2018 / OPUS
+2642,look around,56,35.1,OpenSubtitles v2018 / OPUS
+2643,and find,56,35.1,OpenSubtitles v2018 / OPUS
+2644,like you're,56,35.1,OpenSubtitles v2018 / OPUS
+2645,you can't go,56,35.1,OpenSubtitles v2018 / OPUS
+2646,move on,56,35.1,OpenSubtitles v2018 / OPUS
+2647,to know what,56,35.1,OpenSubtitles v2018 / OPUS
+2648,i'm thinking,56,35.1,OpenSubtitles v2018 / OPUS
+2649,i just want to,56,35.1,OpenSubtitles v2018 / OPUS
+2650,know why i,56,35.1,OpenSubtitles v2018 / OPUS
+2651,to feel,56,35.1,OpenSubtitles v2018 / OPUS
+2652,if you need,56,35.1,OpenSubtitles v2018 / OPUS
+2653,he's my,56,35.1,OpenSubtitles v2018 / OPUS
+2654,step on,56,35.1,OpenSubtitles v2018 / OPUS
+2655,care of the,56,35.1,OpenSubtitles v2018 / OPUS
+2656,here let,56,35.1,OpenSubtitles v2018 / OPUS
+2657,to have a look,56,35.1,OpenSubtitles v2018 / OPUS
+2658,it's always,56,35.1,OpenSubtitles v2018 / OPUS
+2659,i want a,56,35.1,OpenSubtitles v2018 / OPUS
+2660,there's some,56,35.1,OpenSubtitles v2018 / OPUS
+2661,this one's,56,35.1,OpenSubtitles v2018 / OPUS
+2662,no you don't,56,35.1,OpenSubtitles v2018 / OPUS
+2663,it's been a long,56,35.1,OpenSubtitles v2018 / OPUS
+2664,in that case,56,35.1,OpenSubtitles v2018 / OPUS
+2665,you take care,56,35.1,OpenSubtitles v2018 / OPUS
+2666,does not matter,56,35.1,OpenSubtitles v2018 / OPUS
+2667,now you know,56,35.1,OpenSubtitles v2018 / OPUS
+2668,aren't you going,56,35.1,OpenSubtitles v2018 / OPUS
+2669,were on,56,35.1,OpenSubtitles v2018 / OPUS
+2670,i'd never,56,35.1,OpenSubtitles v2018 / OPUS
+2671,i'll try to,56,35.1,OpenSubtitles v2018 / OPUS
+2672,you know if,56,35.1,OpenSubtitles v2018 / OPUS
+2673,where'd you get,56,35.1,OpenSubtitles v2018 / OPUS
+2674,on your feet,56,35.1,OpenSubtitles v2018 / OPUS
+2675,i haven't seen,56,35.1,OpenSubtitles v2018 / OPUS
+2676,well off,56,35.1,OpenSubtitles v2018 / OPUS
+2677,sit down please,56,35.1,OpenSubtitles v2018 / OPUS
+2678,i haven't the,56,35.1,OpenSubtitles v2018 / OPUS
+2679,i hate the,56,35.1,OpenSubtitles v2018 / OPUS
+2680,sure you won't,56,35.1,OpenSubtitles v2018 / OPUS
+2681,take a good,56,35.1,OpenSubtitles v2018 / OPUS
+2682,that we've,56,35.1,OpenSubtitles v2018 / OPUS
+2683,off my,56,35.1,OpenSubtitles v2018 / OPUS
+2684,what's the difference,56,35.1,OpenSubtitles v2018 / OPUS
+2685,i don't care what,56,35.1,OpenSubtitles v2018 / OPUS
+2686,run out of,56,35.1,OpenSubtitles v2018 / OPUS
+2687,he'll have,56,35.1,OpenSubtitles v2018 / OPUS
+2688,get him to,56,35.1,OpenSubtitles v2018 / OPUS
+2689,to think about,56,35.1,OpenSubtitles v2018 / OPUS
+2690,let's try,56,35.1,OpenSubtitles v2018 / OPUS
+2691,ain't he,56,35.1,OpenSubtitles v2018 / OPUS
+2692,wanted to get,56,35.1,OpenSubtitles v2018 / OPUS
+2693,i'll take you,56,35.1,OpenSubtitles v2018 / OPUS
+2694,quite right,56,35.1,OpenSubtitles v2018 / OPUS
+2695,there's only one,56,35.1,OpenSubtitles v2018 / OPUS
+2696,go into the,56,35.1,OpenSubtitles v2018 / OPUS
+2697,what you're doing,56,35.1,OpenSubtitles v2018 / OPUS
+2698,don't sit,56,35.1,OpenSubtitles v2018 / OPUS
+2699,on yeller,56,35.1,OpenSubtitles v2018 / OPUS
+2700,come on yeller,56,35.1,OpenSubtitles v2018 / OPUS
+2701,just take,55,35.0,OpenSubtitles v2018 / OPUS
+2702,my back,55,35.0,OpenSubtitles v2018 / OPUS
+2703,you believe in,55,35.0,OpenSubtitles v2018 / OPUS
+2704,yeah i know,55,35.0,OpenSubtitles v2018 / OPUS
+2705,what on,55,35.0,OpenSubtitles v2018 / OPUS
+2706,i'll take the,55,35.0,OpenSubtitles v2018 / OPUS
+2707,i think that's,55,35.0,OpenSubtitles v2018 / OPUS
+2708,a problem,55,35.0,OpenSubtitles v2018 / OPUS
+2709,look you,55,35.0,OpenSubtitles v2018 / OPUS
+2710,didn't know what,55,35.0,OpenSubtitles v2018 / OPUS
+2711,back you,55,35.0,OpenSubtitles v2018 / OPUS
+2712,we give,55,35.0,OpenSubtitles v2018 / OPUS
+2713,i'm fine,55,35.0,OpenSubtitles v2018 / OPUS
+2714,don't want you to,55,35.0,OpenSubtitles v2018 / OPUS
+2715,out you,55,35.0,OpenSubtitles v2018 / OPUS
+2716,will remember,55,35.0,OpenSubtitles v2018 / OPUS
+2717,i'll put,55,35.0,OpenSubtitles v2018 / OPUS
+2718,little thing,55,35.0,OpenSubtitles v2018 / OPUS
+2719,they look,55,35.0,OpenSubtitles v2018 / OPUS
+2720,he's done,55,35.0,OpenSubtitles v2018 / OPUS
+2721,might think,55,35.0,OpenSubtitles v2018 / OPUS
+2722,see you in,55,35.0,OpenSubtitles v2018 / OPUS
+2723,really a,55,35.0,OpenSubtitles v2018 / OPUS
+2724,a look at this,55,35.0,OpenSubtitles v2018 / OPUS
+2725,you sure you,55,35.0,OpenSubtitles v2018 / OPUS
+2726,on television,55,35.0,OpenSubtitles v2018 / OPUS
+2727,there wasn't,55,35.0,OpenSubtitles v2018 / OPUS
+2728,the day after,55,35.0,OpenSubtitles v2018 / OPUS
+2729,way for,55,35.0,OpenSubtitles v2018 / OPUS
+2730,you can take,55,35.0,OpenSubtitles v2018 / OPUS
+2731,not work,55,35.0,OpenSubtitles v2018 / OPUS
+2732,i need you,55,35.0,OpenSubtitles v2018 / OPUS
+2733,you know this,55,35.0,OpenSubtitles v2018 / OPUS
+2734,will you come,55,35.0,OpenSubtitles v2018 / OPUS
+2735,to time,55,35.0,OpenSubtitles v2018 / OPUS
+2736,from time to,55,35.0,OpenSubtitles v2018 / OPUS
+2737,time to time,55,35.0,OpenSubtitles v2018 / OPUS
+2738,from time to time,55,35.0,OpenSubtitles v2018 / OPUS
+2739,i've lost,55,35.0,OpenSubtitles v2018 / OPUS
+2740,know i've,55,35.0,OpenSubtitles v2018 / OPUS
+2741,want me to do,55,35.0,OpenSubtitles v2018 / OPUS
+2742,me don't you,55,35.0,OpenSubtitles v2018 / OPUS
+2743,i thank,55,35.0,OpenSubtitles v2018 / OPUS
+2744,mind you,55,35.0,OpenSubtitles v2018 / OPUS
+2745,around for,55,35.0,OpenSubtitles v2018 / OPUS
+2746,was trying to,55,35.0,OpenSubtitles v2018 / OPUS
+2747,tell you the,55,35.0,OpenSubtitles v2018 / OPUS
+2748,interest in,55,35.0,OpenSubtitles v2018 / OPUS
+2749,in a few days,55,35.0,OpenSubtitles v2018 / OPUS
+2750,that's the end,55,35.0,OpenSubtitles v2018 / OPUS
+2751,more thing to,55,35.0,OpenSubtitles v2018 / OPUS
+2752,one more thing to,55,35.0,OpenSubtitles v2018 / OPUS
+2753,more thing to do,55,35.0,OpenSubtitles v2018 / OPUS
+2754,always one more thing to,55,35.0,OpenSubtitles v2018 / OPUS
+2755,one more thing to do,55,35.0,OpenSubtitles v2018 / OPUS
+2756,in cold,55,35.0,OpenSubtitles v2018 / OPUS
+2757,it's one thing,55,35.0,OpenSubtitles v2018 / OPUS
+2758,to blow up,55,35.0,OpenSubtitles v2018 / OPUS
+2759,sleep in,55,35.0,OpenSubtitles v2018 / OPUS
+2760,should think,55,35.0,OpenSubtitles v2018 / OPUS
+2761,in the night,55,35.0,OpenSubtitles v2018 / OPUS
+2762,don't be ridiculous,55,35.0,OpenSubtitles v2018 / OPUS
+2763,going down,55,35.0,OpenSubtitles v2018 / OPUS
+2764,hold of,55,35.0,OpenSubtitles v2018 / OPUS
+2765,call my,55,35.0,OpenSubtitles v2018 / OPUS
+2766,they're coming,55,35.0,OpenSubtitles v2018 / OPUS
+2767,i know a,55,35.0,OpenSubtitles v2018 / OPUS
+2768,was good,55,35.0,OpenSubtitles v2018 / OPUS
+2769,i've known,55,35.0,OpenSubtitles v2018 / OPUS
+2770,you think he,55,35.0,OpenSubtitles v2018 / OPUS
+2771,don't do it,55,35.0,OpenSubtitles v2018 / OPUS
+2772,sorry i'm,54,34.8,OpenSubtitles v2018 / OPUS
+2773,your problem,54,34.8,OpenSubtitles v2018 / OPUS
+2774,call a,54,34.8,OpenSubtitles v2018 / OPUS
+2775,gonna have a,54,34.8,OpenSubtitles v2018 / OPUS
+2776,so it's,54,34.8,OpenSubtitles v2018 / OPUS
+2777,think a,54,34.8,OpenSubtitles v2018 / OPUS
+2778,let you know,54,34.8,OpenSubtitles v2018 / OPUS
+2779,get any,54,34.8,OpenSubtitles v2018 / OPUS
+2780,it's what,54,34.8,OpenSubtitles v2018 / OPUS
+2781,let us go,54,34.8,OpenSubtitles v2018 / OPUS
+2782,out all,54,34.8,OpenSubtitles v2018 / OPUS
+2783,look like a,54,34.8,OpenSubtitles v2018 / OPUS
+2784,his mind,54,34.8,OpenSubtitles v2018 / OPUS
+2785,deal with,54,34.8,OpenSubtitles v2018 / OPUS
+2786,oh good,54,34.8,OpenSubtitles v2018 / OPUS
+2787,if i can't,54,34.8,OpenSubtitles v2018 / OPUS
+2788,based on,54,34.8,OpenSubtitles v2018 / OPUS
+2789,get an,54,34.8,OpenSubtitles v2018 / OPUS
+2790,isn't the,54,34.8,OpenSubtitles v2018 / OPUS
+2791,was in a,54,34.8,OpenSubtitles v2018 / OPUS
+2792,this in,54,34.8,OpenSubtitles v2018 / OPUS
+2793,what's all,54,34.8,OpenSubtitles v2018 / OPUS
+2794,doesn't seem,54,34.8,OpenSubtitles v2018 / OPUS
+2795,want from,54,34.8,OpenSubtitles v2018 / OPUS
+2796,sure to,54,34.8,OpenSubtitles v2018 / OPUS
+2797,that there's,54,34.8,OpenSubtitles v2018 / OPUS
+2798,don't you worry,54,34.8,OpenSubtitles v2018 / OPUS
+2799,me around,54,34.8,OpenSubtitles v2018 / OPUS
+2800,i get the,54,34.8,OpenSubtitles v2018 / OPUS
+2801,on here,54,34.8,OpenSubtitles v2018 / OPUS
+2802,come out and,54,34.8,OpenSubtitles v2018 / OPUS
+2803,right over,54,34.8,OpenSubtitles v2018 / OPUS
+2804,on like,54,34.8,OpenSubtitles v2018 / OPUS
+2805,i'd better get,54,34.8,OpenSubtitles v2018 / OPUS
+2806,i wouldn't know,54,34.8,OpenSubtitles v2018 / OPUS
+2807,ain't gonna,54,34.8,OpenSubtitles v2018 / OPUS
+2808,that's what he,54,34.8,OpenSubtitles v2018 / OPUS
+2809,you take care of,54,34.8,OpenSubtitles v2018 / OPUS
+2810,work on the,54,34.8,OpenSubtitles v2018 / OPUS
+2811,why i want,54,34.8,OpenSubtitles v2018 / OPUS
+2812,that's why i want,54,34.8,OpenSubtitles v2018 / OPUS
+2813,to give up,54,34.8,OpenSubtitles v2018 / OPUS
+2814,you come from,54,34.8,OpenSubtitles v2018 / OPUS
+2815,you'll stay,54,34.8,OpenSubtitles v2018 / OPUS
+2816,you're out of,54,34.8,OpenSubtitles v2018 / OPUS
+2817,not get,54,34.8,OpenSubtitles v2018 / OPUS
+2818,my wife's,54,34.8,OpenSubtitles v2018 / OPUS
+2819,aren't you going to,54,34.8,OpenSubtitles v2018 / OPUS
+2820,never forget,54,34.8,OpenSubtitles v2018 / OPUS
+2821,i'm tired of,54,34.8,OpenSubtitles v2018 / OPUS
+2822,lives in,54,34.8,OpenSubtitles v2018 / OPUS
+2823,in san,54,34.8,OpenSubtitles v2018 / OPUS
+2824,tell your,54,34.8,OpenSubtitles v2018 / OPUS
+2825,it does not matter,54,34.8,OpenSubtitles v2018 / OPUS
+2826,want them to,54,34.8,OpenSubtitles v2018 / OPUS
+2827,so we're,54,34.8,OpenSubtitles v2018 / OPUS
+2828,that's the end of,54,34.8,OpenSubtitles v2018 / OPUS
+2829,they can't do,54,34.8,OpenSubtitles v2018 / OPUS
+2830,long as i'm,54,34.8,OpenSubtitles v2018 / OPUS
+2831,as long as i'm,54,34.8,OpenSubtitles v2018 / OPUS
+2832,says it's,54,34.8,OpenSubtitles v2018 / OPUS
+2833,out so,54,34.8,OpenSubtitles v2018 / OPUS
+2834,feel it,54,34.8,OpenSubtitles v2018 / OPUS
+2835,good one,54,34.8,OpenSubtitles v2018 / OPUS
+2836,don't wanna live,54,34.8,OpenSubtitles v2018 / OPUS
+2837,i don't wanna live,54,34.8,OpenSubtitles v2018 / OPUS
+2838,and remember,53,34.6,OpenSubtitles v2018 / OPUS
+2839,what on earth,53,34.6,OpenSubtitles v2018 / OPUS
+2840,don't ask,53,34.6,OpenSubtitles v2018 / OPUS
+2841,do you need,53,34.6,OpenSubtitles v2018 / OPUS
+2842,is out,53,34.6,OpenSubtitles v2018 / OPUS
+2843,why you're,53,34.6,OpenSubtitles v2018 / OPUS
+2844,me take,53,34.6,OpenSubtitles v2018 / OPUS
+2845,don't say that,53,34.6,OpenSubtitles v2018 / OPUS
+2846,you to know,53,34.6,OpenSubtitles v2018 / OPUS
+2847,come you,53,34.6,OpenSubtitles v2018 / OPUS
+2848,i've told,53,34.6,OpenSubtitles v2018 / OPUS
+2849,won't tell,53,34.6,OpenSubtitles v2018 / OPUS
+2850,what's happening,53,34.6,OpenSubtitles v2018 / OPUS
+2851,can't say,53,34.6,OpenSubtitles v2018 / OPUS
+2852,my way to,53,34.6,OpenSubtitles v2018 / OPUS
+2853,on my way to,53,34.6,OpenSubtitles v2018 / OPUS
+2854,course it's,53,34.6,OpenSubtitles v2018 / OPUS
+2855,of course it's,53,34.6,OpenSubtitles v2018 / OPUS
+2856,you to take,53,34.6,OpenSubtitles v2018 / OPUS
+2857,everyone in,53,34.6,OpenSubtitles v2018 / OPUS
+2858,want to talk to you,53,34.6,OpenSubtitles v2018 / OPUS
+2859,won't let you,53,34.6,OpenSubtitles v2018 / OPUS
+2860,where do you think,53,34.6,OpenSubtitles v2018 / OPUS
+2861,on top of,53,34.6,OpenSubtitles v2018 / OPUS
+2862,wasn't a,53,34.6,OpenSubtitles v2018 / OPUS
+2863,that sounds,53,34.6,OpenSubtitles v2018 / OPUS
+2864,look into,53,34.6,OpenSubtitles v2018 / OPUS
+2865,back into,53,34.6,OpenSubtitles v2018 / OPUS
+2866,do i get,53,34.6,OpenSubtitles v2018 / OPUS
+2867,them off,53,34.6,OpenSubtitles v2018 / OPUS
+2868,sitting in,53,34.6,OpenSubtitles v2018 / OPUS
+2869,around and,53,34.6,OpenSubtitles v2018 / OPUS
+2870,be on the,53,34.6,OpenSubtitles v2018 / OPUS
+2871,won't be any,53,34.6,OpenSubtitles v2018 / OPUS
+2872,in any case,53,34.6,OpenSubtitles v2018 / OPUS
+2873,do you think i,53,34.6,OpenSubtitles v2018 / OPUS
+2874,you take a,53,34.6,OpenSubtitles v2018 / OPUS
+2875,i'll leave you,53,34.6,OpenSubtitles v2018 / OPUS
+2876,wait until,53,34.6,OpenSubtitles v2018 / OPUS
+2877,no i won't,53,34.6,OpenSubtitles v2018 / OPUS
+2878,bad for,53,34.6,OpenSubtitles v2018 / OPUS
+2879,wish you'd,53,34.6,OpenSubtitles v2018 / OPUS
+2880,over here and,53,34.6,OpenSubtitles v2018 / OPUS
+2881,the back of,53,34.6,OpenSubtitles v2018 / OPUS
+2882,you take the,53,34.6,OpenSubtitles v2018 / OPUS
+2883,i'll bet,53,34.6,OpenSubtitles v2018 / OPUS
+2884,get off the,53,34.6,OpenSubtitles v2018 / OPUS
+2885,he'd be,53,34.6,OpenSubtitles v2018 / OPUS
+2886,look at him,53,34.6,OpenSubtitles v2018 / OPUS
+2887,better off,53,34.6,OpenSubtitles v2018 / OPUS
+2888,call it a,53,34.6,OpenSubtitles v2018 / OPUS
+2889,he's mad,53,34.6,OpenSubtitles v2018 / OPUS
+2890,he's given us,53,34.6,OpenSubtitles v2018 / OPUS
+2891,i don't really,53,34.6,OpenSubtitles v2018 / OPUS
+2892,isn't going,53,34.6,OpenSubtitles v2018 / OPUS
+2893,sure you won't have,53,34.6,OpenSubtitles v2018 / OPUS
+2894,in cold blood,53,34.6,OpenSubtitles v2018 / OPUS
+2895,won't do it,53,34.6,OpenSubtitles v2018 / OPUS
+2896,that's all that,53,34.6,OpenSubtitles v2018 / OPUS
+2897,i should think,53,34.6,OpenSubtitles v2018 / OPUS
+2898,yeah well,53,34.6,OpenSubtitles v2018 / OPUS
+2899,in no time,53,34.6,OpenSubtitles v2018 / OPUS
+2900,a good boy,53,34.6,OpenSubtitles v2018 / OPUS
+2901,hands off,53,34.6,OpenSubtitles v2018 / OPUS
+2902,thing we,53,34.6,OpenSubtitles v2018 / OPUS
+2903,in the old,53,34.6,OpenSubtitles v2018 / OPUS
+2904,on their way,53,34.6,OpenSubtitles v2018 / OPUS
+2905,got on,53,34.6,OpenSubtitles v2018 / OPUS
+2906,in the territory,53,34.6,OpenSubtitles v2018 / OPUS
+2907,really love,52,34.5,OpenSubtitles v2018 / OPUS
+2908,she's the,52,34.5,OpenSubtitles v2018 / OPUS
+2909,to take you,52,34.5,OpenSubtitles v2018 / OPUS
+2910,i'll bring,52,34.5,OpenSubtitles v2018 / OPUS
+2911,just give,52,34.5,OpenSubtitles v2018 / OPUS
+2912,can't give,52,34.5,OpenSubtitles v2018 / OPUS
+2913,getting out of,52,34.5,OpenSubtitles v2018 / OPUS
+2914,know each,52,34.5,OpenSubtitles v2018 / OPUS
+2915,know each other,52,34.5,OpenSubtitles v2018 / OPUS
+2916,remember you,52,34.5,OpenSubtitles v2018 / OPUS
+2917,it's like a,52,34.5,OpenSubtitles v2018 / OPUS
+2918,look at you,52,34.5,OpenSubtitles v2018 / OPUS
+2919,while you're,52,34.5,OpenSubtitles v2018 / OPUS
+2920,i'll call you,52,34.5,OpenSubtitles v2018 / OPUS
+2921,can't believe,52,34.5,OpenSubtitles v2018 / OPUS
+2922,up like,52,34.5,OpenSubtitles v2018 / OPUS
+2923,involved in,52,34.5,OpenSubtitles v2018 / OPUS
+2924,please take,52,34.5,OpenSubtitles v2018 / OPUS
+2925,it's no use,52,34.5,OpenSubtitles v2018 / OPUS
+2926,out for a,52,34.5,OpenSubtitles v2018 / OPUS
+2927,you've done,52,34.5,OpenSubtitles v2018 / OPUS
+2928,i'll find,52,34.5,OpenSubtitles v2018 / OPUS
+2929,no that's,52,34.5,OpenSubtitles v2018 / OPUS
+2930,you've never,52,34.5,OpenSubtitles v2018 / OPUS
+2931,going to give,52,34.5,OpenSubtitles v2018 / OPUS
+2932,we can go,52,34.5,OpenSubtitles v2018 / OPUS
+2933,way back,52,34.5,OpenSubtitles v2018 / OPUS
+2934,through to,52,34.5,OpenSubtitles v2018 / OPUS
+2935,get far without a railroad,52,34.5,OpenSubtitles v2018 / OPUS
+2936,off in,52,34.5,OpenSubtitles v2018 / OPUS
+2937,gun in,52,34.5,OpenSubtitles v2018 / OPUS
+2938,over you,52,34.5,OpenSubtitles v2018 / OPUS
+2939,don't want any,52,34.5,OpenSubtitles v2018 / OPUS
+2940,don't i,52,34.5,OpenSubtitles v2018 / OPUS
+2941,pick up the,52,34.5,OpenSubtitles v2018 / OPUS
+2942,come to see,52,34.5,OpenSubtitles v2018 / OPUS
+2943,just put,52,34.5,OpenSubtitles v2018 / OPUS
+2944,must think,52,34.5,OpenSubtitles v2018 / OPUS
+2945,i thank you,52,34.5,OpenSubtitles v2018 / OPUS
+2946,know whether,52,34.5,OpenSubtitles v2018 / OPUS
+2947,care of it,52,34.5,OpenSubtitles v2018 / OPUS
+2948,only trying,52,34.5,OpenSubtitles v2018 / OPUS
+2949,only trying to,52,34.5,OpenSubtitles v2018 / OPUS
+2950,you tell her,52,34.5,OpenSubtitles v2018 / OPUS
+2951,was out,52,34.5,OpenSubtitles v2018 / OPUS
+2952,work hard,52,34.5,OpenSubtitles v2018 / OPUS
+2953,everybody in,52,34.5,OpenSubtitles v2018 / OPUS
+2954,in our work,52,34.5,OpenSubtitles v2018 / OPUS
+2955,don't expect you to,52,34.5,OpenSubtitles v2018 / OPUS
+2956,down from,52,34.5,OpenSubtitles v2018 / OPUS
+2957,what's he doing,52,34.5,OpenSubtitles v2018 / OPUS
+2958,you've got to do,52,34.5,OpenSubtitles v2018 / OPUS
+2959,all that's,52,34.5,OpenSubtitles v2018 / OPUS
+2960,in touch with,52,34.5,OpenSubtitles v2018 / OPUS
+2961,well what's,52,34.5,OpenSubtitles v2018 / OPUS
+2962,call them,52,34.5,OpenSubtitles v2018 / OPUS
+2963,i think i'd,52,34.5,OpenSubtitles v2018 / OPUS
+2964,know all about,52,34.5,OpenSubtitles v2018 / OPUS
+2965,a good one,52,34.5,OpenSubtitles v2018 / OPUS
+2966,can't afford,52,34.5,OpenSubtitles v2018 / OPUS
+2967,around to,52,34.5,OpenSubtitles v2018 / OPUS
+2968,in every,52,34.5,OpenSubtitles v2018 / OPUS
+2969,i don't expect,52,34.5,OpenSubtitles v2018 / OPUS
+2970,that i don't,52,34.5,OpenSubtitles v2018 / OPUS
+2971,in french,52,34.5,OpenSubtitles v2018 / OPUS
+2972,wanna live anymore,52,34.5,OpenSubtitles v2018 / OPUS
+2973,don't wanna live anymore,52,34.5,OpenSubtitles v2018 / OPUS
+2974,i don't wanna live anymore,52,34.5,OpenSubtitles v2018 / OPUS
+2975,mind your own,51,34.3,OpenSubtitles v2018 / OPUS
+2976,i'll help you,51,34.3,OpenSubtitles v2018 / OPUS
+2977,i'm at,51,34.3,OpenSubtitles v2018 / OPUS
+2978,her in the,51,34.3,OpenSubtitles v2018 / OPUS
+2979,to come here,51,34.3,OpenSubtitles v2018 / OPUS
+2980,fell in,51,34.3,OpenSubtitles v2018 / OPUS
+2981,i found out,51,34.3,OpenSubtitles v2018 / OPUS
+2982,it was just a,51,34.3,OpenSubtitles v2018 / OPUS
+2983,that's better,51,34.3,OpenSubtitles v2018 / OPUS
+2984,i need a,51,34.3,OpenSubtitles v2018 / OPUS
+2985,anything in,51,34.3,OpenSubtitles v2018 / OPUS
+2986,hold on to,51,34.3,OpenSubtitles v2018 / OPUS
+2987,doesn't have,51,34.3,OpenSubtitles v2018 / OPUS
+2988,you're in love,51,34.3,OpenSubtitles v2018 / OPUS
+2989,give it a,51,34.3,OpenSubtitles v2018 / OPUS
+2990,the love,51,34.3,OpenSubtitles v2018 / OPUS
+2991,get to the,51,34.3,OpenSubtitles v2018 / OPUS
+2992,there's been,51,34.3,OpenSubtitles v2018 / OPUS
+2993,away and,51,34.3,OpenSubtitles v2018 / OPUS
+2994,mean by,51,34.3,OpenSubtitles v2018 / OPUS
+2995,you mean by,51,34.3,OpenSubtitles v2018 / OPUS
+2996,i've only,51,34.3,OpenSubtitles v2018 / OPUS
+2997,and i can't,51,34.3,OpenSubtitles v2018 / OPUS
+2998,were right,51,34.3,OpenSubtitles v2018 / OPUS
+2999,care if,51,34.3,OpenSubtitles v2018 / OPUS
+3000,doesn't like,51,34.3,OpenSubtitles v2018 / OPUS

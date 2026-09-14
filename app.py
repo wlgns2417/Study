@@ -3,6 +3,7 @@ from pathlib import Path
 import math
 import html
 import re
+import time
 import pandas as pd
 import streamlit as st
 from deep_translator import GoogleTranslator
@@ -25,7 +26,7 @@ if not core.empty and "expression" in core.columns:
     for _, r in core.iterrows():
         core_map[str(r["expression"]).strip().lower()] = r
 
-# 자주 쓰는 표현은 기계번역보다 자연스러운 뜻/예문을 우선 사용합니다.
+# 자주 쓰는 표현은 자동 번역보다 자연스러운 뜻/예문을 우선 사용합니다.
 CURATED = {
     "i don't": ("나는 ~하지 않아", "I don't think so.", "난 그렇게 생각하지 않아."),
     "you know": ("알잖아 / 있잖아", "You know what I mean.", "내 말 무슨 뜻인지 알잖아."),
@@ -34,17 +35,10 @@ CURATED = {
     "want to": ("~하고 싶다", "I want to go home.", "집에 가고 싶어."),
     "come on": ("에이 / 제발 / 빨리", "Come on, we're late.", "빨리, 우리 늦었어."),
     "i know": ("알아", "I know how you feel.", "네 기분이 어떤지 알아."),
-    "out of": ("~이 떨어진 / ~밖으로", "We're out of time.", "우리 시간이 다 됐어."),
     "don't know": ("모르겠어", "I don't know yet.", "아직 모르겠어."),
-    "you want": ("너는 ~을 원해 / ~하고 싶어", "You want to try it?", "이거 해보고 싶어?"),
     "i think": ("내 생각엔 / ~인 것 같아", "I think you're right.", "네 말이 맞는 것 같아."),
-    "you don't": ("너는 ~하지 않아", "You don't have to go.", "너 갈 필요 없어."),
-    "to get": ("~을 얻으려고 / ~하게 되다", "I need to get some sleep.", "나 좀 자야 해."),
     "don't you": ("~하지 않아? / 그렇지?", "Don't you remember?", "기억 안 나?"),
     "i'm not": ("나는 ~이 아니야 / ~하지 않아", "I'm not ready yet.", "난 아직 준비 안 됐어."),
-    "i want": ("나는 원해 / ~하고 싶어", "I want some coffee.", "커피 좀 마시고 싶어."),
-    "you think": ("너는 ~라고 생각해", "You think so?", "그렇게 생각해?"),
-    "i didn't": ("나는 ~하지 않았어", "I didn't mean that.", "그런 뜻은 아니었어."),
     "i can't": ("나는 ~할 수 없어", "I can't do this alone.", "이건 혼자 못 하겠어."),
     "let me": ("내가 ~하게 해줘 / 내가 ~할게", "Let me check.", "내가 확인해볼게."),
     "don't want to": ("~하고 싶지 않아", "I don't want to leave.", "나 가고 싶지 않아."),
@@ -96,21 +90,8 @@ CURATED = {
     "could you": ("~해주시겠어요?", "Could you say that again?", "다시 말씀해주시겠어요?"),
 }
 
-# 정말 의미가 거의 없는 조각만 제외. 나머지는 최대한 모두 표시합니다.
 BLOCKED = {"of the", "in the", "to the", "and the", "for the", "on the", "at the", "from the"}
 
-@st.cache_data(ttl=60*60*24*30, show_spinner=False)
-def translate_batch_cached(items):
-    items = list(items)
-    if not items:
-        return []
-    try:
-        result = GoogleTranslator(source="en", target="ko").translate_batch(items)
-        if isinstance(result, list) and len(result) == len(items):
-            return result
-    except Exception:
-        pass
-    return ["뜻을 불러오지 못했습니다" for _ in items]
 
 def core_info(key):
     if key not in core_map:
@@ -119,122 +100,249 @@ def core_info(key):
     meaning = str(r.get("meaning", "")).strip()
     ex_en = str(r.get("example_en", "")).strip()
     ex_ko = str(r.get("example_ko", "")).strip()
+    nuance = str(r.get("nuance", "")).strip()
+    similar = str(r.get("similar", "")).strip()
     if not meaning or meaning.lower() == "nan":
         return None
-    return (
-        meaning,
-        "" if ex_en.lower() == "nan" else ex_en,
-        "" if ex_ko.lower() == "nan" else ex_ko,
-    )
+    return {
+        "meaning": meaning,
+        "example_en": "" if ex_en.lower() == "nan" else ex_en,
+        "example_ko": "" if ex_ko.lower() == "nan" else ex_ko,
+        "nuance": "" if nuance.lower() == "nan" else nuance,
+        "similar": "" if similar.lower() == "nan" else similar,
+    }
+
+
+@st.cache_data(ttl=60*60*24*30, show_spinner=False)
+def translate_one(text):
+    text = str(text).strip()
+    if not text:
+        return ""
+    # Google 번역을 여러 번 시도해 페이지 일부가 비는 문제를 줄입니다.
+    for _ in range(3):
+        try:
+            result = GoogleTranslator(source="en", target="ko").translate(text)
+            if result and str(result).strip():
+                return str(result).strip()
+        except Exception:
+            time.sleep(0.25)
+    return "번역을 다시 시도해 주세요"
+
+
+@st.cache_data(ttl=60*60*24*30, show_spinner=False)
+def translate_many(items_tuple):
+    items = [str(x).strip() for x in items_tuple]
+    if not items:
+        return []
+    results = [""] * len(items)
+    # 먼저 batch 번역, 실패한 항목만 개별 재시도합니다.
+    try:
+        batch = GoogleTranslator(source="en", target="ko").translate_batch(items)
+        if isinstance(batch, list):
+            for i, val in enumerate(batch[:len(items)]):
+                if val and str(val).strip():
+                    results[i] = str(val).strip()
+    except Exception:
+        pass
+    for i, item in enumerate(items):
+        if not results[i]:
+            results[i] = translate_one(item)
+    return results
+
 
 def make_example(exp):
-    k = exp.strip().lower()
-    cap = exp[:1].upper() + exp[1:]
-
+    k = str(exp).strip().lower()
+    cap = str(exp).strip()[:1].upper() + str(exp).strip()[1:]
+    if k in CURATED:
+        return CURATED[k][1]
     if k.endswith(" to"):
-        if re.match(r"^(i|you|we|they|he|she)\b", k):
-            return cap + " go home."
-        return "I " + k + " go home."
-
-    endings = {
-        "don't": " know.", "won't": " do that.", "can't": " do it.",
-        "didn't": " mean it.", "haven't": " seen it yet.", "wouldn't": " do that.",
-    }
-    for ending, tail in endings.items():
-        if k.endswith(ending):
-            return cap + tail
-
+        return cap + " go home."
     if re.match(r"^(what|why|how|where|when|who|are|do|did|can|could|would|will|is|isn't|aren't|don't|didn't)\b", k):
         return cap.rstrip("?.!") + "?"
-
     if re.match(r"^(come|go|get|take|give|look|hold|wait|tell|call|try|keep|stop|let|remember|forget|listen|watch|check|help|follow)\b", k):
         return cap.rstrip(".?!") + "."
-
     if re.match(r"^(i|you|we|they|he|she|it)\b", k):
         return cap.rstrip(".?!") + "."
+    return f"People often say ‘{exp}’ in everyday conversation."
 
-    return f"I often hear people say, ‘{exp}.’"
+
+def phrase_data(exp):
+    key = str(exp).strip().lower()
+    ci = core_info(key)
+    if ci:
+        return ci
+    if key in CURATED:
+        m, ee, ek = CURATED[key]
+        return {"meaning": m, "example_en": ee, "example_ko": ek, "nuance": "", "similar": ""}
+    example = make_example(exp)
+    meaning, example_ko = translate_many((str(exp), example))
+    return {"meaning": meaning, "example_en": example, "example_ko": example_ko, "nuance": "", "similar": ""}
+
+
+def generic_nuance(exp):
+    k = str(exp).strip().lower()
+    if "'" in k:
+        return "축약형이 들어간 자연스러운 회화 표현입니다. 말할 때 매우 자주 들을 수 있습니다."
+    if len(k.split()) <= 2:
+        return "짧게 자주 쓰이는 회화 조합입니다. 문맥에 따라 한국어 뜻이 조금 달라질 수 있습니다."
+    return "일상 대화에서 통째로 익혀 두면 듣기와 말하기에 도움이 되는 표현입니다."
+
 
 st.markdown("""
 <style>
 .block-container{max-width:1600px;padding-top:1rem}
-.card{border:1px solid rgba(120,120,120,.28);border-radius:14px;padding:13px 15px;min-height:150px;margin-bottom:10px}
+.card{border:1px solid rgba(120,120,120,.28);border-radius:14px;padding:13px 15px;min-height:150px;margin-bottom:8px}
 .card .e{font-size:20px;font-weight:800;line-height:1.25}
 .card .ko{font-size:14px;font-weight:750;margin-top:8px;color:#67c5ff;line-height:1.35}
 .card .ex{font-size:12px;opacity:.86;margin-top:12px;line-height:1.5}
 .card .exko{font-size:12px;opacity:.66;line-height:1.45;margin-top:2px}
+.detail-box{border:1px solid rgba(120,120,120,.3);border-radius:16px;padding:22px;margin-top:10px}
 </style>
 """, unsafe_allow_html=True)
 
+if "page" not in st.session_state:
+    st.session_state.page = 1
+if "selected_phrase" not in st.session_state:
+    st.session_state.selected_phrase = None
+
+# -------------------- 상세 페이지 --------------------
+if st.session_state.selected_phrase:
+    exp = st.session_state.selected_phrase
+    data = phrase_data(exp)
+    st.title(f"🗣️ {exp}")
+    if st.button("← 목록으로 돌아가기", use_container_width=False):
+        st.session_state.selected_phrase = None
+        st.rerun()
+
+    st.markdown(f"## 🇰🇷 {data['meaning']}")
+    st.markdown("### 뉘앙스")
+    st.write(data.get("nuance") or generic_nuance(exp))
+
+    st.markdown("### 대표 예문")
+    st.markdown(f"**{data['example_en']}**")
+    st.write(data['example_ko'])
+
+    # 추가 예문은 원 표현을 포함한 간단한 문장으로 2개 더 제공합니다.
+    extra_en = [
+        f"I often hear people say ‘{exp}’ in conversation.",
+        f"You can use ‘{exp}’ naturally in the right situation.",
+    ]
+    extra_ko = translate_many(tuple(extra_en))
+    for ee, ek in zip(extra_en, extra_ko):
+        st.markdown(f"- **{ee}**  \n  {ek}")
+
+    if data.get("similar"):
+        st.markdown("### 비슷한 표현")
+        st.write(data["similar"])
+
+    st.markdown("### 학습 팁")
+    st.write("뜻만 외우기보다 위 예문을 소리 내어 3번 읽고, 주어·목적어만 바꿔서 한 문장 더 만들어 보세요.")
+    st.stop()
+
+# -------------------- 목록 페이지 --------------------
 st.title("🗣️ Speak English")
-st.caption("자주 쓰는 영어 표현 · 한국어 뜻 · 예문")
+st.caption("자주 쓰는 영어 표현 · 한국어 뜻 · 실제 사용 예문")
 
 if mined.empty:
     st.warning("mined_phrases.csv가 없습니다.")
-else:
-    c1, c2 = st.columns([3,1])
-    q = c1.text_input("검색", placeholder="don't worry / figure out")
-    per = c2.selectbox("한 화면", [20,30,40,50], index=3)
+    st.stop()
 
-    f = mined.copy()
-    f["key"] = f["expression"].astype(str).str.strip().str.lower()
-    f = f[~f["key"].isin(BLOCKED)].copy()
+c1, c2 = st.columns([3,1])
+q = c1.text_input("검색", placeholder="don't worry / 걱정하지 마")
+per = c2.selectbox("한 화면", [20,30,40,50], index=3)
 
-    if q:
-        qq = q.strip().lower()
-        f = f[f["expression"].astype(str).str.lower().str.contains(qq, regex=False)]
+f = mined.copy()
+f["key"] = f["expression"].astype(str).str.strip().str.lower()
+f = f[~f["key"].isin(BLOCKED)].copy()
 
-    pages = max(1, math.ceil(len(f) / per))
-    page = st.number_input("페이지", min_value=1, max_value=pages, value=1)
-    view = f.iloc[(page-1)*per:page*per].copy()
+# 검색을 위해 현재 전체 표현의 한국어 뜻을 모두 미리 번역하지는 않습니다.
+# 영어 검색은 즉시, 한국어 검색은 현재 준비된 curated/core 뜻에서 우선 처리합니다.
+if q:
+    qq = q.strip().lower()
+    prepared_meaning = f["key"].map(lambda k: (core_info(k) or {}).get("meaning", CURATED.get(k, ("", "", ""))[0]))
+    mask = f["expression"].astype(str).str.lower().str.contains(qq, regex=False) | prepared_meaning.astype(str).str.lower().str.contains(qq, regex=False)
+    f = f[mask].copy()
 
-    # 현재 화면에 보이는 카드만 자동 번역하므로 3,000개를 한 번에 호출하지 않습니다.
-    unknown = []
-    for _, r in view.iterrows():
-        key = str(r["key"])
-        if core_info(key) is None and key not in CURATED:
-            unknown.append(str(r["expression"]))
+pages = max(1, math.ceil(len(f) / per))
+st.session_state.page = min(max(1, int(st.session_state.page)), pages)
 
-    translated = translate_batch_cached(tuple(unknown))
-    auto_ko = dict(zip([x.strip().lower() for x in unknown], translated))
+# 숫자 직접 입력 기능 유지
+page_input = st.number_input("페이지 직접 이동", min_value=1, max_value=pages, value=st.session_state.page, step=1)
+if int(page_input) != st.session_state.page:
+    st.session_state.page = int(page_input)
+    st.rerun()
 
-    cards = []
-    examples_to_translate = []
-    for _, r in view.iterrows():
-        exp = str(r["expression"])
-        key = str(r["key"])
-        info = core_info(key)
-        if info is None:
-            info = CURATED.get(key)
+start = (st.session_state.page - 1) * per
+view = f.iloc[start:start+per].copy()
 
-        if info is not None:
-            meaning, ex_en, ex_ko = info
-        else:
-            meaning = auto_ko.get(key, "뜻을 불러오지 못했습니다")
-            ex_en = make_example(exp)
-            ex_ko = ""
-            examples_to_translate.append(ex_en)
+# 현재 페이지 50개는 뜻/예문을 최대한 모두 채웁니다.
+missing_exp = []
+missing_example = []
+row_data = []
+for _, r in view.iterrows():
+    exp = str(r["expression"]).strip()
+    key = exp.lower()
+    ci = core_info(key)
+    if ci:
+        row_data.append([exp, ci["meaning"], ci["example_en"] or make_example(exp), ci["example_ko"], ci.get("nuance", ""), ci.get("similar", "")])
+    elif key in CURATED:
+        m, ee, ek = CURATED[key]
+        row_data.append([exp, m, ee, ek, "", ""])
+    else:
+        ee = make_example(exp)
+        missing_exp.append(exp)
+        missing_example.append(ee)
+        row_data.append([exp, None, ee, None, "", ""])
 
-        cards.append([exp, meaning, ex_en, ex_ko])
+if missing_exp:
+    translations = translate_many(tuple(missing_exp + missing_example))
+    n = len(missing_exp)
+    meaning_map = dict(zip(missing_exp, translations[:n]))
+    example_map = dict(zip(missing_exp, translations[n:]))
+    for item in row_data:
+        if item[1] is None:
+            item[1] = meaning_map.get(item[0], "번역을 다시 시도해 주세요")
+            item[3] = example_map.get(item[0], "번역을 다시 시도해 주세요")
 
-    if examples_to_translate:
-        translated_examples = translate_batch_cached(tuple(examples_to_translate))
-        it = iter(translated_examples)
-        for card in cards:
-            if not card[3]:
-                card[3] = next(it, "")
+st.caption(f"총 {len(f):,}개 표현 · 현재 {len(view)}개 표시 · {st.session_state.page}/{pages} 페이지")
 
-    st.caption(f"총 {len(f):,}개 표현 · 현재 {len(view)}개 표시 · {page}/{pages} 페이지")
-    cols = st.columns(5)
+cols = st.columns(5)
+for i, item in enumerate(row_data):
+    exp, meaning, ex_en, ex_ko, _, _ = item
+    with cols[i % 5]:
+        st.markdown(
+            f'''<div class="card">
+            <div class="e">{html.escape(exp)}</div>
+            <div class="ko">{html.escape(str(meaning))}</div>
+            <div class="ex">💬 {html.escape(str(ex_en))}</div>
+            <div class="exko">{html.escape(str(ex_ko))}</div>
+            </div>''',
+            unsafe_allow_html=True,
+        )
+        if st.button("자세히 보기", key=f"detail_{st.session_state.page}_{i}_{exp}", use_container_width=True):
+            st.session_state.selected_phrase = exp
+            st.rerun()
 
-    for i, (exp, meaning, ex_en, ex_ko) in enumerate(cards):
-        with cols[i % 5]:
-            st.markdown(
-                f'''<div class="card">
-                <div class="e">{html.escape(str(exp))}</div>
-                <div class="ko">{html.escape(str(meaning))}</div>
-                <div class="ex">💬 {html.escape(str(ex_en))}</div>
-                <div class="exko">{html.escape(str(ex_ko))}</div>
-                </div>''',
-                unsafe_allow_html=True,
-            )
+# -------------------- 페이지 번호 네비게이션 --------------------
+st.divider()
+current = st.session_state.page
+block_start = ((current - 1) // 5) * 5 + 1
+nums = list(range(block_start, min(block_start + 5, pages + 1)))
+nav_cols = st.columns(len(nums) + 2)
+
+with nav_cols[0]:
+    if st.button("◀ 이전", disabled=(current == 1), use_container_width=True):
+        st.session_state.page = max(1, current - 1)
+        st.rerun()
+
+for idx, p in enumerate(nums, start=1):
+    with nav_cols[idx]:
+        label = f"● {p}" if p == current else str(p)
+        if st.button(label, key=f"page_{p}", use_container_width=True):
+            st.session_state.page = p
+            st.rerun()
+
+with nav_cols[-1]:
+    if st.button("다음 ▶", disabled=(current == pages), use_container_width=True):
+        st.session_state.page = min(pages, current + 1)
+        st.rerun()

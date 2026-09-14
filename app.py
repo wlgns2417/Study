@@ -3,6 +3,7 @@ from pathlib import Path
 
 import streamlit as st
 
+from daily_study import render_daily_study
 from expression_tab import render_expression_tab
 from word_tab import render_word_tab
 
@@ -17,17 +18,24 @@ st.markdown("""
 .card .ko{font-size:14px;font-weight:750;margin-top:8px;color:#67c5ff;line-height:1.35}
 .card .ex{font-size:12px;opacity:.84;margin-top:12px;line-height:1.5}
 .card .meta{font-size:11px;opacity:.58;margin-top:5px;text-transform:uppercase;letter-spacing:.03em}
+.card .study-no{font-size:10px;font-weight:800;opacity:.48;margin-bottom:7px;letter-spacing:.08em}
 .word-card{min-height:165px}
 .page-caption{opacity:.72;font-size:13px;margin:8px 0 12px 0}
+.day-hero{border:1px solid rgba(120,120,120,.25);border-radius:18px;padding:18px 22px;margin:10px 0 18px 0;background:rgba(120,120,120,.05)}
+.day-title{font-size:30px;font-weight:900;line-height:1.1}
+.day-sub{font-size:14px;opacity:.78;margin-top:8px}
 div[data-baseweb="tab-list"]{gap:10px}
 button[data-baseweb="tab"]{font-size:16px;font-weight:750}
 </style>
 """, unsafe_allow_html=True)
 
 st.title("🗣️ Speak English")
-st.caption("실제 영어 회화에서 자주 쓰이는 표현과 단어를 빈도 기반으로 학습합니다.")
+st.caption("DAY 1부터 하루 40개씩 · 회화 단어 20개 + 회화 표현 20개")
 
-phrase_tab, word_tab = st.tabs(["💬 회화 표현", "📚 회화 단어"])
+day_tab, phrase_tab, word_tab = st.tabs(["🔥 DAY 학습", "💬 전체 회화 표현", "📚 전체 회화 단어"])
+
+with day_tab:
+    render_daily_study(BASE)
 
 with phrase_tab:
     st.caption("OpenSubtitles에서 발굴한 자주 쓰는 구어체 표현 · 한국어 뜻 · 실제 사용 예문")

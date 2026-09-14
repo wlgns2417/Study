@@ -3,9 +3,11 @@ from pathlib import Path
 
 import streamlit as st
 
-from daily_study import render_daily_study
+# 기존 탭 모듈을 먼저 초기화한 뒤 DAY 모듈을 불러와 Streamlit Cloud의
+# 모듈 캐시/배포 시점에 따른 import 충돌을 방지합니다.
 from expression_tab import render_expression_tab
 from word_tab import render_word_tab
+from daily_study import render_daily_study
 
 st.set_page_config(page_title="Speak English", page_icon="🗣️", layout="wide")
 BASE = Path(__file__).resolve().parent

@@ -7,17 +7,46 @@ import re
 import pandas as pd
 import streamlit as st
 
-from expression_tab import CURATED, PHRASAL, WORD, load_expression_data
-from word_tab import apply_conversation_polish, load_word_data
+# Streamlit Cloud에서 named import가 이전 모듈 캐시와 충돌하는 경우를 피하기 위해
+# 모듈 자체를 import하고 필요한 속성을 런타임에 안전하게 조회합니다.
+import expression_tab as expression_module
+import word_tab as word_module
 
 WORDS_PER_DAY = 20
 EXPRESSIONS_PER_DAY = 20
 
 
+def _load_words(base_dir: Path) -> pd.DataFrame:
+    """word_tab 버전에 관계없이 DAY 학습용 단어 데이터를 안전하게 불러옵니다."""
+    loader = getattr(word_module, "load_word_data", None)
+    if callable(loader):
+        words, _ = loader(str(base_dir))
+    else:
+        path = base_dir / "conversation_words.csv"
+        words = pd.read_csv(path) if path.exists() else pd.DataFrame()
+
+    polish = getattr(word_module, "apply_conversation_polish", None)
+    if callable(polish) and not words.empty:
+        words = polish(words)
+    return words
+
+
 def _build_expression_frame(base_dir: Path) -> pd.DataFrame:
-    mined, core = load_expression_data(str(base_dir))
+    loader = getattr(expression_module, "load_expression_data", None)
+    if callable(loader):
+        mined, core = loader(str(base_dir))
+    else:
+        mined_path = base_dir / "mined_phrases.csv"
+        core_path = base_dir / "phrases.csv"
+        mined = pd.read_csv(mined_path) if mined_path.exists() else pd.DataFrame()
+        core = pd.read_csv(core_path) if core_path.exists() else pd.DataFrame()
+
     if mined.empty:
         return pd.DataFrame(columns=["expression", "meaning_ko", "example_en"])
+
+    curated = getattr(expression_module, "CURATED", {})
+    phrasal = getattr(expression_module, "PHRASAL", {})
+    word_map = getattr(expression_module, "WORD", {})
 
     core_map = {}
     if not core.empty and "expression" in core.columns:
@@ -32,10 +61,10 @@ def _build_expression_frame(base_dir: Path) -> pd.DataFrame:
             meaning = str(core_map[key].get("meaning", "")).strip()
             if meaning and meaning.lower() != "nan":
                 return meaning
-        if key in CURATED:
-            return CURATED[key][0]
-        if key in PHRASAL:
-            return PHRASAL[key]
+        if key in curated:
+            return curated[key][0]
+        if key in phrasal:
+            return phrasal[key]
 
         patterns = [
             (r"^i want to\b", "나는 ~하고 싶어"), (r"^you want to\b", "너는 ~하고 싶어"),
@@ -53,10 +82,10 @@ def _build_expression_frame(base_dir: Path) -> pd.DataFrame:
         ]
         for pattern, base in patterns:
             if re.search(pattern, key):
-                tail = [WORD[w] for w in key.split() if w in WORD][-2:]
+                tail = [word_map[w] for w in key.split() if w in word_map][-2:]
                 return base + ((" · " + " / ".join(tail)) if tail else "")
 
-        parts = [WORD[w] for w in key.split() if w in WORD]
+        parts = [word_map[w] for w in key.split() if w in word_map]
         if parts:
             return " ".join(parts) + " · 문맥에 따라 자연스럽게 해석"
         return "일상 회화에서 문맥에 따라 뜻이 달라지는 표현"
@@ -67,8 +96,8 @@ def _build_expression_frame(base_dir: Path) -> pd.DataFrame:
             example = str(core_map[key].get("example_en", "")).strip()
             if example and example.lower() != "nan":
                 return example
-        if key in CURATED:
-            return CURATED[key][1]
+        if key in curated:
+            return curated[key][1]
         if key.endswith(" to"):
             return f"I {key} go home."
         if re.match(r"^(what|why|how|where|when|who|are|do|did|can|could|would|will|is|isn't|aren't|don't|didn't)\b", key):
@@ -77,7 +106,7 @@ def _build_expression_frame(base_dir: Path) -> pd.DataFrame:
             return str(exp)[:1].upper() + str(exp)[1:].rstrip(".?!") + "."
         if re.match(r"^(i|you|we|they|he|she|it)\b", key):
             return str(exp)[:1].upper() + str(exp)[1:].rstrip(".?!") + "."
-        return f"You'll hear “{exp}” a lot in everyday conversation."
+        return f"You'll hear ‘{exp}’ a lot in everyday conversation."
 
     frame = mined.copy()
     frame["expression"] = frame["expression"].astype(str).str.strip()
@@ -89,8 +118,7 @@ def _build_expression_frame(base_dir: Path) -> pd.DataFrame:
 @st.cache_data
 def _daily_frames(base_dir: str):
     base = Path(base_dir)
-    words, _ = load_word_data(str(base))
-    words = apply_conversation_polish(words)
+    words = _load_words(base)
     expressions = _build_expression_frame(base)
     return words, expressions
 
@@ -143,10 +171,10 @@ def render_daily_study(base_dir: Path):
         key="daily_day",
     )
     top2.metric("오늘의 목표", "40개", "단어 20 + 표현 20")
-    learned_before = min((day - 1) * (WORDS_PER_DAY + EXPRESSIONS_PER_DAY), len(words) + len(expressions))
-    top3.metric("여기까지 학습량", f"{learned_before + 40:,}개", f"전체 {len(words) + len(expressions):,}개")
+    learned_now = len(words.iloc[:day * WORDS_PER_DAY]) + len(expressions.iloc[:day * EXPRESSIONS_PER_DAY])
+    top3.metric("여기까지 학습량", f"{learned_now:,}개", f"전체 {len(words) + len(expressions):,}개")
 
-    overall = min((day * (WORDS_PER_DAY + EXPRESSIONS_PER_DAY)) / max(1, len(words) + len(expressions)), 1.0)
+    overall = min(learned_now / max(1, len(words) + len(expressions)), 1.0)
     st.progress(overall, text=f"DAY {day} · 전체 커리큘럼 {overall * 100:.1f}%")
     st.markdown(
         f'<div class="day-hero"><div class="day-title">DAY {day}</div>'
